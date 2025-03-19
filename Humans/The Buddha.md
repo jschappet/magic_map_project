@@ -22,7 +22,7 @@ The Buddha's teachings remain profoundly relevant today, advocating mindfulness 
 ### Videos
 - **"The Buddha" (PBS Documentary)** - A documentary exploring the life and teachings of the Buddha.
 - **"Introduction to Buddhism" by Alan Watts** - A series of lectures discussing Buddhist philosophy.
-- **"Mindfulness Meditation" by Jon Kabat-Zinn** - A guide to practicing mindfulness based on Buddhist principles.
+- **"Mindfulness Meditation" by [[Jon Kabat-Zinn]]** - A guide to practicing mindfulness based on Buddhist principles.
 
 ## Location
 - **Bodh Gaya, India** - The site where the Buddha attained enlightenment under the Bodhi tree, now a significant pilgrimage destination for Buddhists worldwide.

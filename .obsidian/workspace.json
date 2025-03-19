@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Art Culture/Movies/index.md",
+                "file": "Technology/AI & Animal Communication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "AI & Animal Communication"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Love",
+                "query": "tag:#TOBE_REVIEWED",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Art Culture/Movies/index.md",
+                "file": "Technology/AI & Animal Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for AI & Animal Communication"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Art Culture/Movies/index.md",
+                "file": "Technology/AI & Animal Communication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of AI & Animal Communication"
             }
           },
           {
@@ -217,6 +217,17 @@
   },
   "active": "bdee4b02d0e5739a",
   "lastOpenFiles": [
+    "Disclosure NHI UAP/index.md",
+    "Technology/AI & Animal Communication.md",
+    "templates/Template - Human.md",
+    "templates/Template - Movie.md",
+    "Humans/Carl Jung.md",
+    "Humans/index.md",
+    "Humans/Jon Kabat-Zinn.md",
+    "Humans/The Buddha.md",
+    "Movements/Human Potential Movement.md",
+    "Humans/Baha’u’llah.md",
+    "Music Art Culture/Movies/index.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
@@ -229,7 +240,6 @@
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
     "quartz/public/tags/index.html",
-    "quartz/public/tags/Atman.html",
     "Philosophy/index.md",
     "Politics Civics/index.md",
     "Science/index.md",
@@ -245,16 +255,6 @@
     "Music Art Culture/Movies/Contact.md",
     "Music Art Culture/Movies/Everything Everywhere All at Once.md",
     "Music Art Culture/Movies/Omni Loop.md",
-    "Music Art Culture/Movies/Presence.md",
-    "Music Art Culture/Movies/The Fountain.md",
-    "Music Art Culture/Movies/The Tree of Life.md",
-    "Music Art Culture/Movies/Cocoon.md",
-    "Music Art Culture/Movies/Arrival.md",
-    "Music Art Culture/Movies/Annihilation.md",
-    "Music Art Culture/Movies/A Monster Calls.md",
-    "Music Art Culture/Movies/index.md",
-    "Music Art Culture/Movies/Mickey 17.md",
-    "templates/Template - Human.md",
     "quartz/public/quartz/docs/images/social-image-preview-light.png",
     "quartz/public/quartz/docs/images/custom-social-image-preview-light.png",
     "quartz/public/quartz/docs/images/social-image-preview-dark.png",
