@@ -1,0 +1,1 @@
+Relevance: Encourages recognition of consciousness as reality’s foundation, inspiring self-realization and growth.

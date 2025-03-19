@@ -1,0 +1,1 @@
+- Relevance: Focuses on the connection between heart coherence, emotional well-being, and unlocking human potential.

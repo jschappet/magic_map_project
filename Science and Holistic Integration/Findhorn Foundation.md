@@ -1,0 +1,1 @@
+ Relevance: Promotes sustainable living, spiritual awakening, and human growth through connection with nature.

@@ -1,0 +1,1 @@
+Relevance: Asserts the primacy of consciousness (Brahman) and encourages self-realization as a path to unlocking limitless potential.

@@ -1,0 +1,1 @@
+ Relevance: Combines spiritual practice and personal empowerment, emphasizing the divine potential within everyone.

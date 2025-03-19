@@ -1,0 +1,1 @@
+Relevance: Based on Ken Wilber’s Integral Theory, this movement integrates diverse perspectives to unlock higher levels of personal and collective potential.
