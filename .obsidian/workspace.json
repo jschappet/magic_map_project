@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "86da3a2e6c4c2be8",
+        "id": "bee345f9e14eb6f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c74d48819bb8283c",
+            "id": "b8462a0b0c65a9bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bdee4b02d0e5739a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Institute of Noetic Sciences (IONS).md",
+                "file": "Media/Movies/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Institute of Noetic Sciences (IONS)"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humans/Adi Shankaracharya.md",
+                "file": "Media/Movies/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adi Shankaracharya"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -152,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Institute of Noetic Sciences (IONS).md",
+                "file": "Media/Movies/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Institute of Noetic Sciences (IONS)"
+              "title": "Outline of index"
             }
           },
           {
@@ -185,8 +196,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,32 +210,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c74d48819bb8283c",
+  "active": "bdee4b02d0e5739a",
   "lastOpenFiles": [
-    "Organizations/Esalen Institute.md",
-    "Humans/Tom Campbell.md",
+    "Media/Movies/Mickey 17.md",
+    "Media/Movies/index.md",
+    "Media/Movies/Presence.md",
+    "templates/Template - Human.md",
+    "templates/Template - Movie.md",
+    "Media/Movies/Omni Loop.md",
+    "Media/Movies/Everything Everywhere All at Once.md",
+    "Media/Movies/The Tree of Life.md",
+    "Media/Movies/Melancholia.md",
+    "Media/Movies/Annihilation.md",
+    "Media/Movies/Arrival.md",
+    "Media/Movies/Coherence.md",
+    "Media/Movies/The Fountain.md",
+    "Media/Movies/Cocoon.md",
+    "Media/Movies/A Monster Calls.md",
+    "Media/Movies/Contact.md",
+    "Media/Movies/What Dream May Come.md",
+    "Media/Movies/Another Earth.md",
+    "Media/Movies",
+    "Media",
+    "Humans/Adi Shankaracharya.md",
+    "templates/Template - Daily Note.md",
+    "Untitled.md",
+    "+Daily Notes.md",
+    "DailyNotes",
+    "index.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
-    "quartz/public/static/giscus/dark.css",
     "quartz/public/static/giscus/light.css",
+    "quartz/public/static/giscus/dark.css",
     "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png",
     "quartz/public/static/giscus",
+    "quartz/public/static/icon.png",
     "quartz/public/static/contentIndex.json",
     "quartz/public/static",
-    "quartz/public/index.xml",
-    "quartz/public/sitemap.xml",
-    "quartz/public/tags/index.html",
-    "Humans/Rumi.md",
-    "Humans/Ram Dass.md",
-    "index.md",
-    "Movements/Integral Movement.md",
-    "Movements/Transcendental Meditation Movement.md",
-    "Movements/Quantum Consciousness Movement.md",
-    "Movements/Perennial Philosophy Movement.md",
+    "Organizations/Institute of Noetic Sciences (IONS).md",
+    "Organizations/Esalen Institute.md",
+    "Humans/Tom Campbell.md",
     "quartz/public/quartz/docs/images/social-image-preview-light.png",
     "quartz/public/quartz/docs/images/custom-social-image-preview-light.png",
     "quartz/public/quartz/docs/images/social-image-preview-dark.png",
@@ -233,23 +261,6 @@
     "quartz/public/quartz/docs/images/quartz-layout-tablet.png",
     "quartz/public/quartz/docs/images/quartz-layout-mobile.png",
     "quartz/public/quartz/docs/images/quartz-layout-desktop.png",
-    "quartz/public/quartz/docs/images/github-quick-setup.png",
-    "Introduction.md",
-    "quartz/README.md",
-    "quartz/CODE_OF_CONDUCT.md",
-    "quartz/docs/tags/plugin.md",
-    "quartz/docs/tags/component.md",
-    "quartz/docs/plugins/index.md",
-    "quartz/docs/plugins/TagPage.md",
-    "quartz/docs/plugins/TableOfContents.md",
-    "quartz/docs/plugins/SyntaxHighlighting.md",
-    "quartz/docs/plugins/Static.md",
-    "quartz/docs/plugins/RoamFlavoredMarkdown.md",
-    "quartz/docs/plugins/RemoveDrafts.md",
-    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
-    "quartz/docs/plugins/ObsidianFlavoredMarkdown.md",
-    "quartz/docs/plugins/NotFoundPage.md",
-    "quartz/docs/plugins/Latex.md",
-    "quartz/docs/plugins/HardLineBreaks.md"
+    "quartz/public/quartz/docs/images/github-quick-setup.png"
   ]
 }

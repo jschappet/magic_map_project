@@ -1,3 +1,6 @@
+---
+title: Magic Map of Conciseness
+---
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_5bDoeOpLJqlA5v-x_o-eRL7nRSnmQsARlAptJ2d6R9_ixMmI6xUx9Zb4u42jn1oWv5YD6YF2ZI-rK6NhevAjtwynUPyptQj5ZvmoOQ1vd-zgcY3Q_oVesV5rMY1ipJHqCNNg?key=mHxif67s1d3mzkJ9ywzHK0fQ)
 

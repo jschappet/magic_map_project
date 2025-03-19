@@ -1,4 +1,7 @@
 [
   "OA-file-hider",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "obsidian-meta-bind-plugin"
 ]
