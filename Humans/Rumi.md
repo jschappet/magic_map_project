@@ -1,6 +1,3 @@
-markdown
-# Humans/Rumi
-
 ## Introduction
 Jalal ad-Din Muhammad Rumi, commonly known as Rumi, was a 13th-century Persian poet, Islamic scholar, and Sufi mystic. His work transcends cultural and religious boundaries, exploring themes of love, unity, and the divine connection between humans and the universe. Rumi's poetry has inspired millions across the globe, inviting readers to delve into the depths of their own hearts and discover the transformative power of love.
 

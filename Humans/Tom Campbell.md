@@ -1,6 +1,3 @@
-markdown
-# Humans/Tom Campbell
-
 ## Introduction
 Tom Campbell is a physicist and consciousness researcher known for his work on the "Big TOE" (Theory of Everything). His theory seeks to bridge the gap between science, metaphysics, and consciousness, proposing that understanding the nature of reality involves integrating these distinct yet interconnected domains. Campbell emphasizes the importance of love and personal growth in unlocking human potential and understanding our place within a larger consciousness system.
 
