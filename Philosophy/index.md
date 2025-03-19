@@ -1,0 +1,6 @@
+---
+title: Philosophy
+---
+## Background
+
+TODO
