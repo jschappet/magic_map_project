@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bee345f9e14eb6f5",
+        "id": "4fc05c0a2d560d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8462a0b0c65a9bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "bdee4b02d0e5739a",
+            "id": "0fa619e07a3fae8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/AI & Animal Communication.md",
+                "file": "How to Install Plugins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI & Animal Communication"
+              "title": "How to Install Plugins"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TOBE_REVIEWED",
+                "query": "tag:#Baha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/AI & Animal Communication.md",
+                "file": "How to Install Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI & Animal Communication"
+              "title": "Backlinks for How to Install Plugins"
             }
           },
           {
@@ -163,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/AI & Animal Communication.md",
+                "file": "How to Install Plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI & Animal Communication"
+              "title": "Outline of How to Install Plugins"
             }
           },
           {
@@ -215,53 +204,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdee4b02d0e5739a",
+  "active": "9578ef104f32b2ce",
   "lastOpenFiles": [
-    "Disclosure NHI UAP/index.md",
-    "Technology/AI & Animal Communication.md",
-    "templates/Template - Human.md",
-    "templates/Template - Movie.md",
-    "Humans/Carl Jung.md",
-    "Humans/index.md",
-    "Humans/Jon Kabat-Zinn.md",
-    "Humans/The Buddha.md",
-    "Movements/Human Potential Movement.md",
-    "Humans/Baha’u’llah.md",
-    "Music Art Culture/Movies/index.md",
+    "Humans/Terence McKenna.md",
     "quartz/public/404.html",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-20-at-12.38.09-PM.png",
+    "quartz/public/Extras/Images",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
     "quartz/public/static/giscus/dark.css",
-    "quartz/public/static/giscus",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
+    "quartz/public/static/giscus",
     "quartz/public/static/contentIndex.json",
     "quartz/public/static",
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
-    "quartz/public/tags/index.html",
-    "Philosophy/index.md",
-    "Politics Civics/index.md",
-    "Science/index.md",
-    "Spirituality Religion/index.md",
-    "Technology/index.md",
-    "Unexplained Experiencers/index.md",
-    "Background.md",
-    "templates/Template - index.md",
-    "Music Art Culture/Movies/What Dream May Come.md",
+    "How to Install Plugins.md",
+    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
+    "quartz/public/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "Extras/GPT/HumanGen.md",
+    "Extras/GPT/Clean Up File.md",
+    "How To Contribute.md",
+    "Humans/Terrence Howard.md",
+    "Extras/templates/Template - Human.md",
+    "Extras/GPT/OrgGen.md",
+    "What Sparked MAGIC.md",
     "index.md",
     "Start Here.md",
-    "Humans/Adi Shankaracharya.md",
-    "Music Art Culture/Movies/Contact.md",
-    "Music Art Culture/Movies/Everything Everywhere All at Once.md",
-    "Music Art Culture/Movies/Omni Loop.md",
-    "quartz/public/quartz/docs/images/social-image-preview-light.png",
-    "quartz/public/quartz/docs/images/custom-social-image-preview-light.png",
-    "quartz/public/quartz/docs/images/social-image-preview-dark.png",
-    "quartz/public/quartz/docs/images/quartz-transform-pipeline.png",
-    "quartz/public/quartz/docs/images/quartz-layout-tablet.png",
-    "quartz/public/quartz/docs/images/quartz-layout-mobile.png",
-    "quartz/public/quartz/docs/images/quartz-layout-desktop.png",
-    "quartz/public/quartz/docs/images/github-quick-setup.png"
+    "Humans/Alan Watts.md",
+    "Extras/templates/Template - Organization.md",
+    "Extras/templates/Template - Movie.md",
+    "Extras/templates/Template - index.md",
+    "Music Art Culture/Movies/A Monster Calls.md",
+    "Science/index.md",
+    "Disclosure NHI UAP/index.md",
+    "Movements/Integral Movement.md",
+    "Technology/AI & Animal Communication.md",
+    "Extras/templates/Template - Daily Note.md",
+    "Organizations/The Hendricks Institute.md",
+    "Organizations/Baha’i Faith.md",
+    "Spirituality Religion/index.md",
+    "Movements/Authentic Relating.md",
+    "Movements/Non Violent Communication.md"
   ]
 }
