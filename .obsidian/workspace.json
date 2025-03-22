@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Install Plugins.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to Install Plugins"
+              "title": "index"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Install Plugins.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Install Plugins"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Install Plugins.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Install Plugins"
+              "title": "Outline of index"
             }
           },
           {
@@ -204,33 +204,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9578ef104f32b2ce",
+  "active": "0fa619e07a3fae8f",
   "lastOpenFiles": [
+    "How To Contribute.md",
+    "How to Install Plugins.md",
+    "Connecting with GitHub.md",
+    "Git.md",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
+    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
+    "conflict-files-obsidian-git.md",
     "Humans/Terence McKenna.md",
+    "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
+    "Untitled.md",
     "quartz/public/404.html",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-20-at-12.38.09-PM.png",
     "quartz/public/Extras/Images",
+    "quartz/public/Extras",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
     "quartz/public/static/giscus/dark.css",
-    "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png",
     "quartz/public/static/giscus",
     "quartz/public/static/contentIndex.json",
     "quartz/public/static",
     "quartz/public/index.xml",
-    "quartz/public/sitemap.xml",
-    "How to Install Plugins.md",
-    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
-    "quartz/public/Screenshot-2025-03-21-at-9.11.48-AM.png",
-    "quartz/public/Screenshot-2025-03-21-at-9.01.46-AM.png",
     "Extras/GPT/HumanGen.md",
     "Extras/GPT/Clean Up File.md",
-    "How To Contribute.md",
     "Humans/Terrence Howard.md",
     "Extras/templates/Template - Human.md",
     "Extras/GPT/OrgGen.md",
@@ -246,11 +250,6 @@
     "Disclosure NHI UAP/index.md",
     "Movements/Integral Movement.md",
     "Technology/AI & Animal Communication.md",
-    "Extras/templates/Template - Daily Note.md",
-    "Organizations/The Hendricks Institute.md",
-    "Organizations/Baha’i Faith.md",
-    "Spirituality Religion/index.md",
-    "Movements/Authentic Relating.md",
-    "Movements/Non Violent Communication.md"
+    "Extras/templates/Template - Daily Note.md"
   ]
 }

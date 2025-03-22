@@ -23,10 +23,10 @@ To enhance your Obsidian experience, consider installing the following plugins:
 
 [[How to Install Plugins]]
 
-1. **Templeter**:
+1. **Templater**:
    - Go to `Settings` > `Community Plugins`.
    - Toggle `Safe mode` off.
-   - Click on `Browse` and search for "Templeter".
+   - Click on `Browse` and search for "Templater".
    - Click `Install`, then `Enable`.
    
 1. **Dataview**:
@@ -49,6 +49,8 @@ After installing the plugins, configure them according to your preferences in th
 
 ![[Screenshot 2025-03-20 at 12.38.09 PM.png]]
 ## GitHub Repository Management
+
+[[Connecting with GitHub]] -- More detailed instructions here.
 
 ### Clone the Repository
 
