@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bubblegum Token.md",
+                "file": "Z_OLD/Humans/Adi Shankaracharya.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bubblegum Token"
+              "title": "Adi Shankaracharya"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "737f57015547b025",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Bubblegum Token.md",
+    "conflict-files-obsidian-git.md",
     "Z_OLD/Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
     "Z_OLD/Philosophy/NHI.md",
     "Z_OLD/Unexplained Experiencers/Link Dump.md",
@@ -236,20 +236,20 @@
     "Start Here/How to Install Plugins.md",
     "Start Here/Connecting with GitHub.md",
     "Git.md",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
+    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
     "Z_OLD/Humans/Terence McKenna.md",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
-    "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
-    "Z_OLD/Extras/GPT/HumanGen.md",
-    "Z_OLD/Extras/GPT/Clean Up File.md",
+    "Extras/GPT/HumanGen.md",
+    "Extras/GPT/Clean Up File.md",
     "Z_OLD/Humans/Terrence Howard.md",
-    "Z_OLD/Extras/templates/Template - Human.md"
+    "Extras/templates/Template - Human.md"
   ]
 }
