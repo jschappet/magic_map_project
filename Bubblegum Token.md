@@ -11,7 +11,6 @@ The program is yet to be fully developed, and I would like anyone's input that t
 1. Every month your household members are given a number of tokens. For arguments sake, and to avoid thinking of them as currency, let's call them "Bubblegum" tokens.
 2. ﻿﻿﻿Your Bubblegum expires at the end of the month.
 3. ﻿﻿﻿You spend your Bubblegum when someone in your house does something that brings you joy. 
-4. 
 
 need to be classical - as in gifts - but it could be a funny joke, it could be a kind gesture, it could be an act of service - and it doesn't matter what it is, as long as it brought you joy.
 

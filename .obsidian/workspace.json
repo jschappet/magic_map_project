@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "e2d437a1febc5235",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7d738efd0d615d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "737f57015547b025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_OLD/Humans/Adi Shankaracharya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adi Shankaracharya"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5cd217de83ca4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c1f073d9509caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2eb2be1e1fce60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d45433ceb238a746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Baha",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ddd30f1e485e6d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8799c722127b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01b5ed2fbd86279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad43ec651e70f142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "7192c2bcd54261f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humans/Adi Shankaracharya.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adi Shankaracharya"
+            }
+          },
+          {
+            "id": "b4076c20c2ee3be8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f092ec176220a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "f2b53cf29fc125c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9578ef104f32b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "737f57015547b025",
+  "lastOpenFiles": [
+    "Bubblegum Token.md",
+    "conflict-files-obsidian-git.md",
+    "Z_OLD/Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
+    "Z_OLD/Philosophy/NHI.md",
+    "Z_OLD/Unexplained Experiencers/Link Dump.md",
+    "Unexplained Experiencers/Link Dump.md",
+    "Unexplained Experiencers",
+    "Philosophy/NHI.md",
+    "Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
+    "Z_OLD/Humans/Eckhart Tolle.md",
+    "Philosophy/Eastern Idealism/Vedanta.md",
+    "X_Media",
+    "Experiential_Anomalous Realities/Contact_NHI",
+    "Experiential_Anomalous Realities/Psi_Non_Local Phenomena",
+    "Experiential_Anomalous Realities/OBEs_NDEs",
+    "Experiential_Anomalous Realities/Altered States of Consciousness",
+    "Spirituality_Religion/New Spiritual Movements",
+    "Spirituality_Religion/World Religions",
+    "Spirituality_Religion/Mystical_Esoteric Traditions",
+    "Philosophy/Ontology of Self_Identity",
+    "Start Here/What Sparked MAGIC.md",
+    "Start Here/Start Here.md",
+    "Start Here/How To Contribute.md",
+    "Z_OLD/Science/Quantum Mechanics.md",
+    "Z_OLD/Humans/Alan Watts.md",
+    "Z_OLD/Science/index.md",
+    "Z_OLD/Politics Civics/index.md",
+    "Start Here/index.md",
+    "Start Here/How to Install Plugins.md",
+    "Start Here/Connecting with GitHub.md",
+    "Git.md",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
+    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
+    "Z_OLD/Humans/Terence McKenna.md",
+    "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
+    "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
+    "Extras/GPT/HumanGen.md",
+    "Extras/GPT/Clean Up File.md",
+    "Z_OLD/Humans/Terrence Howard.md",
+    "Extras/templates/Template - Human.md"
+  ]
+}
