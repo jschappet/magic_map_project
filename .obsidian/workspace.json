@@ -11,10 +11,24 @@
             "id": "737f57015547b025",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bubblegum Token.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bubblegum Token"
             }
           }
         ]
@@ -191,6 +205,15 @@
   },
   "active": "737f57015547b025",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Bubblegum Token.md",
+    "Z_OLD/Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
+    "Z_OLD/Philosophy/NHI.md",
+    "Z_OLD/Unexplained Experiencers/Link Dump.md",
+    "Unexplained Experiencers/Link Dump.md",
+    "Unexplained Experiencers",
+    "Philosophy/NHI.md",
+    "Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
     "Z_OLD/Humans/Eckhart Tolle.md",
     "Philosophy/Eastern Idealism/Vedanta.md",
     "X_Media",
@@ -202,7 +225,6 @@
     "Spirituality_Religion/World Religions",
     "Spirituality_Religion/Mystical_Esoteric Traditions",
     "Philosophy/Ontology of Self_Identity",
-    "Philosophy/Philosophy of Mind",
     "Start Here/What Sparked MAGIC.md",
     "Start Here/Start Here.md",
     "Start Here/How To Contribute.md",
@@ -218,7 +240,6 @@
     "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
     "Z_OLD/Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
     "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
-    "conflict-files-obsidian-git.md",
     "Z_OLD/Humans/Terence McKenna.md",
     "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
     "Z_OLD/Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
@@ -229,13 +250,6 @@
     "Z_OLD/Extras/GPT/HumanGen.md",
     "Z_OLD/Extras/GPT/Clean Up File.md",
     "Z_OLD/Humans/Terrence Howard.md",
-    "Z_OLD/Extras/templates/Template - Human.md",
-    "Z_OLD/Extras/GPT/OrgGen.md",
-    "Z_OLD/Extras/templates/Template - Organization.md",
-    "Z_OLD/Extras/templates/Template - Movie.md",
-    "Z_OLD/Extras/templates/Template - index.md",
-    "Z_OLD/Music Art Culture/Movies/A Monster Calls.md",
-    "Z_OLD/Disclosure NHI UAP/index.md",
-    "Z_OLD/Movements/Integral Movement.md"
+    "Z_OLD/Extras/templates/Template - Human.md"
   ]
 }
