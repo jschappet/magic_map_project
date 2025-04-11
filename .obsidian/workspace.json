@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7d738efd0d615d",
+        "id": "d2a2754c0676c158",
         "type": "tabs",
         "children": [
           {
-            "id": "737f57015547b025",
+            "id": "556ba8539536b569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z_OLD/Humans/Adi Shankaracharya.md",
+                "file": "Extras/templates/Template - Organization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adi Shankaracharya"
+              "title": "Template - Organization"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Baha",
+                "query": "tag:#Philosophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,53 +203,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "737f57015547b025",
+  "active": "bf2eb2be1e1fce60",
   "lastOpenFiles": [
-    "Bubblegum Token.md",
-    "conflict-files-obsidian-git.md",
-    "Z_OLD/Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
-    "Z_OLD/Philosophy/NHI.md",
-    "Z_OLD/Unexplained Experiencers/Link Dump.md",
-    "Unexplained Experiencers/Link Dump.md",
-    "Unexplained Experiencers",
-    "Philosophy/NHI.md",
-    "Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
-    "Z_OLD/Humans/Eckhart Tolle.md",
-    "Philosophy/Eastern Idealism/Vedanta.md",
-    "X_Media",
-    "Experiential_Anomalous Realities/Contact_NHI",
-    "Experiential_Anomalous Realities/Psi_Non_Local Phenomena",
-    "Experiential_Anomalous Realities/OBEs_NDEs",
-    "Experiential_Anomalous Realities/Altered States of Consciousness",
-    "Spirituality_Religion/New Spiritual Movements",
-    "Spirituality_Religion/World Religions",
-    "Spirituality_Religion/Mystical_Esoteric Traditions",
-    "Philosophy/Ontology of Self_Identity",
     "Start Here/What Sparked MAGIC.md",
-    "Start Here/Start Here.md",
-    "Start Here/How To Contribute.md",
-    "Z_OLD/Science/Quantum Mechanics.md",
-    "Z_OLD/Humans/Alan Watts.md",
-    "Z_OLD/Science/index.md",
-    "Z_OLD/Politics Civics/index.md",
-    "Start Here/index.md",
-    "Start Here/How to Install Plugins.md",
-    "Start Here/Connecting with GitHub.md",
-    "Git.md",
-    "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
-    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
-    "Z_OLD/Humans/Terence McKenna.md",
-    "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
+    "Z_OLD/Humans/Iain McGilchrist.md",
+    "Humans/Adi Shankaracharya.md",
+    "Z_OLD/Music Art Culture/Organizations/Vedanta Schools of Thought.md",
+    "Z_OLD/Music Art Culture/Organizations/Unity Church (Unity Worldwide Ministries).md",
+    "Z_OLD/Music Art Culture/Organizations/Tibetan Buddhist Philosophy.md",
+    "Z_OLD/Music Art Culture/Organizations/The Monroe Institute.md",
+    "Z_OLD/Music Art Culture/Organizations/The Hendricks Institute.md",
+    "Z_OLD/Music Art Culture/Organizations/The Global Consciousness Project (GCP).md",
+    "Z_OLD/Music Art Culture/Organizations/The Center for Consciousness Studies (Arizona).md",
+    "Z_OLD/Music Art Culture/Organizations/Institute of Noetic Sciences (IONS).md",
+    "Z_OLD/Music Art Culture/Organizations/HeartMath Institute.md",
+    "Z_OLD/Music Art Culture/Organizations/Global Coherence Initiative.md",
+    "Z_OLD/Music Art Culture/Organizations/Findhorn Foundation.md",
+    "Z_OLD/Music Art Culture/Organizations/Esalen Institute.md",
+    "Z_OLD/Music Art Culture/Organizations/Baha’i Faith.md",
+    "Z_OLD/Music Art Culture/Movies/index.md",
+    "Z_OLD/Music Art Culture/Movies/What Dream May Come.md",
+    "Z_OLD/Music Art Culture/Movies/The Tree of Life.md",
+    "Z_OLD/Music Art Culture/Movies/The Fountain.md",
+    "Z_OLD/Music Art Culture/Movies/Presence.md",
+    "Z_OLD/Music Art Culture/Movies/Omni Loop.md",
+    "Z_OLD/Music Art Culture/Movies/Mickey 17.md",
+    "Z_OLD/Music Art Culture/Movies/Melancholia.md",
+    "Z_OLD/Music Art Culture/Movies/Everything Everywhere All at Once.md",
+    "Z_OLD/Music Art Culture/Movies/Contact.md",
+    "Z_OLD/Music Art Culture/Organizations",
+    "Z_OLD/Music Art Culture/Movies",
+    "Z_OLD/Unexplained Experiencers",
+    "Z_OLD/Technology",
+    "Z_OLD/Spirituality Religion",
+    "Z_OLD/Science",
+    "Z_OLD/Politics Civics",
+    "Z_OLD/Philosophy",
+    "Z_OLD/Music Art Culture",
+    "Z_OLD/Movements",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
-    "Extras/GPT/HumanGen.md",
-    "Extras/GPT/Clean Up File.md",
-    "Z_OLD/Humans/Terrence Howard.md",
-    "Extras/templates/Template - Human.md"
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-6.03.02-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-5.30.53-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.06-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.38.13-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-20-at-12.38.09-PM.png"
   ]
 }
