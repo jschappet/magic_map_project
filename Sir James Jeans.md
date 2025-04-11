@@ -1,0 +1,1 @@
+https://www.goodreads.com/quotes/344841-the-universe-looks-more-and-more-like-a-great-thought

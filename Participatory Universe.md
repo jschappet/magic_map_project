@@ -1,0 +1,1 @@
+(Wheeler) – Reality emerges through observation; bridges physics and idealism.

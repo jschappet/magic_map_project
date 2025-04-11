@@ -2,7 +2,7 @@ We are SO GRATEFUL you found us! We come together from all corners - and YOUR pe
 
   We believe a paradigm shift is imminent. 
   
-  We believe that across time - philosophers, [[Z_OLD/Spirituality Religion/index|index]] leaders, religious leaders, scientists, technologists, experiencers, and now the ‘disclosure movement’ as well - have all been telling us the exact same thing:
+  We believe that across time - philosophers, [[Spirituality/Mystical_Esoteric Traditions/index|index]] leaders, religious leaders, scientists, technologists, experiencers, and now the ‘disclosure movement’ as well - have all been telling us the exact same thing:
   
   Consciousness is the fundamental force of the universe, it is nonlocal, and we are all connected to it (and therefore each other).
   
