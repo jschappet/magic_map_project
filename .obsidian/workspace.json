@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/templates/Template - Organization.md",
+                "file": "Extras/Instructions/Refresh Git Push Changes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template - Organization"
+              "title": "Refresh Git Push Changes"
             }
           }
         ]
@@ -203,8 +203,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2eb2be1e1fce60",
+  "active": "556ba8539536b569",
   "lastOpenFiles": [
+    "Extras/Images/StageChanges.png",
+    "Extras/Instructions/Refresh Git Push Changes.md",
+    "Extras/Images/CommitAndSync.png",
+    "Extras/Images/GitControlButton.png",
+    "Extras/templates/Template - Organization.md",
     "Start Here/What Sparked MAGIC.md",
     "Z_OLD/Humans/Iain McGilchrist.md",
     "Humans/Adi Shankaracharya.md",
@@ -228,9 +233,6 @@
     "Z_OLD/Music Art Culture/Movies/Presence.md",
     "Z_OLD/Music Art Culture/Movies/Omni Loop.md",
     "Z_OLD/Music Art Culture/Movies/Mickey 17.md",
-    "Z_OLD/Music Art Culture/Movies/Melancholia.md",
-    "Z_OLD/Music Art Culture/Movies/Everything Everywhere All at Once.md",
-    "Z_OLD/Music Art Culture/Movies/Contact.md",
     "Z_OLD/Music Art Culture/Organizations",
     "Z_OLD/Music Art Culture/Movies",
     "Z_OLD/Unexplained Experiencers",
@@ -247,9 +249,6 @@
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-6.03.02-PM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-5.30.53-PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.06-PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.38.13-PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-20-at-12.38.09-PM.png"
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png"
   ]
 }
