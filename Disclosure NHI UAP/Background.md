@@ -36,9 +36,9 @@ Consciousness is the fundamental force of the universe, non-local, and interconn
 •    Indigenous & Shamanic Traditions (Animism, Dreamtime, Sacred Plants & Visionary States)
 
 ### Key Figures, Texts, and Groups:
-•    [[Adi Shankaracharya]] (Advaita Vedanta, Non-duality)
-•    [[Rumi]] (Sufi Mysticism)
-•    [[Laozi]] (Taoism, The Dao as Universal Consciousness)
+•    [[Humans/Adi Shankaracharya]] (Advaita Vedanta, Non-duality)
+•    [[Humans/Rumi]] (Sufi Mysticism)
+•    [[Humans/Laozi]] (Taoism, The Dao as Universal Consciousness)
 •    Meister Eckhart (Christian Mysticism)
 •    Sri Aurobindo (Integral Yoga, Conscious Evolution)
 •    The Upanishads (Hindu texts on Brahman and Atman)
@@ -82,7 +82,7 @@ Consciousness is the fundamental force of the universe, non-local, and interconn
 #### Key Figures, Texts, and Groups:
 •    Thoth / Hermes Trismegistus (Hermeticism, The Emerald Tablet)
 •    Pythagoras (Mysticism in Mathematics)
-•    [[Carl Jung]] (Archetypes & Collective Unconscious)
+•    [[Philosophy/Carl Jung]] (Archetypes & Collective Unconscious)
 •    Madame Blavatsky (Theosophy, Universal Consciousness)
 
 #### Commonalities & Distinctions:

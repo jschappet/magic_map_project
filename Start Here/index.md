@@ -20,10 +20,10 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 #### #Religion #Spirituality
 
 1. [[The Buddha]] 
-2. [[Laozi]] (c. 6th Century BCE)  
-3. [[Adi Shankaracharya]] (788–820 CE)
+2. [[Humans/Laozi]] (c. 6th Century BCE)  
+3. [[Humans/Adi Shankaracharya]] (788–820 CE)
 4. [[Ibn Arabi]] (1165–1240)  
-5. [[Rumi]] (1207–1273)  
+5. [[Humans/Rumi]] (1207–1273)  
 6. [[Mulla Sadra]] (1571–1640)  
 7. [[Sri Aurobindo]] (1872–1950)  
 8. [[Teilhard de Chardin]] (1881–1955)  
@@ -40,7 +40,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 4. [[Max Tegmark]] (b. 1967)  
 5. [[Humans/Rupert Sheldrake]] (b. 1942)  
 6. [[Tom Campbell]] (b. 1944)  
-7. [[Carl Jung]] (1875–1961)  
+7. [[Philosophy/Carl Jung]] (1875–1961)  
 8. [[Humans/David Bohm]] (1917–1992)  
 9. [[Bernardo Kastrup]] (b. 1974)  
 10. [[Humans/Iain McGilchrist]] (b. 1953)  
@@ -61,7 +61,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 #### Science and Holistic Integration
 
 1. [[Institute of Noetic Sciences (IONS)  ]]
-2. [[The Monroe Institute  ]]
+2. [[Music Art Culture/Organizations/The Monroe Institute]]
 3. [[The Center for Consciousness Studies (Arizona)  ]]
 4. [[HeartMath Institute]]
 5. [[Esalen Institute]]

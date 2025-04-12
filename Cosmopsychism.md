@@ -1,0 +1,1 @@
+- **Cosmopsychism**: A variant of panpsychism that suggests the universe itself is a conscious entity[4](https://www.templeton.org/grant/panpsychism-and-panentheism-philosophy-of-mind-meets-philosophy-of-religion).

@@ -1,0 +1,1 @@
+Conducts research on psychic phenomena and the projection of consciousness, exploring its role in human experience

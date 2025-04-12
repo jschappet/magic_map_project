@@ -1,0 +1,1 @@
+- **David Chalmers**: A philosopher who suggests that consciousness might be a fundamental building block of nature, similar to space, time, and mass. He also explores the idea of panpsychism, where consciousness is universal and present in all systems[1](https://scienceandnonduality.com/videos/consciousness-as-a-fundamental-building-block-of-the-universe/).

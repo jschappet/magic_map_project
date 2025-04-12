@@ -1,0 +1,1 @@
+Based at the University of Arizona, this center integrates perspectives from philosophy, cognitive sciences, neuroscience, and more to understand consciousness. While not explicitly stating consciousness as a fundamental force, it promotes a broad-spectrum approach to studying consciousness[3](https://opensciences.org/organizations).

@@ -1,0 +1,1 @@
+**Paul Davies**: A physicist who views consciousness as significant in understanding the universe, suggesting it plays a fundamental role in our perception of reality
