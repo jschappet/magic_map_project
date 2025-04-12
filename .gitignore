@@ -1,3 +1,4 @@
 /quartz/
 .DS_Store
-/.obsidian/workspace.json
+workspace.json
+data.json

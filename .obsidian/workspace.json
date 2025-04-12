@@ -750,9 +750,177 @@
               "icon": "lucide-file",
               "title": "Information Theory"
             }
+          },
+          {
+            "id": "341338968faeb4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "5d63bd265e0cc43b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non Human Intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Non Human Intelligence"
+            }
+          },
+          {
+            "id": "00ccc964d8176318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidentified Anomalous Phenomenon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unidentified Anomalous Phenomenon"
+            }
+          },
+          {
+            "id": "f73ec1f3b8889f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remote Viewing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Remote Viewing"
+            }
+          },
+          {
+            "id": "08d13d7f1060df79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Telepathy Tapes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Telepathy Tapes"
+            }
+          },
+          {
+            "id": "dd8feb11853398ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wave Function Collapse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wave Function Collapse"
+            }
+          },
+          {
+            "id": "e270ffe31ef91702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -924,10 +1092,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5300b3f939815a63",
+  "active": "e270ffe31ef91702",
   "lastOpenFiles": [
-    "Music Art Culture/soulscienceconnect.md",
+    "Wave Function Collapse.md",
+    "Untitled 1.md",
+    "The Telepathy Tapes.md",
+    "Remote Viewing.md",
+    "Unidentified Anomalous Phenomenon.md",
+    "Non Human Intelligence.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled",
     "Information Theory.md",
+    "Extras/Instructions/Refresh Git Push Changes.md",
+    "Extras/Instructions",
+    "Extras/Images/StageChanges.png",
+    "Extras/Images/GitControlButton.png",
+    "Extras/Images/CommitAndSync.png",
+    "Music Art Culture/soulscienceconnect.md",
     "Morphic Resonance.md",
     "The Akashic Records.md",
     "Unexplained Experiencers/Lucid Dreaming.md",
@@ -944,14 +1125,6 @@
     "Kabbalah.md",
     "Servants of the Light.md",
     "michael raduga.md",
-    "Anthony Peake.md",
-    "Sir James Jeans.md",
-    "Peter Fenwick.md",
-    "Pantheism.md",
-    "Dr Jim Doty.md",
-    "RA.md",
-    "the law of one.md",
-    "Dzogchen.md",
     "Religion",
     "Human Potential Movement",
     "Mystics",
@@ -960,17 +1133,12 @@
     "Contact_NHI",
     "Experiential_Anomalous Realities/Psi_Non_Local Phenomena",
     "Experiential_Anomalous Realities/OBEs_NDEs",
-    "Altered States of Consciousness",
-    "Spirituality/New Spiritual Movements",
     "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
     "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
     "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
     "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
     "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
     "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png"
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png"
   ]
 }
