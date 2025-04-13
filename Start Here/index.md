@@ -28,7 +28,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 7. [[Sri Aurobindo]] (1872–1950)  
 8. [[Teilhard de Chardin]] (1881–1955)  
 9. [[Neville Goddard]] (1905–1972)
-10. [[Eckhart Tolle]] (b. 1948)  
+10. [[Humans/Eckhart Tolle]] (b. 1948)  
 11. [[Ram Dass]] (1931–2019)  
 12. [[Joseph Campbell]] (1904–1987)  
 13. [[Baha’u’llah]] (1817–1892)  
