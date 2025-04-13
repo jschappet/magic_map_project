@@ -1,0 +1,1 @@
+Author of The Untethered Soul, describing awakening through surrender to consciousness as the observer.
