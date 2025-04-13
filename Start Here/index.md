@@ -61,7 +61,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 #### Science and Holistic Integration
 
 1. [[Institute of Noetic Sciences (IONS)  ]]
-2. [[Music Art Culture/Organizations/The Monroe Institute]]
+2. [[Organizations/The Monroe Institute]]
 3. [[The Center for Consciousness Studies (Arizona)  ]]
 4. [[HeartMath Institute]]
 5. [[Esalen Institute]]

@@ -2478,33 +2478,9 @@
               "icon": "lucide-file",
               "title": "Vajrayana Buddhism"
             }
-          },
-          {
-            "id": "ec7810bbd85f2491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 103
+        "currentTab": 102
       }
     ],
     "direction": "vertical"
@@ -2676,7 +2652,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec7810bbd85f2491",
+  "active": "bf2eb2be1e1fce60",
   "lastOpenFiles": [
     "Vajrayana Buddhism.md",
     "Untitled.md",
