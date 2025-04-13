@@ -1,0 +1,1 @@
+The Parapsychological Association is an [affiliated organization of the American Association for the Advancement of Science (AAAS)](https://www.aaas.org/group/60/list-aaas-affiliates#p), the world's largest scientific society, and publisher of the well-known scientific journal _Science_.

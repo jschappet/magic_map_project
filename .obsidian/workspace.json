@@ -2461,7 +2461,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vajrayana Buddhism.md",
+                "file": "Humans/Teilhard de Chardin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -2476,11 +2476,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vajrayana Buddhism"
+              "title": "Teilhard de Chardin"
+            }
+          },
+          {
+            "id": "e373e71e87742813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Parapsychological Association.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Parapsychological Association"
+            }
+          },
+          {
+            "id": "4844313cbdd945de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The experimental evidence for parapsychological phenomena- A review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The experimental evidence for parapsychological phenomena- A review"
+            }
+          },
+          {
+            "id": "1b2d05a49c63d243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stephan Schwartz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stephan Schwartz"
+            }
+          },
+          {
+            "id": "c02a173bcc6fe491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Through time and space- The evidence for remote viewing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Through time and space- The evidence for remote viewing"
+            }
+          },
+          {
+            "id": "d1146ded068eccb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daryl Bem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daryl Bem"
+            }
+          },
+          {
+            "id": "79b70f1581d4c490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evidence for Psi- Thirteen Empirical Research Reports.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Evidence for Psi- Thirteen Empirical Research Reports"
             }
           }
         ],
-        "currentTab": 102
+        "currentTab": 108
       }
     ],
     "direction": "vertical"
@@ -2652,10 +2796,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2eb2be1e1fce60",
+  "active": "79b70f1581d4c490",
   "lastOpenFiles": [
+    "Daryl Bem.md",
+    "Evidence for Psi- Thirteen Empirical Research Reports.md",
+    "Through time and space- The evidence for remote viewing.md",
+    "Stephan Schwartz.md",
+    "The experimental evidence for parapsychological phenomena- A review.md",
+    "The Parapsychological Association.md",
+    "Humans/Teilhard de Chardin.md",
     "Vajrayana Buddhism.md",
-    "Untitled.md",
     "The Monroe Institute.md",
     "Robert Monroe.md",
     "The Simulation Hypothesis.md",
@@ -2674,12 +2824,6 @@
     "Adi Shankaracharya.md",
     "Shamanic Traditions.md",
     "Esoteric Christianity.md",
-    "Gnostic Christianity.md",
-    "Alfred North Whitehead.md",
-    "Immanuel Kant.md",
-    "Baruch Spinoza.md",
-    "Plato.md",
-    "Transcendentalism.md",
     "Untitled",
     "Extras/Instructions",
     "Extras/Images/StageChanges.png",
