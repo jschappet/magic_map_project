@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Potential Movement/Eckhart Tolle.md",
+                "file": "Mystics/Mooji.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eckhart Tolle"
+              "title": "Mooji"
             }
           }
         ]
@@ -203,8 +203,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2eb2be1e1fce60",
+  "active": "556ba8539536b569",
   "lastOpenFiles": [
+    "Movements/Perennial Philosophy Movement.md",
+    "Movements/Integral Movement.md",
+    "Movements/Human Potential Movement.md",
+    "Humans/John Mack.md",
+    "Humans/index.md",
+    "Humans/Iain McGilchrist.md",
+    "Humans/Eckhart Tolle.md",
+    "Humans/Baha’u’llah.md",
+    "Humans/Alan Watts.md",
+    "Humans/Adi Shankaracharya.md",
+    "Human Potential Movement/Eckhart Tolle.md",
     "Philosophy/Philip Goff.md",
     "Philosophy/index.md",
     "Philosophy/Emmanuel Kant.md",
@@ -213,24 +224,13 @@
     "Philosophy/Alignment in Contact with Non‑Human Intelligence.md",
     "Philosophy/Alfred North Whitehead.md",
     "Philosophy/Metaphysics/Western Idealism/NHI.md",
-    "Mystics/Mooji – Jamaican spiritual teacher in the Advaita Vedanta lineage, guiding seekers toward the realization of pure awareness as Self..md",
+    "Mystics/Mooji.md",
     "Movements/Non Violent Communication.md",
-    "Movements/Integral Movement.md",
     "Movements/Authentic Relating.md",
     "Extras/templates/Template - Organization.md",
     "RA.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Sir James Jeans.md",
-    "simulation theory.md",
-    "Servants of the Light.md",
-    "Remote Viewing.md",
-    "Ram Dass (Richard Alpert) – Harvard psychologist turned mystic after psychedelic and Hindu exploration; taught consciousness as love and interbeing..md",
-    "Experiential_Anomalous Realities/Psi_Non_Local Phenomena/Mary Rodwell – Hypnotherapist and researcher who works with experiencers of contact events, especially children, identifying expanded psychic abilities and non-local awareness..md",
-    "Disclosure NHI UAP/index.md",
-    "Disclosure NHI UAP/Background.md",
-    "Extras/Instructions/Refresh Git Push Changes.md",
-    "the law of one.md",
     "Unexplained Experiencers",
     "Technology",
     "Spirituality/Mystical_Esoteric Traditions",
