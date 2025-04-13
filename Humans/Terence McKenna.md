@@ -11,23 +11,24 @@ In an era where interest in altered states of consciousness, mental health, and 
 - **"True Hallucinations: Being an Account of the Author’s Extraordinary Adventures in the Devil’s Paradise"** by Terence McKenna  
 - **"The Archaic Revival"** by Terence McKenna  
 - **"The Invisible Landscape: Mind, Hallucinogens and the I Ching"** by Terence & Dennis McKenna  
+- **"How to Make a Psychedelic"** by Terence McKenna (upcoming posthumous release)
 
 ### Websites  
 - [Terence McKenna Archive (Unofficial)](https://terencemckennaarchives.com)  
 - [Psychedelic Salon – Terence McKenna Talks Archive](https://psychedelicsalon.com/category/terence-mckenna/)  
+- [McKenna Academy](https://mckenna.academy/) - A resource for courses and workshops inspired by McKenna's teachings.
 
 ### Videos  
 - **"Culture is Not Your Friend"** – A classic McKenna talk available on YouTube  
 - **"The Transcendental Object at the End of Time"** – Full-length lecture and interviews across platforms  
 - **"Sacred Plants as Guides: New Dimensions of the Soul"** – A classic McKenna talk available on YouTube; Took place at a day-long workshop at Clairmont College in Southern California (in 1991) addressing the Jung Society of the greater Los Angeles area  
+- **"The Evolutionary Leap"** – A talk discussing the future of human consciousness and evolution.
 
-### Location  
+## Location  
 Terence McKenna lived in the United States, particularly in Hawaii and California, though his legacy is felt globally through his widespread media presence and enduring influence.
 
-### Contact Information  
+## Contact Information  
 Although McKenna passed away in 2000, inquiries related to his work, estate, or archives can often be directed through [Dennis McKenna’s website](https://mckenna.academy/) or the Terence McKenna Archives.
 
 #tags  
-#TerenceMcKenna #ConsciousnessExpansion #Psychedelics #Ethnobotany #Philosophy #HumanEvolution #ArchaicRevival  
-
-#TOBE_REVIEWED
+#TerenceMcKenna #ConsciousnessExpansion #Psychedelics #Ethnobotany #Philosophy #HumanEvolution #ArchaicRevival #TOBE_REVIEWED

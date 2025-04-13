@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Advaita Vedanta.md",
-                "bFile": "Advaita Vedanta.md",
+                "aFile": "Disclosure NHI UAP/Background.md",
+                "bFile": "Disclosure NHI UAP/Background.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Advaita Vedanta"
+              "title": "Diff: Background"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +195,23 @@
   },
   "active": "556ba8539536b569",
   "lastOpenFiles": [
+    "Start Here/What Sparked MAGIC.md",
+    "Start Here/Start Here.md",
+    "Start Here/index.md",
+    "Start Here/How to Install Plugins.md",
+    "Start Here/How To Contribute.md",
     "Start Here/Connecting with GitHub.md",
+    "Vajrayana Buddhism.md",
+    "Unidentified Anomalous Phenomenon.md",
+    "The Telepathy Tapes.md",
+    "the law of one.md",
+    "The Akashic Records.md",
+    "Suzanne Giesemann.md",
+    "simulation theory.md",
+    "Remote Viewing.md",
+    "Extras/GPT/OrgGen.md",
+    "Extras/GPT/HumanGen.md",
+    "Extras/GPT/Clean Up File.md",
     "Spirituality/Mystical_Esoteric Traditions/index.md",
     "Science/Erwin Schrödinger.md",
     "Science/Untitled 1.md",
@@ -205,22 +221,6 @@
     "RA.md",
     "Extras/Instructions/Refresh Git Push Changes.md",
     "Extras/templates/Template - Human.md",
-    "Extras/templates/Template - index.md",
-    "The Telepathy Tapes.md",
-    "Michael Singer.md",
-    "Michael Raduga.md",
-    "Wave Function Collapse.md",
-    "Vajrayana Buddhism.md",
-    "Unidentified Anomalous Phenomenon.md",
-    "Untitled 1.md",
-    "the law of one.md",
-    "The Akashic Records.md",
-    "Suzanne Giesemann.md",
-    "Solipsism.md",
-    "Sir James Jeans.md",
-    "simulation theory.md",
-    "Servants of the Light.md",
-    "Remote Viewing.md",
     "Unexplained Experiencers",
     "Technology",
     "Spirituality/Mystical_Esoteric Traditions",

@@ -19,6 +19,9 @@ The study of non-human intelligence is increasingly relevant in today's world, w
 3. **"The Infinite Retina: Artificial Intelligence and the Future of Human Intelligence" by Michael J. McCarthy**  
    Discusses the intersection of AI and human intelligence, and what the future may hold.
 
+4. **"The Phenomenon of Non-Human Intelligence" by David Chalmers**  
+   A philosophical examination of what constitutes intelligence and consciousness beyond humans. #TOBE_REVIEWED
+
 ## Websites
 
 1. **[AI Alignment Forum](https://alignmentforum.org)**  
@@ -29,6 +32,9 @@ The study of non-human intelligence is increasingly relevant in today's world, w
 
 3. **[SETI Institute](https://www.seti.org)**  
    Focused on the search for extraterrestrial intelligence and the implications of discovering non-human intelligence.
+
+4. **[The Future of Humanity Institute](https://www.fhi.ox.ac.uk)**  
+   Research on the long-term implications of artificial intelligence and its societal effects. #TOBE_REVIEWED
 
 ## Videos
 
@@ -41,6 +47,9 @@ The study of non-human intelligence is increasingly relevant in today's world, w
 3. **"The Search for Extraterrestrial Intelligence" (Documentary)**  
    An exploration of the scientific efforts to find intelligent life beyond Earth.
 
+4. **"Understanding Machine Intelligence" (Conference Presentation)**  
+   An overview of current advancements in machine learning and AI capabilities. #TOBE_REVIEWED
+
 # Location
 
 The study of non-human intelligence can be explored in various academic institutions, research centers, and online platforms. Key locations include:
@@ -48,6 +57,7 @@ The study of non-human intelligence can be explored in various academic institut
 - **Universities with AI research programs** (e.g., MIT, Stanford, UC Berkeley)
 - **Wildlife research centers** that focus on animal cognition
 - **Planetariums and observatories** engaged in the search for extraterrestrial life
+- **Research institutes** dedicated to cognitive science and AI ethics. #TOBE_REVIEWED
 
 # Contact Information
 

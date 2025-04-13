@@ -10,21 +10,24 @@ The GCP illustrates the profound interconnectedness of human minds and the poten
 - *The Global Consciousness Project: The Science of Collective Consciousness* by Roger D. Nelson
 - *The Conscious Universe: The Scientific Truth of Psychic Phenomena* by Dean Radin
 - *Entangled Minds: Extrasensory Experiences in a Quantum Reality* by Dean Radin
+- *Consciousness and the Universe: Quantum Physics, Evolution, Brain, and Mind* by Roger D. Nelson #TOBE_REVIEWED
 
 ### Websites
 - [Global Consciousness Project Official Site](http://noosphere.princeton.edu)
 - [Institute of Noetic Sciences](https://noetic.org)
 - [The Science of Consciousness](https://www.consciousness.arizona.edu)
+- [Consciousness Research Institute](https://www.consciousnessresearch.org) #TOBE_REVIEWED
 
 ### Videos
 - [The Global Consciousness Project Explained](https://www.youtube.com/watch?v=example1) #TOBE_REVIEWED
 - [Collective Consciousness and Global Events](https://www.youtube.com/watch?v=example2) #TOBE_REVIEWED
 - [Interview with Roger Nelson on GCP](https://www.youtube.com/watch?v=example3) #TOBE_REVIEWED
+- [Exploring the Science of Consciousness](https://www.youtube.com/watch?v=example4) #TOBE_REVIEWED
 
-### Location
+## Location
 The GCP is based at Princeton University, New Jersey, USA. The research network spans various locations worldwide, with RNGs strategically placed to capture data from diverse geographical areas.
 
-### Contact Information
+## Contact Information
 For inquiries, please contact:
 - **Email:** info@gcp.princeton.edu #TOBE_REVIEWED
 - **Phone:** +1 (123) 456-7890 #TOBE_REVIEWED
@@ -32,4 +35,3 @@ For inquiries, please contact:
 
 #tags
 #GlobalConsciousness #CollectiveConsciousness #GCP #Interconnectedness #HumanConsciousness #Research
-

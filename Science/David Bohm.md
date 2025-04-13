@@ -14,16 +14,19 @@ Bohm's contributions to quantum theory, particularly his interpretation of quant
 - "On Dialogue" by David Bohm
 - "Thought as a System" by David Bohm
 - "The Ending of Time" by David Bohm and Jiddu Krishnamurti
+- "Science, Order, and Creativity" by David Bohm and F. David Peat #TOBE_REVIEWED
 
 ## Websites
 - [The David Bohm Foundation](http://www.davidbohm.com) - A resource for Bohm's writings and ideas.
 - [Bohmian Mechanics](https://en.wikipedia.org/wiki/Bohmian_mechanics) - Wikipedia page discussing Bohm's interpretation of quantum mechanics.
 - [Bohm Dialogue](https://www.bohmdialogue.org) - Information about Bohm's approach to dialogue and its applications.
+- [David Bohm's Archive](http://www.davidbohmarchive.org) - A collection of Bohm's papers and correspondence #TOBE_REVIEWED
 
 ## Videos
 - "David Bohm - The Implicate Order" - A lecture discussing Bohm's theories on the nature of reality.
 - "David Bohm on Quantum Mechanics" - An interview where Bohm explains his views on quantum physics.
 - "Dialogue with David Bohm" - A series of discussions featuring Bohm and other thinkers.
+- "Bohmian Mechanics Explained" - An educational video explaining the principles of Bohmian mechanics #TOBE_REVIEWED
 
 # Location
 

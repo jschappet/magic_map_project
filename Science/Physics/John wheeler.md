@@ -9,14 +9,17 @@ Wheeler's ideas have had a lasting impact on modern physics, influencing both th
 - "Geons, Black Holes, and Quantum Foam: A Life in Physics" by John Archibald Wheeler #TOBE_REVIEWED
 - "A Journey into Gravity and Spacetime" by John Archibald Wheeler #TOBE_REVIEWED
 - "The Universe and the Teacup: The Mathematics of Truth and Beauty" by K.C. Cole (includes insights from Wheeler's work) #TOBE_REVIEWED
+- "The World as a Quantum Computer" by John Archibald Wheeler #TOBE_REVIEWED
 
 ## Websites
 - [John Archibald Wheeler - Wikipedia](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) #TOBE_REVIEWED
 - [American Physical Society - John Wheeler](https://aps.org/publications/apsnews/202104/wheeler.cfm) #TOBE_REVIEWED
+- [John Wheeler's Legacy at Princeton University](https://www.princeton.edu/wheeler) #TOBE_REVIEWED
 
 ## Videos
 - "John Wheeler: The Man Who Taught Us to Think" - A documentary exploring Wheeler's life and contributions. #TOBE_REVIEWED
 - "The Participatory Universe: John Wheeler's Legacy" - Lecture series discussing Wheeler's ideas in modern physics. #TOBE_REVIEWED
+- "Wheeler's Black Holes and Quantum Foam" - A seminar on Wheeler's contributions to modern theoretical physics. #TOBE_REVIEWED
 
 # Location
 John Wheeler was born in Jacksonville, Florida, and spent much of his career at institutions such as Princeton University and the University of Texas at Austin. His influence can still be felt in these academic communities today. #TOBE_REVIEWED

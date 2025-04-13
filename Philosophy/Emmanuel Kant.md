@@ -15,18 +15,21 @@ Kant's ideas continue to be relevant today, influencing contemporary debates in 
 - Critique of Practical Reason by Emmanuel Kant
 - The Critique of Judgment by Emmanuel Kant
 - Prolegomena to Any Future Metaphysics by Emmanuel Kant
+- Religion within the Bounds of Bare Reason by Emmanuel Kant #TOBE_REVIEWED
 
 ## Websites
 
 - Stanford Encyclopedia of Philosophy: [Kant](https://plato.stanford.edu/entries/kant/)
 - Internet Encyclopedia of Philosophy: [Immanuel Kant](https://iep.utm.edu/kant/)
 - The Kant Society: [Kant Society](http://www.kantsociety.org/)
+- Kant’s Works Online: [Kant Online](https://www.kantonline.com) #TOBE_REVIEWED
 
 ## Videos
 
 - "Kant's Categorical Imperative" - YouTube Lecture Series
 - "The Philosophy of Immanuel Kant" - CrashCourse Philosophy
 - "Kant's Critique of Pure Reason Explained" - Philosophy Tube
+- "Understanding Kant's Ethics" - TED-Ed #TOBE_REVIEWED
 
 # Location
 

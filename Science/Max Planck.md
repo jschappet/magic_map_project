@@ -11,16 +11,19 @@ The contributions of Max Planck to physics are still relevant today, influencing
 - "A Survey of Modern Physics" by Max Planck
 - "Max Planck: His Life and Work" by R. G. Colodny
 - "The Quantum Theory of Radiation" by Max Planck #TOBE_REVIEWED
+- "Quantum Theory: A Very Short Introduction" by Kenneth W. Ford #TOBE_REVIEWED
 
 ### Websites
 - [Nobel Prize - Max Planck](https://www.nobelprize.org/prizes/physics/1918/planck/facts/)
 - [Stanford Encyclopedia of Philosophy - Max Planck](https://plato.stanford.edu/entries/qm-planck/)
 - [Max Planck Institute for Physics](https://www.mpg.de/physics)
+- [Quantum Physics for Beginners - Max Planck's Contributions](https://www.quantumphysicsbeginners.com/max-planck) #TOBE_REVIEWED
 
 ### Videos
 - "Max Planck and the Quantum Revolution" - YouTube Documentary
 - "Understanding Quantum Mechanics: The Legacy of Max Planck" - Lecture Series
 - "The Life and Legacy of Max Planck" - Educational Video #TOBE_REVIEWED
+- "Planck's Constant Explained" - Educational Animation #TOBE_REVIEWED
 
 ## Location
 Max Planck was born in Kiel, Germany, and spent much of his professional life in Berlin. The Max Planck Institute for Physics is located in Munich, Germany, which continues to be a leading center for research in physics, honoring Planck's legacy.

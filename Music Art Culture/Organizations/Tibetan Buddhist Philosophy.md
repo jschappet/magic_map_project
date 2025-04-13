@@ -11,29 +11,32 @@ The teachings of Tibetan Buddhism highlight the significance of consciousness in
 - *What the Buddha Taught* by Walpola Rahula
 - *The Heart of the Buddha's Teaching* by Thich Nhat Hanh
 - *Introduction to Tibetan Buddhism* by John Powers
+- *The Tibetan Yogas of Dream and Sleep* by Tenzin Wangyal Rinpoche #TOBE_REVIEWED
 
 ### Websites
 - [Tibetan Buddhist Resource Center](https://www.tbrc.org)
 - [The Dalai Lama's Official Website](https://www.dalailama.com)
 - [Tibetan Buddhism](https://www.tibetanbuddhism.org)
+- [Lion's Roar - Buddhism News and Teachings](https://www.lionsroar.com) #TOBE_REVIEWED
 
 ### Videos
 - *Introduction to Tibetan Buddhism* (YouTube)
 - *The Art of Happiness* featuring the Dalai Lama (YouTube)
 - *Tibetan Meditation Practices* (YouTube)
+- *Understanding the Nature of Mind* (YouTube) #TOBE_REVIEWED
 
 ## Location
 Tibetan Buddhism is practiced worldwide, with significant communities in Tibet, India, Nepal, Bhutan, and the West. Major centers include:
 - Dharamshala, India (home of the Dalai Lama)
 - Rumtek Monastery, Sikkim, India
 - Samye Ling, Scotland, UK
+- Kopan Monastery, Nepal #TOBE_REVIEWED
 
 ## Contact Information
 For inquiries about Tibetan Buddhist teachings and practices, you can reach out to:
 - **Tibetan Buddhist Centers**: [Find a center near you](https://www.tibetanbuddhism.org/find-a-center)
 - **Email**: info@tibetanbuddhism.org
+- **Phone**: +1 (800) 555-0199 #TOBE_REVIEWED
 
 #tags
 #TibetanBuddhism #Philosophy #Enlightenment #Consciousness #Mindfulness
-
-

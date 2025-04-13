@@ -19,7 +19,8 @@ Campbell's work is significant in both scientific and philosophical circles as i
 - **Introduction to My Big TOE** - A foundational video where Campbell explains the core concepts of his theory.
 - **The Role of Love in Consciousness** - A lecture discussing the importance of love and its impact on personal growth and consciousness.
 - **Q&A Sessions** - Various sessions where Campbell answers questions from the audience regarding his theories and their implications.
-- **Exploring Reality and Consciousness** - A deeper dive into the nature of reality as per Campbell's framework. #TOBE_REVIEWED
+- **Exploring Reality and Consciousness** - A deeper dive into the nature of reality as per Campbell's framework.
+- **Practical Applications of My Big TOE** - A video exploring how to apply Campbell's theories in daily life. #TOBE_REVIEWED
 
 ## Location
 Tom Campbell is based in the United States, often traveling for speaking engagements and workshops. Specific event locations can be found on his official website.

@@ -10,16 +10,19 @@ Giesemann's work is significant in the fields of spirituality and mediumship, as
 - "The Language of Spirit: How to Unlock Your Psychic Ability"
 - "Messages of Hope: The Metaphysical Wisdom of Suzanne Giesemann"
 - "Still Right Here: Embracing Life After Loss"
+- #TOBE_REVIEWED "The Power of Love: Healing Through Connection"
 
 ## Websites
 - [Suzanne Giesemann Official Website](https://www.suzannegiesemann.com)
 - [The Awakened Way](https://www.theawakenedway.com)
 - [Evidential Mediumship](https://www.evidentialmediumship.com)
+- #TOBE_REVIEWED [Spiritual Insights with Suzanne](https://www.spiritualinsightswithsuzanne.com)
 
 ## Videos
 - "The Afterlife: What Happens When We Die?" - YouTube
 - "Connecting with Spirit: A Medium's Perspective" - YouTube
 - "Messages from Beyond: An Evening with Suzanne Giesemann" - YouTube
+- #TOBE_REVIEWED "Finding Peace After Loss: A Medium's Journey" - YouTube
 
 # Location
 Suzanne Giesemann conducts workshops and events across the United States and internationally. Specific locations vary, so it is best to consult her official website for the latest information on upcoming events and appearances.
