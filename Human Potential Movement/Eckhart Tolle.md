@@ -11,16 +11,17 @@ Tolle's work has gained significant traction in the fields of spirituality and s
 - **Stillness Speaks** by Eckhart Tolle
 - **The Flowering of Human Consciousness** by Eckhart Tolle #TOBE_REVIEWED
 
-
 ## Websites
 - [Eckhart Tolle Official Website](https://www.eckharttolle.com)
 - [Eckhart Tolle TV](https://eckharttolle.com/tv/) #TOBE_REVIEWED
 - [Eckhart Tolle Foundation](https://www.eckharttolle.com/foundation/) #TOBE_REVIEWED
+- [Eckhart Tolle Blog](https://www.eckharttolle.com/blog/) #TOBE_REVIEWED
 
 ## Videos
 - **The Power of Now - Eckhart Tolle** (YouTube)
 - **A New Earth - Oprah & Eckhart Tolle** (YouTube Series)
 - **Eckhart Tolle on Mindfulness** (Various platforms) #TOBE_REVIEWED
+- **Eckhart Tolle Guided Meditations** (YouTube) #TOBE_REVIEWED
 
 # Location
 Eckhart Tolle is based in Vancouver, Canada, but he travels globally for speaking engagements and workshops. His teachings are accessible through various online platforms, allowing individuals worldwide to connect with his insights.
