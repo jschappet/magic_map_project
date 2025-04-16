@@ -2603,24 +2603,14 @@
             "id": "79b70f1581d4c490",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dimethyltryptamine (DMT).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Dimethyltryptamine (DMT)"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -2796,12 +2786,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2eb2be1e1fce60",
+  "active": "79b70f1581d4c490",
   "lastOpenFiles": [
-    "Panpsychism.md",
-    "panpsychism.md",
-    "conflict-files-obsidian-git.md",
     "Dimethyltryptamine (DMT).md",
+    "panpsychism.md",
+    "Panpsychism.md",
+    "conflict-files-obsidian-git.md",
     "the law of one.md",
     "index.md",
     "Suzanne Giesemann.md",
