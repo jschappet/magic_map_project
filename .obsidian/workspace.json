@@ -2612,9 +2612,33 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "314aeb2a5d402bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phenomenology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phenomenology"
+            }
           }
         ],
-        "currentTab": 108
+        "currentTab": 109
       }
     ],
     "direction": "vertical"
@@ -2786,12 +2810,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79b70f1581d4c490",
+  "active": "314aeb2a5d402bc2",
   "lastOpenFiles": [
-    "Dimethyltryptamine (DMT).md",
-    "panpsychism.md",
-    "Panpsychism.md",
     "conflict-files-obsidian-git.md",
+    "panpsychism.md",
+    "Simulation Theory.md",
+    "Michael Raduga.md",
+    "Dimethyltryptamine (DMT).md",
+    "Panpsychism.md",
     "the law of one.md",
     "index.md",
     "Suzanne Giesemann.md",
@@ -2812,8 +2838,6 @@
     "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Eben Alexander.md",
     "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Bruce Greyson.md",
     "Experiential_Anomalous Realities/OBEs_NDEs/Anita Moorjani.md",
-    "Contact_NHI/Whitley Strieber.md",
-    "Contact_NHI/Grant Cameron.md",
     "Untitled",
     "Extras/Instructions",
     "Extras/Images/StageChanges.png",
