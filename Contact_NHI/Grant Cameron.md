@@ -1,0 +1,1 @@
+UFO researcher focused on consciousness, linking experiencer phenomena with downloads, synchronicity, and the primacy of mind in contact.

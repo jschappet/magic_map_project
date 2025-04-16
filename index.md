@@ -20,30 +20,30 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 #### #Religion #Spirituality
 
 1. [[The Buddha]] 
-2. [[Laozi]] (c. 6th Century BCE)  
-3. [[Adi Shankaracharya]] (788–820 CE)
+2. [[Humans/Laozi]] (c. 6th Century BCE)  
+3. [[Humans/Adi Shankaracharya]] (788–820 CE)
 4. [[Ibn Arabi]] (1165–1240)  
-5. [[Rumi]] (1207–1273)  
+5. [[Humans/Rumi]] (1207–1273)  
 6. [[Mulla Sadra]] (1571–1640)  
 7. [[Sri Aurobindo]] (1872–1950)  
 8. [[Teilhard de Chardin]] (1881–1955)  
 9. [[Neville Goddard]] (1905–1972)
-10. [[Eckhart Tolle]] (b. 1948)  
+10. [[Humans/Eckhart Tolle]] (b. 1948)  
 11. [[Ram Dass]] (1931–2019)  
 12. [[Joseph Campbell]] (1904–1987)  
 13. [[Baha’u’llah]] (1817–1892)  
 #### #Science and #Philosophy
 
-1. [[Donald Hoffman]] (b. 1960)  
+1. [[Science/Physics/Donald Hoffman]] (b. 1960)  
 2. [[Robert Lanza]] (b. 1956)  
-3. [[Roger Penrose]] (b. 1931)  
+3. [[Humans/Roger Penrose]] (b. 1931)  
 4. [[Max Tegmark]] (b. 1967)  
-5. [[Rupert Sheldrake]] (b. 1942)  
+5. [[Humans/Rupert Sheldrake]] (b. 1942)  
 6. [[Tom Campbell]] (b. 1944)  
-7. [[Carl Jung]] (1875–1961)  
-8. [[David Bohm]] (1917–1992)  
+7. [[Philosophy/Carl Jung]] (1875–1961)  
+8. [[Humans/David Bohm]] (1917–1992)  
 9. [[Bernardo Kastrup]] (b. 1974)  
-10. [[Iain McGilchrist]] (b. 1953)  
+10. [[Humans/Iain McGilchrist]] (b. 1953)  
 11. [[Ervin Laszlo]] (b. 1932)  
 12. [[Alan Watts]] (1915–1973)  
 13. [[John Mack]] (1929–2004)  
@@ -61,7 +61,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 #### Science and Holistic Integration
 
 1. [[Institute of Noetic Sciences (IONS)  ]]
-2. [[The Monroe Institute  ]]
+2. [[Organizations/The Monroe Institute]]
 3. [[The Center for Consciousness Studies (Arizona)  ]]
 4. [[HeartMath Institute]]
 5. [[Esalen Institute]]

@@ -11,19 +11,22 @@ In today's fast-paced world, where superficial interactions are common, Authenti
 - "The Art of Communicating" by Thich Nhat Hanh
 - "Nonviolent Communication: A Language of Life" by Marshall B. Rosenberg
 - "Dare to Lead" by Brené Brown #TOBE_REVIEWED
+- "The Gifts of Imperfection" by Brené Brown #TOBE_REVIEWED
 
 ## Websites
 - [Authentic Relating International](https://www.authenticrelatinginternational.com) #TOBE_REVIEWED
 - [The Center for Nonviolent Communication](https://www.cnvc.org)
 - [Authentic Relating Games](https://www.authenticrelatinggames.com) #TOBE_REVIEWED
+- [The Connection Practice](https://www.theconnectionpractice.com) #TOBE_REVIEWED
 
 ## Videos
 - "The Power of Vulnerability" by Brené Brown (TED Talk)
 - "Authentic Relating: Building Connection Through Communication" - [YouTube Link] #TOBE_REVIEWED
 - "How to Have Authentic Conversations" - [YouTube Link] #TOBE_REVIEWED
+- "The Importance of Vulnerability in Relationships" - [YouTube Link] #TOBE_REVIEWED
 
 # Location
-Authentic Relating workshops and events are held in various locations worldwide. Check local community centers, wellness studios, or online platforms for upcoming sessions. 
+Authentic Relating workshops and events are held in various locations worldwide. Check local community centers, wellness studios, or online platforms for upcoming sessions. Additionally, many organizations offer virtual workshops that can be accessed from anywhere.
 
 # Contact Information
 For inquiries about workshops, resources, or community events, please contact:

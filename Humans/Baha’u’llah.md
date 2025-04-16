@@ -10,14 +10,17 @@ Baha’u’llah’s emphasis on unity and justice is increasingly relevant in to
 - **"The Hidden Words"** - A collection of spiritual aphorisms that convey Baha’u’llah’s teachings.
 - **"Gleanings from the Writings of Baha’u’llah"** - A compilation of key writings that highlight the principles of the Baha’i Faith.
 - **"The Kitáb-i-Aqdas"** - The Most Holy Book of the Baha’i Faith, outlining laws and principles.
+- **"The Seven Valleys"** - A poetic exploration of the stages of spiritual development. #TOBE_REVIEWED
 
 ### Websites
 - [Baha'i International Community](https://www.bic.org) - An organization representing the worldwide Baha’i community, promoting human rights and social justice.
 - [Baha'i Teachings](https://www.bahai.org/beliefs/) - Official Baha’i website providing resources on the teachings of Baha’u’llah.
+- [Baha'i Reference Library](https://www.bahai.org/library/) - A comprehensive online resource for Baha’i writings and texts. #TOBE_REVIEWED
 
 ### Videos
 - [Baha’u’llah: The Founder of the Baha’i Faith](https://www.youtube.com/watch?v=example) - A documentary exploring the life and teachings of Baha’u’llah.
 - [Unity in Diversity: A Baha'i Perspective](https://www.youtube.com/watch?v=example) - A discussion on the importance of unity in the Baha’i Faith.
+- [The Life of Baha’u’llah](https://www.youtube.com/watch?v=example) - An overview of Baha’u’llah's life and contributions to humanity. #TOBE_REVIEWED
 
 ## Location
 The Baha’i World Centre, located in Haifa, Israel, serves as the spiritual and administrative center of the Baha’i Faith. It includes the Shrine of Baha’u’llah, which is a significant pilgrimage site for Baha’is worldwide.
@@ -30,6 +33,3 @@ For more information about the Baha’i Faith and its teachings, you can contact
 
 #tags
 #Bahaullah #BahaiFaith #Unity #SpiritualDevelopment #GlobalJustice #Humanity
-
-
-#TOBE_REVIEWED

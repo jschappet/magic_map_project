@@ -1,0 +1,1 @@
+Author of Dying to Be Me; healed from terminal cancer after an NDE, returning with profound spiritual insight and a message of unity.

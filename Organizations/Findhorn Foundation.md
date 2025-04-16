@@ -10,23 +10,26 @@ The Findhorn Foundation promotes sustainable living by demonstrating practical e
 - "The Findhorn Garden: Pioneering a New Vision of Humanity and Nature" by The Findhorn Community
 - "The Findhorn Book of Daily Wisdom" by The Findhorn Foundation
 - "Creating a New Earth: The Role of the Findhorn Community" by David Spangler
+- "Living the Findhorn Way: A Guide to Sustainable Community" by #TOBE_REVIEWED
 
 ### Websites
 - [Findhorn Foundation Official Website](https://www.findhorn.org)
 - [Findhorn Ecovillage](https://www.findhorn.org/ecovillage)
 - [Findhorn Community Blog](https://www.findhorn.org/blog)
+- [Findhorn Foundation Events](https://www.findhorn.org/events) #TOBE_REVIEWED
 
 ### Videos
 - "The Findhorn Community: A Journey into the Heart of Nature" (YouTube)
 - "Sustainable Living at Findhorn" (Vimeo)
 - "Spiritual Awakening at Findhorn" (Official Findhorn Foundation Channel)
+- "Community Life at Findhorn: A Day in the Life" (YouTube) #TOBE_REVIEWED
 
 ## Location
 The Findhorn Foundation is located in the village of Findhorn, Moray, Scotland. The address is:
-Findhorn Foundation,
-Findhorn,
-Forres,
-Moray IV36 3TZ,
+Findhorn Foundation,  
+Findhorn,  
+Forres,  
+Moray IV36 3TZ,  
 Scotland.
 
 ## Contact Information
@@ -39,5 +42,3 @@ Scotland.
 
 #tags
 #FindhornFoundation #SustainableLiving #SpiritualAwakening #Ecovillage #Community #NatureConnection #HumanGrowth
-
-

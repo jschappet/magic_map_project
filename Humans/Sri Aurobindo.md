@@ -1,6 +1,3 @@
-markdown
-# Humans/Sri Aurobindo
-
 ## Introduction
 Sri Aurobindo (1872-1950) was an Indian philosopher, yogi, and poet who played a pivotal role in the spiritual and political landscape of India during the early 20th century. He is best known for his philosophy of Integral Yoga, which aims to transform human consciousness and facilitate the realization of divine potential in everyday life. Aurobindo's teachings emphasize the integration of spiritual and material existence, advocating for a holistic approach to personal and collective evolution.
 
@@ -14,20 +11,23 @@ Sri Aurobindo's work remains relevant in contemporary discussions on spiritualit
 - **Savitri** - An epic poem that combines philosophy, spirituality, and mythology.
 - **Essays on the Gita** - A profound commentary on the Bhagavad Gita, revealing its spiritual significance.
 - **The Synthesis of Yoga** - A detailed exposition of his Integral Yoga philosophy.
+- **Letters on Yoga** - A collection of letters discussing various aspects of yoga and spiritual practice. #TOBE_REVIEWED
 
 ### Websites
 - [Sri Aurobindo Ashram](http://www.sriaurobindoashram.org) - The official website of the Sri Aurobindo Ashram, providing resources on his life, teachings, and ongoing activities.
 - [Auroville](https://www.auroville.org) - An international township inspired by Aurobindo's vision of human unity and spiritual evolution.
+- [Sri Aurobindo's Writings](http://www.sriaurobindo.com) - A digital archive of Aurobindo's writings and teachings. #TOBE_REVIEWED
 
 ### Videos
 - **Sri Aurobindo: A Brief Introduction** - A documentary exploring his life and teachings.
 - **Integral Yoga Explained** - A series of lectures discussing the principles of Integral Yoga and its practical applications.
+- **The Vision of Sri Aurobindo** - A video series examining Aurobindo's vision for humanity and its spiritual evolution. #TOBE_REVIEWED
 
-### Location
+## Location
 - **Sri Aurobindo Ashram**: Puducherry, India - The main center for the study and practice of Sri Aurobindo's teachings.
 - **Auroville**: An experimental township near Puducherry, dedicated to the ideals of human unity and spiritual growth.
 
-### Contact Information
+## Contact Information
 - **Sri Aurobindo Ashram**  
   Address: 41 Rue de la Marine, Puducherry, 605001, India  
   Email: info@sriaurobindoashram.org  
@@ -40,5 +40,3 @@ Sri Aurobindo's work remains relevant in contemporary discussions on spiritualit
 
 #tags 
 #SriAurobindo #IntegralYoga #Spirituality #HumanConsciousness #Philosophy #Auroville #PersonalGrowth #DivinePotential
-
-

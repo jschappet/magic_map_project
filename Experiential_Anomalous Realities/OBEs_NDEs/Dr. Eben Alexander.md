@@ -1,0 +1,1 @@
+Harvard neurosurgeon whose NDE during coma (documented in Proof of Heaven) revealed a hyper-real, conscious universe beyond brain activity.

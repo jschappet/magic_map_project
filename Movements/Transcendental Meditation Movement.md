@@ -10,16 +10,19 @@ The Transcendental Meditation movement emphasizes the importance of meditation i
 - *The Science of Being and Art of Living* by Maharishi Mahesh Yogi
 - *Transcendence: Healing and Transformation Through Transcendental Meditation* by Norman E. Rosenthal
 - *Strength in Stillness: The Power of Transcendental Meditation* by Bob Roth
+- *Meditation and Health: The Science of Transcendental Meditation* by Dr. David Orme-Johnson #TOBE_REVIEWED
 
 ### Websites
 - [Official Transcendental Meditation Website](https://www.tm.org)
 - [Maharishi International University](https://www.miu.edu)
 - [TM for Women](https://www.tm.org/women)
+- [TM Research and Studies](https://www.tm.org/research) #TOBE_REVIEWED
 
 ### Videos
 - [Introduction to Transcendental Meditation](https://www.youtube.com/watch?v=example1) #TOBE_REVIEWED
 - [The Benefits of Transcendental Meditation](https://www.youtube.com/watch?v=example2) #TOBE_REVIEWED
 - [Personal Experiences with TM](https://www.youtube.com/watch?v=example3) #TOBE_REVIEWED
+- [How to Practice TM](https://www.youtube.com/watch?v=example4) #TOBE_REVIEWED
 
 ## Location
 Transcendental Meditation centers can be found in various locations worldwide. To find a center near you, visit the official TM website and use the center locator tool.
@@ -31,4 +34,3 @@ For more information about Transcendental Meditation, you can reach out to the f
 
 #tags
 #TranscendentalMeditation #TM #Meditation #PersonalGrowth #Mindfulness #Wellbeing
-

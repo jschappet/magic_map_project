@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e2d437a1febc5235",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a2754c0676c158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556ba8539536b569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Raymond Moody.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dr. Raymond Moody"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5cd217de83ca4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c1f073d9509caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2eb2be1e1fce60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d45433ceb238a746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mood",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ddd30f1e485e6d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8799c722127b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01b5ed2fbd86279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad43ec651e70f142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "7192c2bcd54261f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humans/Adi Shankaracharya.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adi Shankaracharya"
+            }
+          },
+          {
+            "id": "b4076c20c2ee3be8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f092ec176220a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "f2b53cf29fc125c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9578ef104f32b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "556ba8539536b569",
+  "lastOpenFiles": [
+    "Dimethyltryptamine (DMT).md",
+    "Unified Field Theory of Consciousness.md",
+    "Unified Consciousness Theory.md",
+    "Transcendentalism.md",
+    "Through time and space- The evidence for remote viewing.md",
+    "The experimental evidence for parapsychological phenomena- A review.md",
+    "The Upanishads.md",
+    "The Soul Phone.md",
+    "The Simulation Hypothesis.md",
+    "The Parapsychological Association.md",
+    "The Monroe Institute.md",
+    "The Men Who Stare at Goats.md",
+    "The Kybalion.md",
+    "The International Academy of Consciousness (IAC).md",
+    "The Center for Consciousness Studies (CCS).md",
+    "Tao.md",
+    "Sufism.md",
+    "Stephan Schwartz.md",
+    "Stargate Program.md",
+    "Simulation Hypothesis.md",
+    "Shamanic Traditions.md",
+    "Rumi.md",
+    "Robert Monroe.md",
+    "Quantum Observer Effect.md",
+    "Quantum Entanglement.md",
+    "Pythagoras.md",
+    "Organizations",
+    "quartz/public/404.html",
+    "quartz/public/org_list.csv",
+    "quartz/public/static/giscus/dark.css",
+    "quartz/public/static/giscus/light.css",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/public/static/giscus",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/static",
+    "quartz/public/index.xml",
+    "quartz/public/sitemap.xml",
+    "quartz/public/Extras/Images/StageChanges.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-6.03.02-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-5.30.53-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png"
+  ]
+}

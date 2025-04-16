@@ -1,0 +1,1 @@
+Consciousness explorer who developed techniques for intentional OBEs and authored Adventures Beyond the Body.

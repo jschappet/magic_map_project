@@ -1,0 +1,1 @@
+Psychiatrist and researcher who developed the Greyson Scale to scientifically study NDEs and their aftereffects on consciousness and personality.

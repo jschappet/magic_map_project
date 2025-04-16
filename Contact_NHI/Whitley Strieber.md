@@ -1,0 +1,1 @@
+Author of Communion; experiencer of high-strangeness contact and altered states, exploring the intersections of alien phenomena, memory, and consciousness.

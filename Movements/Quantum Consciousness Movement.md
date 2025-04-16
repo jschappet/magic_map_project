@@ -11,32 +11,33 @@ The exploration of consciousness as a foundational element of reality is crucial
 - *Quantum Healing: Exploring the Frontiers of Mind/Body Medicine* by Deepak Chopra
 - *The Conscious Universe: The Scientific Truth of Psychic Phenomena* by Dean Radin
 - *The Field: The Quest for the Secret Force of the Universe* by Lynne McTaggart
+- *The Quantum Mind: How the Brain and Consciousness Work Together* by Dr. David H. S. Lee #TOBE_REVIEWED
 
 ### Websites
 - [Institute of Noetic Sciences](https://noetic.org)
 - [Quantum Consciousness Network](https://quantumconsciousness.org)
 - [The Mind Unleashed](https://themindunleashed.com)
+- [Consciousness Research Network](https://consciousnessresearch.org) #TOBE_REVIEWED
 
 ### Videos
 - "What is Quantum Consciousness?" - YouTube
 - "The Science of Consciousness" - TEDx Talks
 - "The Power of Consciousness" - Gaia
+- "Understanding Quantum Mechanics and Consciousness" - YouTube #TOBE_REVIEWED
 
-### Location
-- Quantum Consciousness Movement Headquarters  
-  123 Consciousness Lane  
-  Mind City, State, Zip Code  
-  Country  
+## Location
+Quantum Consciousness Movement Headquarters  
+123 Consciousness Lane  
+Mind City, State, Zip Code  
+Country  
 
-### Contact Information
+## Contact Information
 - Email: contact@quantumconsciousnessmovement.org
 - Phone: (123) 456-7890
 - Social Media:  
   - [Facebook](https://facebook.com/quantumconsciousnessmovement)  
   - [Twitter](https://twitter.com/quantumconsciousnessmovement)  
-  - [Instagram](https://instagram.com/quantumconsciousnessmovement)
+  - [Instagram](https://instagram.com/quantumconsciousnessmovement)  
 
-#tags
+#tags 
 #QuantumConsciousness #Consciousness #Reality #HumanPotential #QuantumPhysics #SpiritualDevelopment #MindBodyConnection
-
-

@@ -16,6 +16,9 @@ The principles advocated by Ram Dass resonate deeply in today’s fast-paced wor
 - **Still Here: Embracing Aging, Changing, and Dying** by Ram Dass  
   A reflective look at the aging process and how to approach it with grace and mindfulness.
 
+- **Polishing the Mirror: How to Live from Your Spiritual Heart** by Ram Dass  
+  A guide to living with an open heart and mind, offering practical advice for integrating spirituality into everyday life. #TOBE_REVIEWED
+
 ### Websites
 - [Ram Dass Official Website](https://www.ramdass.org)  
   A resource for teachings, events, and community engagement.
@@ -23,12 +26,18 @@ The principles advocated by Ram Dass resonate deeply in today’s fast-paced wor
 - [Love Serve Remember Foundation](https://www.loveserveremember.org)  
   A non-profit organization dedicated to preserving and sharing the teachings of Ram Dass.
 
+- [Ram Dass on Social Media](https://www.instagram.com/ramdassofficial)  
+  Follow for daily inspiration and teachings shared through various platforms. #TOBE_REVIEWED
+
 ### Videos
 - **Ram Dass: Becoming Nobody**  
   A documentary film that explores his life, teachings, and the journey of spiritual awakening.
 
 - **Ram Dass Talks on Mindfulness and Compassion**  
   A collection of recorded talks available on platforms like YouTube, where he shares insights on living a mindful life.
+
+- **Ram Dass Guided Meditations**  
+  A series of meditative practices led by Ram Dass, focusing on mindfulness and presence. #TOBE_REVIEWED
 
 ## Location
 Ram Dass spent much of his later life in Maui, Hawaii, where he continued to teach and share his wisdom. While he has passed, his teachings continue to inspire people globally.
@@ -40,5 +49,3 @@ For inquiries related to teachings, events, or community engagement, please reac
 
 #tags
 #RamDass #SpiritualAwakening #Mindfulness #Compassion #HumanPotential #Love #Meditation #EasternPhilosophy #SelfDiscovery
-
-
