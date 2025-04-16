@@ -1,0 +1,1 @@
+Radiation oncologist and founder of the Near Death Experience Research Foundation (NDERF), cataloging thousands of NDEs with striking consistencies.

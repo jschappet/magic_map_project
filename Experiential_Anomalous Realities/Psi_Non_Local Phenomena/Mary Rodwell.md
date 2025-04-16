@@ -1,0 +1,1 @@
+Hypnotherapist and researcher who works with experiencers of contact events, especially children, identifying expanded psychic abilities and non-local awareness.

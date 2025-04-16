@@ -1,0 +1,1 @@
+Founder of the CE-5 movement, teaching conscious contact through meditation and group coherence; advocates that ET interaction occurs through the field of mind.

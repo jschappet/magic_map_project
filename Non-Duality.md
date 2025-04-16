@@ -7,8 +7,8 @@ In today's fast-paced and often divisive world, the teachings of non-duality off
 # Resources
 
 ## Books
-- "I Am That" by Nisargadatta Maharaj
-- "The Power of Now" by Eckhart Tolle
+- "I Am That" by [[Nisargadatta Maharaj]]
+- "The Power of Now" by [[Eckhart Tolle]]
 - "The Book of Not Knowing" by Peter Ralston
 - "Awakening to Reality" by John Wheeler #TOBE_REVIEWED
 - "Non-Duality: A Study in Comparative Philosophy" by David Loy #TOBE_REVIEWED

@@ -1,0 +1,1 @@
+Founder of the Monroe Institute, he systematized OBEs into a trainable phenomenon, providing frameworks for navigating non-physical reality.

@@ -1,6 +1,6 @@
 # Introduction
 
-Nick Bostrom is a prominent philosopher known for his work on the implications of future technologies, particularly in the realm of artificial intelligence and the concept of simulation theory. He is the founding director of the Future of Humanity Institute at the University of Oxford, where he explores the ethical and existential risks associated with advanced technologies. Bostrom's ideas challenge our understanding of reality and have sparked significant debate in both academic and popular circles.
+Nick Bostrom is a prominent philosopher known for his work on the implications of future technologies, particularly in the realm of artificial intelligence and the concept of [[simulation theory]]. He is the founding director of the Future of Humanity Institute at the University of Oxford, where he explores the ethical and existential risks associated with advanced technologies. Bostrom's ideas challenge our understanding of reality and have sparked significant debate in both academic and popular circles.
 
 # Relevance
 
