@@ -2619,6 +2619,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Deepak Chopra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deepak Chopra"
+            }
+          },
+          {
+            "id": "8b85597605f98882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Dean Radin.md",
                 "mode": "source",
                 "source": false,
@@ -2636,9 +2660,33 @@
               "icon": "lucide-file",
               "title": "Dean Radin"
             }
+          },
+          {
+            "id": "58cddcec67be7e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Raymond Moody.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dr. Raymond Moody"
+            }
           }
         ],
-        "currentTab": 109
+        "currentTab": 111
       }
     ],
     "direction": "vertical"
@@ -2810,8 +2858,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "314aeb2a5d402bc2",
+  "active": "58cddcec67be7e2b",
   "lastOpenFiles": [
+    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Jeffrey Long.md",
+    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Eben Alexander.md",
+    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Bruce Greyson.md",
+    "Experiential_Anomalous Realities/OBEs_NDEs/Anita Moorjani.md",
+    "Contact_NHI/Grant Cameron.md",
+    "Contact_NHI/Dr. Steven Greer.md",
+    "Contact_NHI/Whitley Strieber.md",
+    "Untitled.md",
+    "Dean Radin.md",
     "Deepak Chopra.md",
     "Dimethyltryptamine (DMT).md",
     "Phenomenology.md",
@@ -2829,15 +2886,6 @@
     "Nisargadatta Maharaj.md",
     "Mystics/Mooji.md",
     "Michael Singer.md",
-    "Jean Baudrillard.md",
-    "Human Potential Movement/Eckhart Tolle.md",
-    "Experiential_Anomalous Realities/William Buhlman.md",
-    "Experiential_Anomalous Realities/Thomas Campbell.md",
-    "Experiential_Anomalous Realities/Robert Monroe.md",
-    "Experiential_Anomalous Realities/Psi_Non_Local Phenomena/Mary Rodwell.md",
-    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Raymond Moody.md",
-    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Jeffrey Long.md",
-    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Eben Alexander.md",
     "Untitled",
     "Extras/Instructions",
     "Extras/Images/StageChanges.png",
