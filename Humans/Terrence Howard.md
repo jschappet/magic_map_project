@@ -9,15 +9,17 @@ The relevance of Terrence Howard's work to the human consciousness movement lies
 ### Books
 - "The Science of Success: How to Achieve Your Goals" by Terrence Howard #TOBE_REVIEWED
 - "The Art of Acting" by Terrence Howard #TOBE_REVIEWED
+- "The Path of the Actor: A Journey Through Life and Art" by Terrence Howard #TOBE_REVIEWED
 
 ### Websites
 - [Terrence Howard Instagram](https://www.instagram.com/theterrencehoward/) 
 - [IMDB Profile](https://www.imdb.com/name/nm0005024/) 
-- www.terryslynchpins.com
+- www.terryslynchpins.com #TOBE_REVIEWED
 
 ### Videos
-- "Joe Rogan Experince #2152 - Terrence Howard" - [Video](https://youtu.be/g197xdRZsW0?feature=shared) Terrence Howard is an actor of stage and screen lauded for his work in "Crash," "Iron Man," "Empire," and "Shirley," as well as a musician and researcher in the fields of logic and engineering. 
+- "Joe Rogan Experience #2152 - Terrence Howard" - [Video](https://youtu.be/g197xdRZsW0?feature=shared) Terrence Howard is an actor of stage and screen lauded for his work in "Crash," "Iron Man," "Empire," and "Shirley," as well as a musician and researcher in the fields of logic and engineering. 
 - "Hustle & Flow: Behind the Scenes" - A look into the making of one of his most iconic films. #TOBE_REVIEWED
+- "Terrence Howard: The Journey of an Actor" - A documentary exploring his career and personal life. #TOBE_REVIEWED
 
 ## Location
 Terrence Howard is based in Los Angeles, California, where he continues to work on various film and television projects. #TOBE_REVIEWED

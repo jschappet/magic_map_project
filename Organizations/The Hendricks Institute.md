@@ -10,24 +10,27 @@ The values of the Hendricks Institute align closely with the higher levels of th
 - "Conscious Loving: The Journey to Co-Commitment" by Gay Hendricks and Kathlyn Hendricks
 - "The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level" by Gay Hendricks
 - "At the Speed of Life: A New Approach to Personal Transformation" by Gay Hendricks and Kathlyn Hendricks
+- "The Conscious Heart: Seven Soul-Choices That Create Your Relationship" by Gay Hendricks and Kathlyn Hendricks #TOBE_REVIEWED
 
 ### Websites
 - [Hendricks Institute Official Website](https://www.hendricks.com)
 - [Conscious Loving Program](https://www.hendricks.com/conscious-loving)
 - [The Big Leap Resources](https://www.hendricks.com/the-big-leap)
+- [Hendricks Institute Blog](https://www.hendricks.com/blog) #TOBE_REVIEWED
 
 ### Videos
 - "The Big Leap: How to Overcome Your Hidden Fears" - [YouTube Link](https://www.youtube.com/watch?v=example1) #TOBE_REVIEWED
 - "Conscious Loving: Creating a Relationship of Joy" - [YouTube Link](https://www.youtube.com/watch?v=example2) #TOBE_REVIEWED
 - "The Power of Authentic Communication" - [YouTube Link](https://www.youtube.com/watch?v=example3) #TOBE_REVIEWED
+- "Embracing Your True Self" - [YouTube Link](https://www.youtube.com/watch?v=example4) #TOBE_REVIEWED
 
-### Location
+## Location
 The Hendricks Institute is located in Ojai, California, a serene environment that fosters personal growth and transformation.
 
-### Contact Information
-For more information or inquiries, please contact:
+## Contact Information
+For more information or inquiries, please contact:  
 Email: info@hendricks.com  
 Phone: (805) 646-8342  
 
-Tags: 
+#tags 
 #HendricksInstitute #Consciousness #PersonalTransformation #EmotionalIntelligence #AuthenticCommunication #SelfAwareness #HolisticGrowth

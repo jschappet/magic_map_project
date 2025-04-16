@@ -14,11 +14,13 @@ Framing consciousness as a state of matter allows for a scientific approach to u
 ### Websites
 - [Max Tegmark's Personal Website](https://www.maxtegmark.com)
 - [Future of Life Institute](https://futureoflife.org) - founded by Tegmark, focusing on the implications of advanced technologies.
+- [MIT Department of Physics](https://physics.mit.edu) - where Tegmark conducts research and teaches. #TOBE_REVIEWED
 
 ### Videos
 - *Max Tegmark: How to Get Empowered and Create the Future* - TED Talk
 - *The Mathematical Universe* - Lecture Series on YouTube
 - *Consciousness and the Universe* - Panel Discussion featuring Max Tegmark
+- *Exploring the Nature of Reality* - Interview with Max Tegmark #TOBE_REVIEWED
 
 ## Location
 - Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
@@ -29,4 +31,3 @@ Framing consciousness as a state of matter allows for a scientific approach to u
 
 #tags
 #Science #Philosophy #Consciousness #MaxTegmark #Cosmology #ArtificialIntelligence
-

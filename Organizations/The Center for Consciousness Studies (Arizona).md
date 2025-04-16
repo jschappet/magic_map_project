@@ -11,30 +11,34 @@ Investigating the mysteries of consciousness paves the way for revolutionary ins
 - **"The Conscious Mind: In Search of a Fundamental Theory"** by David J. Chalmers
 - **"Waking Up: A Guide to Spirituality Without Religion"** by Sam Harris
 - **"How to Change Your Mind"** by Michael Pollan
+#TOBE_REVIEWED
+- **"The Feeling of Being Watched: A Memoir"** by Alia Volz
 
 ### Websites
 - [The Center for Consciousness Studies](http://www.consciousness.arizona.edu)
 - [The Association for the Scientific Study of Consciousness](https://assc.org)
 - [Consciousness Online](https://www.consciousnessonline.com)
+#TOBE_REVIEWED
+- [The Mind & Life Institute](https://www.mindandlife.org)
 
 ### Videos
 - **"What is Consciousness?"** - A lecture by David Chalmers (Available on YouTube)
 - **"The Science of Consciousness"** - A documentary exploring various theories of consciousness (Available on Vimeo)
 - **"Consciousness and the Brain"** - A panel discussion featuring leading researchers in the field (Available on TED Talks)
+#TOBE_REVIEWED
+- **"Exploring Consciousness: A Journey into the Mind"** - A seminar series featuring various experts (Available on Coursera)
 
 ## Location
-The Center for Consciousness Studies is located at:
+The Center for Consciousness Studies is located at:  
 University of Arizona  
 1234 Consciousness Ave  
 Tucson, AZ 85721  
 USA
 
 ## Contact Information
-For inquiries, please reach out to us at:
-- Email: info@consciousness.arizona.edu
-- Phone: (520) 555-0199
+For inquiries, please reach out to us at:  
+- Email: info@consciousness.arizona.edu  
+- Phone: (520) 555-0199  
 
-#tags
+#tags  
 #Consciousness #Research #HumanCapability #Interdisciplinary #Mind #Psychology #CognitiveScience
-
-

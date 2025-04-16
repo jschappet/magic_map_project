@@ -10,27 +10,29 @@ The Baha’i Faith promotes unity, universal justice, and spiritual empowerment 
 - **"The Hidden Words" by Baha'u'llah** - A collection of spiritual writings that convey the essence of Baha’i teachings.
 - **"The Dawn-Breakers" by Nabil-i-Azam** - A historical account of the early Baha’i community and its founding figures.
 - **"Baha'u'llah: The King of Glory" by John S. Hatcher** - A comprehensive biography of Baha'u'llah and his impact on the world.
+- **"The Baha’i Faith: A Short History" by Peter Smith** #TOBE_REVIEWED - A concise overview of the historical development of the Baha’i Faith.
 
 ### Websites
 - [Bahai.org](https://www.bahai.org) - The official website of the Baha’i community, providing resources, articles, and teachings.
 - [Baha’i International Community](https://www.bic.org) - An organization representing the Baha’i community at the United Nations and other international forums.
+- [Baha’i Teachings](https://www.bahaiteachings.org) #TOBE_REVIEWED - A site dedicated to exploring the teachings and principles of the Baha’i Faith.
 
 ### Videos
 - **"Introduction to the Baha’i Faith"** - A brief overview of the core beliefs and principles of the Baha’i Faith.
 - **"The Power of Unity"** - A documentary exploring the role of the Baha’i community in promoting global harmony.
+- **"Baha’i Community Contributions to Society"** #TOBE_REVIEWED - A video highlighting the various social initiatives led by Baha’is around the world.
 
-### Location
+## Location
 Baha’i centers can be found worldwide. Major centers include:
 - The Baha’i World Centre in Haifa, Israel
 - Local Baha’i community centers in cities across the globe
+- **Baha’i House of Worship** - A place of prayer and reflection, with notable locations in Wilmette, Illinois, and New Delhi, India. #TOBE_REVIEWED
 
-### Contact Information
+## Contact Information
 For more information or inquiries, please contact:
 - **Email:** info@bahai.org
 - **Phone:** +1 (202) 833-8990
 - **Address:** Baha’i National Center, 1233 Central St, Evanston, IL 60201, USA
 
-#tags
+#tags 
 #Baha’iFaith #Unity #SpiritualEmpowerment #GlobalJustice #CommunityBuilding
-
-

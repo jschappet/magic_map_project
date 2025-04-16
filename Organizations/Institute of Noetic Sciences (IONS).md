@@ -16,6 +16,9 @@ Advances in consciousness research foster a bridge between science and spiritual
 - **"The Field" by Lynne McTaggart**  
   Discusses the science of the energy field that connects all living things.
 
+- **"Consciousness Beyond Life" by Pim van Lommel**  
+  Examines near-death experiences and their implications for understanding consciousness. #TOBE_REVIEWED
+
 ### Websites
 - [Institute of Noetic Sciences](https://noetic.org)  
   The official site of IONS, featuring research, events, and educational resources.
@@ -23,12 +26,18 @@ Advances in consciousness research foster a bridge between science and spiritual
 - [Noetic Sciences Research](https://noetic.org/research)  
   A dedicated section for exploring the latest studies and findings in consciousness research.
 
+- [Noetic Blog](https://noetic.org/blog)  
+  Offers articles and insights on consciousness, spirituality, and personal growth. #TOBE_REVIEWED
+
 ### Videos
 - **"The Science of Consciousness" - IONS Conference 2021**  
   A recorded session featuring leading researchers discussing consciousness.
 
 - **"Transforming Consciousness" - IONS Webinar Series**  
   A series of webinars that delve into various aspects of consciousness and spirituality.
+
+- **"Exploring Consciousness: A Panel Discussion" - IONS 2022**  
+  A panel of experts discussing the latest findings in consciousness research. #TOBE_REVIEWED
 
 ## Location
 Institute of Noetic Sciences  

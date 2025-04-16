@@ -11,22 +11,26 @@ The relevance of the Human Potential Movement lies in its focus on unlocking hum
 - *Awaken the Giant Within* by Tony Robbins
 - *The Power of Now* by Eckhart Tolle
 - *The Seven Habits of Highly Effective People* by Stephen R. Covey
+- *Flow: The Psychology of Optimal Experience* by Mihaly Csikszentmihalyi #TOBE_REVIEWED
 
 ### Websites
 - [Human Potential Movement](http://www.humanpotentialmovement.org) #TOBE_REVIEWED
 - [Mindfulness and Human Potential](http://www.mindfulnessandhumanpotential.com) #TOBE_REVIEWED
 - [Institute for Human Potential](http://www.instituteforhumanpotential.org) #TOBE_REVIEWED
+- [Greater Good Science Center](https://greatergood.berkeley.edu) #TOBE_REVIEWED
 
 ### Videos
 - *The Power of Vulnerability* by Brené Brown (TED Talk)
 - *Your Body Language May Shape Who You Are* by Amy Cuddy (TED Talk)
 - *What Makes a Good Life? Lessons from the Longest Study on Happiness* by Robert Waldinger (TED Talk)
+- *How to Make Stress Your Friend* by Kelly McGonigal (TED Talk) #TOBE_REVIEWED
 
 ## Location
 The Human Potential Movement is not confined to a specific geographic location; it is a global phenomenon with various workshops, seminars, and retreats held worldwide. Notable centers include:
 - Esalen Institute, California, USA
 - Omega Institute, New York, USA
 - Findhorn Foundation, Scotland
+- The Human Potential Center, Australia #TOBE_REVIEWED
 
 ## Contact Information
 For more information about the Human Potential Movement, you can reach out to:
@@ -36,4 +40,3 @@ For more information about the Human Potential Movement, you can reach out to:
 
 #tags
 #HumanPotential #PersonalDevelopment #SelfActualization #Transformation #SocietalChange #Mindfulness
-

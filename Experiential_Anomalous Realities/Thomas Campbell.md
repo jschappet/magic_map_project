@@ -1,0 +1,1 @@
+Former NASA physicist and Monroe collaborator who wrote My Big TOE (Theory of Everything), describing reality as data within a Larger Consciousness System (LCS).

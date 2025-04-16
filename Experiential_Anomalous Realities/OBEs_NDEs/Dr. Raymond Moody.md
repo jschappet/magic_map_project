@@ -1,0 +1,1 @@
+Philosopher and physician who coined the term “near-death experience” in Life After Life, catalyzing mainstream interest in NDE research.
