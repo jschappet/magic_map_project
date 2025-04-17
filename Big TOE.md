@@ -7,9 +7,9 @@ The values of Big TOE align closely with the higher levels of the Map of Conscio
 ## Resources
 
 ### Books
-- **My Big TOE: Awakening** by Tom Campbell
-- **My Big TOE: Discovery** by Tom Campbell
-- **My Big TOE: Inner Workings** by Tom Campbell
+- **My Big TOE: Awakening** by [[Tom Campbell]]
+- **My Big TOE: Discovery** by [[Tom Campbell]]
+- **My Big TOE: Inner Workings** by [[Tom Campbell]]
 
 ### Websites
 - [My Big TOE Official Website](https://www.mybigtoe.com)
