@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03b2babf9166cd8a",
+        "id": "d2a2754c0676c158",
         "type": "tabs",
         "children": [
           {
-            "id": "aff1d9b8f12cf0af",
+            "id": "556ba8539536b569",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glenn B. Wheaton.md",
+                "file": "Wave Function Collapse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,97 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Glenn B. Wheaton"
-            }
-          },
-          {
-            "id": "7fe96167529056fc",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "cdb54cee8ff02594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adi Shankaracharya.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Adi Shankaracharya"
-            }
-          },
-          {
-            "id": "bcd85bac805248f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big TOE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Big TOE"
-            }
-          },
-          {
-            "id": "0ebb869a323916fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adi Shankaracharya.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Adi Shankaracharya"
+              "title": "Wave Function Collapse"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Baha",
+                "query": "mood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,53 +203,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9578ef104f32b2ce",
+  "active": "556ba8539536b569",
   "lastOpenFiles": [
-    "Adi Shankaracharya.md",
-    "conflict-files-obsidian-git.md",
-    "Unexplained Experiencers/Lucid Dreaming.md",
-    "Unexplained Experiencers/Link Dump.md",
-    "Technology/AI & Animal Communication.md",
-    "Science/Stuart Hameroff.md",
-    "Science/Simulation Theory.md",
-    "Science/Rupert Sheldrake.md",
-    "Science/Roger Penrose.md",
-    "Science/Quantum Mechanics.md",
-    "Science/Nick Bostrom.md",
-    "Science/Max Planck.md",
-    "Science/James Gates.md",
-    "Science/Iain McGilchrist.md",
-    "Science/Giulio Tononi.md",
-    "Science/Federico Faggin.md",
-    "Science/Erwin Schrödinger.md",
-    "Science/David Bohm.md",
-    "Science/Physics/John wheeler.md",
-    "Science/Physics/Donald Hoffman.md",
-    "Science/Physics/Bernardo Kastrup.md",
-    "Science/Frontier Science/Tom Campbell.md",
-    "Science/Biology/Robert Lanza.md",
-    "Philosophy/Philip Goff.md",
-    "Philosophy/Emmanuel Kant.md",
-    "Philosophy/David Chalmers.md",
-    "Untitled",
-    "Extras/Instructions",
-    "Extras/Images/StageChanges.png",
-    "Extras/Images/GitControlButton.png",
-    "Extras/Images/CommitAndSync.png",
-    "Religion",
-    "Human Potential Movement",
-    "Mystics",
-    "Unexplained Experiencers",
-    "X_Media",
-    "Contact_NHI",
-    "Experiential_Anomalous Realities/Psi_Non_Local Phenomena",
-    "Experiential_Anomalous Realities/OBEs_NDEs",
-    "Extras/Images/Screenshot 2025-03-21 at 4.44.06 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 4.38.13 PM.png",
-    "Extras/Images/Screenshot 2025-03-20 at 12.38.09 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 6.03.02 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 5.30.53 PM.png",
-    "Extras/Images/Screenshot 2025-03-21 at 4.44.14 PM.png",
-    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png"
+    "Vajrayana Buddhism.md",
+    "Pythagoras.md",
+    "Participatory Universe.md",
+    "Paul Davies.md",
+    "Parapsychology.md",
+    "panpsychism.md",
+    "Observer Effect.md",
+    "Non-Local Consciousness.md",
+    "Occult.md",
+    "Orch-OR Hypothesis.md",
+    "Nisargadatta Maharaj.md",
+    "New Thought Movement.md",
+    "Multiverse theory.md",
+    "Morphic Resonance.md",
+    "Monism.md",
+    "The Soul Phone.md",
+    "The Telepathy Tapes.md",
+    "Transcendentalism.md",
+    "Through time and space- The evidence for remote viewing.md",
+    "Unidentified Anomalous Phenomenon (UAP).md",
+    "Unified Consciousness Theory.md",
+    "Unified Field Theory of Consciousness.md",
+    "Wave Function Collapse.md",
+    "The Akashic Records.md",
+    "NHI.md",
+    "Big TOE.md",
+    "Organizations",
+    "quartz/public/404.html",
+    "quartz/public/org_list.csv",
+    "quartz/public/static/giscus/dark.css",
+    "quartz/public/static/giscus/light.css",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/public/static/giscus",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/static",
+    "quartz/public/index.xml",
+    "quartz/public/sitemap.xml",
+    "quartz/public/Extras/Images/StageChanges.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-6.03.02-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-5.30.53-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png"
   ]
 }
