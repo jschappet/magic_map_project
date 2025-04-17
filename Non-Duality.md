@@ -12,19 +12,26 @@ In today's fast-paced and often divisive world, the teachings of non-duality off
 - "The Book of Not Knowing" by Peter Ralston
 - "Awakening to Reality" by John Wheeler #TOBE_REVIEWED
 - "Non-Duality: A Study in Comparative Philosophy" by David Loy #TOBE_REVIEWED
+- "The Heart of Awareness" by [[Mooji]] #TOBE_REVIEWED
+- "Being Aware of Being Aware" by [[Greg Goode]] #TOBE_REVIEWED
 
 ## Websites
 - [Non-Duality.com](https://www.non-duality.com) - A comprehensive resource for non-duality teachings and community.
 - [Awakening Together](https://awakening-together.org) - A platform for sharing insights on non-duality and spiritual awakening.
 - [The Non-Duality Press](https://www.nondualitypress.org) - Publisher of books and resources related to non-duality.
+- [The Non-Dual Network](https://www.nondulnetwork.com) - A forum for discussions and resources on non-dual teachings. #TOBE_REVIEWED
 
 ## Videos
 - "Non-Duality: The End of Suffering" - A lecture by Rupert Spira on the nature of non-duality. #TOBE_REVIEWED
 - "The Illusion of Separation" - A documentary exploring non-dual perspectives. #TOBE_REVIEWED
 - "Eckhart Tolle on Non-Duality" - A talk by Eckhart Tolle discussing the principles of non-duality. #TOBE_REVIEWED
+- "Discovering Non-Duality" - A guided meditation by [[Adyashanti]] on experiencing non-dual awareness. #TOBE_REVIEWED
 
 # Location
-Non-duality teachings can be found in various spiritual centers and communities around the world. Many online platforms also offer virtual gatherings and discussions. Specific locations may vary, but major cities often have groups dedicated to exploring non-duality.
+Non-duality teachings can be found in various spiritual centers and communities around the world. Many online platforms also offer virtual gatherings and discussions. Specific locations may vary, but major cities often have groups dedicated to exploring non-duality. Notable centers include:
+- The Satsang Center in California, USA #TOBE_REVIEWED
+- The Advaita Center in London, UK #TOBE_REVIEWED
+- The Center for Non-Duality in Sydney, Australia #TOBE_REVIEWED
 
 # Contact Information
 For inquiries about non-duality teachings, workshops, or resources, please reach out via email at info@non-duality.com or visit our website for more information.

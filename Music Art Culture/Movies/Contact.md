@@ -8,14 +8,17 @@
 
 ### Books
 - "Contact" by Carl Sagan
+- "The Demon-Haunted World: Science as a Candle in the Dark" by Carl Sagan #TOBE_REVIEWED
 
 ### Websites
 - [NASA](https://www.nasa.gov) - Information on space exploration and scientific discoveries.
 - [SETI Institute](https://www.seti.org) - Research and resources on the search for extraterrestrial intelligence.
+- [Carl Sagan Portal](https://www.carlsagan.com) - A comprehensive resource on Carl Sagan's work and legacy. #TOBE_REVIEWED
 
 ### Videos
 - "Contact - The Movie" (1997) - A film that explores the themes of communication with extraterrestrial life.
 - "Carl Sagan: A Glorious Vision" - A documentary about the life and work of Carl Sagan and his contributions to science and popular culture.
+- "The Science of Contact: Exploring the Universe" - A video series discussing the scientific concepts presented in the film. #TOBE_REVIEWED
 
 ## Location
 The primary setting of "Contact" is the Very Large Array (VLA) in New Mexico, where Dr. Ellie Arroway and her team receive the extraterrestrial signal. The film also features various locations, including Washington D.C. and the fictional machine site, which is central to the plot.

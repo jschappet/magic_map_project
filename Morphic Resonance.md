@@ -8,17 +8,20 @@ Morphic resonance has implications across various fields, including biology, psy
 ## Books
 - **"A New Science of Life"** by Rupert Sheldrake - This book introduces the concept of morphic resonance and outlines its implications for biology and consciousness.
 - **"The Presence of the Past: Morphic Resonance and the Habits of Nature"** by Rupert Sheldrake - A deeper exploration of how morphic fields influence the natural world and our understanding of history.
+- **"The Science Delusion"** by Rupert Sheldrake - This book critiques conventional scientific beliefs and presents morphic resonance as an alternative perspective.
 
 ## Websites
 - [Rupert Sheldrake's Official Website](https://www.sheldrake.org) - A resource for articles, interviews, and updates on Sheldrake's research and ideas.
 - [Morphic Resonance Research](https://www.morphicresonance.org) - A compilation of studies, discussions, and resources related to morphic resonance.
+- [Sheldrake's Blog](https://www.sheldrake.org/blog) - A blog featuring ongoing discussions and insights into morphic resonance and related topics.
 
 ## Videos
 - **"Rupert Sheldrake: Morphic Resonance"** - A lecture by Rupert Sheldrake explaining the principles of morphic resonance and its implications for science and society.
 - **"The Science of Morphic Resonance"** - A documentary exploring the concept and its relevance in modern science.
+- **"Morphic Fields and Collective Memory"** - A panel discussion featuring various experts discussing the implications of morphic resonance in different fields.
 
 # Location
-Morphic resonance research and discussions can be found in various academic institutions and organizations worldwide. Notable conferences and seminars are often held in locations like London, New York, and other major cities where scientific communities gather to discuss alternative theories in biology and consciousness.
+Morphic resonance research and discussions can be found in various academic institutions and organizations worldwide. Notable conferences and seminars are often held in locations like London, New York, and other major cities where scientific communities gather to discuss alternative theories in biology and consciousness. Additionally, online webinars and virtual conferences have become increasingly popular, allowing for broader participation.
 
 # Contact Information
 For inquiries related to morphic resonance, you can contact:

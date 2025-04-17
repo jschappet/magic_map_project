@@ -7,17 +7,19 @@
 ## Resources
 
 ### Books
-- "The Quantum Thief" by Hannu Rajaniemi (inspiration for themes of reality and identity)
-- "The Man Who Was Thursday" by G.K. Chesterton (exploration of identity and societal roles)
+- "The Quantum Thief" by Hannu Rajaniemi (inspiration for themes of reality and identity) #TOBE_REVIEWED
+- "The Man Who Was Thursday" by G.K. Chesterton (exploration of identity and societal roles) #TOBE_REVIEWED
 - "The Power of Now" by Eckhart Tolle (insight into consciousness and presence) #TOBE_REVIEWED
 
 ### Websites
 - [IMDb - Coherence](https://www.imdb.com/title/tt2638144/) (Film details and reviews) #TOBE_REVIEWED
 - [The Science of Consciousness](https://www.consciousness.arizona.edu/) (Research and articles on consciousness) #TOBE_REVIEWED
+- [Film Analysis of Coherence](https://www.example.com) (In-depth analysis of themes and cinematography) #TOBE_REVIEWED
 
 ### Videos
 - [Coherence - Official Trailer](https://www.youtube.com/watch?v=Q8yUjH3Jx7g) (Trailer showcasing the film's premise) #TOBE_REVIEWED
 - [Exploring Alternate Realities in Film](https://www.youtube.com/watch?v=example) (Discussion on alternate realities in cinema) #TOBE_REVIEWED
+- [Director's Commentary on Coherence](https://www.youtube.com/watch?v=example) (Insights from the director on the film's creation) #TOBE_REVIEWED
 
 ## Location
 "Coherence" was primarily filmed in Los Angeles, California. The intimate setting of the dinner party was crucial to the film's atmosphere, allowing for a close examination of the characters' dynamics and the unfolding tension.

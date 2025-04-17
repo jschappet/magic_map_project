@@ -12,18 +12,22 @@ Jung's theories have paved the way for a deeper understanding of the shared huma
 - **"Memories, Dreams, Reflections"** by Carl Jung
 - **"Psychological Types"** by Carl Jung
 - **"Symbols of Transformation"** by Carl Jung #TOBE_REVIEWED
+- **"Modern Man in Search of a Soul"** by Carl Jung #TOBE_REVIEWED
+- **"The Red Book"** by Carl Jung #TOBE_REVIEWED
 
 ### Websites
 - [The Carl Jung Depth Psychology Website](https://www.carljungdepthpsychology.com)
 - [The Jung Center](https://junginstitute.org)
 - [Jungian Psychology](https://www.jungianpsychology.com)
 - [Jungian Analysis](https://jungiananalysis.org) #TOBE_REVIEWED
+- [C.G. Jung Foundation for Analytical Psychology](https://www.cgjungny.org) #TOBE_REVIEWED
 
 ### Videos
 - **"Carl Jung: The Mind of a Genius"** - A documentary exploring Jung's life and work.
 - **"Understanding Jung's Archetypes"** - A lecture on the significance of archetypes in modern psychology.
 - **"Collective Unconscious Explained"** - An animated video explaining Jung's concept of the collective unconscious.
 - **"Jungian Psychology in Practice"** - A video discussing how Jung's theories are applied in contemporary therapy. #TOBE_REVIEWED
+- **"The Shadow: Integrating the Unconscious"** - A discussion on the importance of acknowledging the Shadow in personal development. #TOBE_REVIEWED
 
 ## Location
 Carl Jung's primary residence and the location of his practice was in Küsnacht, Switzerland. The Jung Institute, which continues his legacy, is also located in Zürich, Switzerland.

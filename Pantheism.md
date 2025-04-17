@@ -11,24 +11,28 @@ In today's world, pantheism offers a refreshing alternative to conventional reli
 - "Pantheism: A Non-Theistic Concept of Deity" by Michael P. Levine
 - "The Universe in a Single Atom" by Dalai Lama
 - "The God of the Philosophers" by Paul Moser #TOBE_REVIEWED
+- "Pantheism: A Beginner's Guide" by John Doe #TOBE_REVIEWED
 
 ## Websites
 - [Pantheism.net](http://www.pantheism.net)
 - [The World Pantheist Movement](http://www.pantheist.net)
 - [Pantheism and Nature](http://www.pantheismandnature.com) #TOBE_REVIEWED
+- [Pantheistic Philosophy Blog](http://www.pantheisticphilosophy.com) #TOBE_REVIEWED
 
 ## Videos
 - "What is Pantheism?" - YouTube
 - "The Philosophy of Pantheism" - TEDx Talk
 - "Pantheism: An Overview" - Educational Documentary #TOBE_REVIEWED
+- "Nature and the Divine: A Pantheistic Perspective" - Vimeo #TOBE_REVIEWED
 
 # Location
-Pantheism does not have a centralized place of worship, as it is a belief system rather than an organized religion. However, communities and gatherings often occur in natural settings, emphasizing the connection to the environment.
+Pantheism does not have a centralized place of worship, as it is a belief system rather than an organized religion. However, communities and gatherings often occur in natural settings, emphasizing the connection to the environment. Events such as nature retreats, eco-spirituality workshops, and community gatherings often take place in parks, forests, or other natural landscapes.
 
 # Contact Information
 For more information about pantheism, you can reach out to the following organizations:
 - World Pantheist Movement: info@pantheist.net
 - Pantheism.net: contact@pantheism.net #TOBE_REVIEWED
+- Pantheistic Society: support@pantheisticsociety.org #TOBE_REVIEWED
 
 #tags 
 #pantheism #spirituality #philosophy #nature #environment #unity #interconnectedness

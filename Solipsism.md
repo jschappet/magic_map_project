@@ -10,14 +10,18 @@ In an age of digital communication and virtual realities, solipsism has gained r
 - "Solipsism: A New Philosophy" by John Doe #TOBE_REVIEWED
 - "The Ego and Its Own" by Max Stirner #TOBE_REVIEWED
 - "Meditations on First Philosophy" by René Descartes #TOBE_REVIEWED
+- "The Phenomenology of Spirit" by G.W.F. Hegel #TOBE_REVIEWED
+- "Being and Time" by Martin Heidegger #TOBE_REVIEWED
 
 ## Websites
 - Stanford Encyclopedia of Philosophy: [Solipsism](https://plato.stanford.edu/entries/solipsism/) #TOBE_REVIEWED
 - Internet Encyclopedia of Philosophy: [Solipsism](https://iep.utm.edu/solipsism/) #TOBE_REVIEWED
+- Philosophy Now: [Understanding Solipsism](https://philosophynow.org/issues/123/Understanding_Solipsism) #TOBE_REVIEWED
 
 ## Videos
 - "What is Solipsism?" - YouTube Channel: Philosophy Tube #TOBE_REVIEWED
 - "The Problem of Other Minds" - YouTube Channel: The School of Life #TOBE_REVIEWED
+- "The Nature of Reality: Solipsism Explained" - YouTube Channel: CrashCourse #TOBE_REVIEWED
 
 # Location
 This document is intended for anyone interested in philosophical discussions, particularly students and enthusiasts of metaphysics. It can be accessed online or in academic institutions that focus on philosophy and human consciousness.

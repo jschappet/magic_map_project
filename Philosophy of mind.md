@@ -10,16 +10,19 @@ The philosophy of mind is relevant in various fields including psychology, cogni
 - "Consciousness Explained" by Daniel Dennett
 - "The Conscious Mind: In Search of a Fundamental Theory" by David J. Chalmers
 - "Philosophy of Mind: A Beginner's Guide" by Ian Ravenscroft
+- "The Mind's I: Fantasies and Reflections on Life and the Mind" by Douglas R. Hofstadter and Daniel C. Dennett #TOBE_REVIEWED
 
 ## Websites
 - Stanford Encyclopedia of Philosophy: [Philosophy of Mind](https://plato.stanford.edu/entries/dualism/)
 - Internet Encyclopedia of Philosophy: [Philosophy of Mind](https://iep.utm.edu/category/mind/)
 - The Philosophers' Magazine: [Mind and Consciousness Articles](https://www.philosophersmag.com/)
+- The Center for Consciousness Studies: [Consciousness Resources](http://www.consciousness.arizona.edu/) #TOBE_REVIEWED
 
 ## Videos
 - "The Mind-Body Problem" - YouTube Lecture Series
 - "What is Consciousness?" - TED Talk by David Chalmers
 - "Philosophy of Mind and Consciousness" - Crash Course Philosophy
+- "Theories of Consciousness" - Lecture by Anil Seth #TOBE_REVIEWED
 
 # Location
 The philosophy of mind is studied in various academic institutions worldwide, particularly in philosophy, cognitive science, and psychology departments. Major conferences and workshops are often held in universities and research centers that focus on interdisciplinary studies related to mind and consciousness.

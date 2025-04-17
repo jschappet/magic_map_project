@@ -9,32 +9,36 @@ The multiverse theory is relevant in various fields such as theoretical physics,
 - "The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos" by Brian Greene
 - "Many Worlds: The New Science of the Multiverse" by Alex Vilenkin
 - "The Multiverse: A New Universe of the Mind" by David Deutsch
+- "The Fabric of the Cosmos: Space, Time, and Texture of Reality" by Brian Greene #TOBE_REVIEWED
 
 ## Websites
 - [NASA Multiverse Theory](https://www.nasa.gov)
 - [Stanford Encyclopedia of Philosophy - Multiverse](https://plato.stanford.edu/entries/multiverse/)
 - [Scientific American - The Multiverse](https://www.scientificamerican.com)
+- [Multiverse Theory Explained - Physics.org](https://www.physics.org) #TOBE_REVIEWED
 
 ## Videos
 - "The Multiverse Explained" - YouTube (Channel: PBS Space Time)
 - "Parallel Universes: The Multiverse" - YouTube (Channel: TED-Ed)
 - "The Science of the Multiverse" - YouTube (Channel: Veritasium)
+- "What is the Multiverse?" - YouTube (Channel: Kurzgesagt – In a Nutshell) #TOBE_REVIEWED
 
 # Location
 The study of multiverse theory is conducted globally, primarily in research institutions and universities. Notable locations include:
 - CERN, Switzerland
 - MIT, USA
 - Caltech, USA
+- University of Cambridge, UK #TOBE_REVIEWED
 
 # Contact Information
 For inquiries regarding multiverse theory, please contact:
-- Dr. Jane Smith, Theoretical Physicist
-  Email: jane.smith@university.edu
-  Phone: (123) 456-7890
+- Dr. Jane Smith, Theoretical Physicist  
+  Email: jane.smith@university.edu  
+  Phone: (123) 456-7890  
 
-- Dr. John Doe, Cosmologist
-  Email: john.doe@researchinstitute.org
-  Phone: (987) 654-3210
+- Dr. John Doe, Cosmologist  
+  Email: john.doe@researchinstitute.org  
+  Phone: (987) 654-3210  
 
 #tags 
 #TOBE_REVIEWED

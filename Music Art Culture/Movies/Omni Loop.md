@@ -10,22 +10,30 @@
 - "The Time Machine" by H.G. Wells
 - "Neuromancer" by William Gibson
 - "Altered Carbon" by Richard K. Morgan
+- "Consciousness and the Universe" by Roger Penrose #TOBE_REVIEWED
+- "The Infinite Game" by James P. Carse #TOBE_REVIEWED
 
 ### Websites
 - [The Future of Humanity Institute](https://www.fhi.ox.ac.uk) #TOBE_REVIEWED
 - [The Center for Humane Technology](https://humanetech.com) #TOBE_REVIEWED
 - [Singularity Hub](https://singularityhub.com) #TOBE_REVIEWED
+- [Time Travel Research](https://www.timetravelresearch.com) #TOBE_REVIEWED
+- [Virtual Reality Society](https://www.vrs.org.uk) #TOBE_REVIEWED
 
 ### Videos
 - "The Ethics of Artificial Intelligence" - TED Talk #TOBE_REVIEWED
 - "Understanding Virtual Reality: The Future of Human Interaction" - YouTube Documentary #TOBE_REVIEWED
 - "Time Travel: The Science and Philosophy" - Educational Series #TOBE_REVIEWED
+- "The Future of Consciousness" - Panel Discussion #TOBE_REVIEWED
+- "Virtual Reality and Its Impact on Society" - Documentary #TOBE_REVIEWED
 
 ## Location
 The primary filming locations for "Omni Loop" include urban settings that represent a near-future dystopia, as well as advanced technological environments designed to depict the virtual reality world of the Omni Loop. Specific locations include:
 - Downtown Los Angeles, California
 - The Virtual Reality Lab at Stanford University #TOBE_REVIEWED
 - Abandoned industrial sites for rebel hideouts #TOBE_REVIEWED
+- Rooftops of skyscrapers for panoramic shots #TOBE_REVIEWED
+- Futuristic tech expos and conventions #TOBE_REVIEWED
 
 ## Contact Information
 For inquiries regarding "Omni Loop," please contact:

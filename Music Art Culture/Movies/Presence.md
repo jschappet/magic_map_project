@@ -9,17 +9,21 @@
 ### Books
 - "The Singularity is Near" by Ray Kurzweil
 - "Consciousness: An Introduction" by Susan Blackmore
+- "Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom #TOBE_REVIEWED
+- "Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark #TOBE_REVIEWED
 
 ### Websites
 - [AI Ethics Lab](https://www.aiethicslab.com) #TOBE_REVIEWED
 - [Consciousness and Cognition Journal](https://www.journals.elsevier.com/consciousness-and-cognition) #TOBE_REVIEWED
+- [The Future of Humanity Institute](https://www.fhi.ox.ac.uk) #TOBE_REVIEWED
 
 ### Videos
 - "What is Consciousness?" - TED Talk by David Chalmers #TOBE_REVIEWED
 - "The Ethics of Artificial Intelligence" - Documentary on AI and Ethics #TOBE_REVIEWED
+- "How AI is Changing the World" - Panel Discussion #TOBE_REVIEWED
 
 ## Location
-The film "Presence" was primarily shot in various locations, including a state-of-the-art research facility and the serene landscapes of the Pacific Northwest, which serve to highlight Elara's isolation and connection to nature. #TOBE_REVIEWED
+The film "Presence" was primarily shot in various locations, including a state-of-the-art research facility and the serene landscapes of the Pacific Northwest, which serve to highlight Elara's isolation and connection to nature. The contrasting settings emphasize her internal struggle and the beauty of the natural world juxtaposed with the cold, clinical environment of her research. #TOBE_REVIEWED
 
 ## Contact Information
 For inquiries about the film "Presence," please contact:

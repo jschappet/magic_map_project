@@ -14,10 +14,12 @@ The teachings in "The Untethered Soul" resonate with those seeking personal grow
 ## Websites
 - [Untethered Soul Official Website](https://www.untetheredsoul.com) #TOBE_REVIEWED
 - [Michael A. Singer's Website](https://www.michaelsinger.com) #TOBE_REVIEWED
+- [Temple of the Universe](https://www.templeoftheuniverse.com) #TOBE_REVIEWED
 
 ## Videos
 - "The Untethered Soul: A Guide to Spiritual Awakening" - YouTube #TOBE_REVIEWED
 - "Michael Singer on Surrender and Freedom" - YouTube #TOBE_REVIEWED
+- "Michael Singer: The Art of Letting Go" - YouTube #TOBE_REVIEWED
 
 # Location
 Michael Singer's teachings and workshops are often held at the Temple of the Universe in Alachua, Florida. This spiritual community offers a space for individuals to explore consciousness and engage in practices that promote inner growth.

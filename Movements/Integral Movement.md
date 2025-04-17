@@ -12,16 +12,19 @@ In an increasingly fragmented world, the Integral Movement offers a framework fo
 - *The Integral Vision* by Ken Wilber
 - *The Spectrum of Consciousness* by Ken Wilber
 - *Integral Psychology* by Ken Wilber #TOBE_REVIEWED
+- *The Integral Approach: A Guide to the Future* by Various Authors #TOBE_REVIEWED
 
 ### Websites
 - [Integral Life](https://integrallife.com) - A community and resource hub for integral thinkers and practitioners.
 - [Ken Wilber's Official Site](https://www.kenwilber.com) - Information about Wilber's work and publications.
 - [Integral Forum](https://www.integralforum.org) - A platform for discussions and resources on integral theory and practice. #TOBE_REVIEWED
+- [Integral Institute](https://www.integralinstitute.org) - An organization dedicated to advancing integral theory and its applications. #TOBE_REVIEWED
 
 ### Videos
 - [Ken Wilber: An Introduction to Integral Theory](https://www.youtube.com/watch?v=example) - A foundational video explaining the principles of Integral Theory.
 - [The Integral Movement: A Panel Discussion](https://www.youtube.com/watch?v=example) - A discussion featuring key figures in the Integral Movement.
 - [Integral Theory in Practice](https://www.youtube.com/watch?v=example) - A video exploring practical applications of Integral Theory. #TOBE_REVIEWED
+- [Integral Meditation: A Practical Guide](https://www.youtube.com/watch?v=example) - A video demonstrating meditation practices informed by Integral Theory. #TOBE_REVIEWED
 
 ## Location
 The Integral Movement is global, with gatherings, workshops, and events occurring in various locations. Notable hubs include:
@@ -30,6 +33,7 @@ The Integral Movement is global, with gatherings, workshops, and events occurrin
 - Sydney, Australia
 - Berlin, Germany #TOBE_REVIEWED
 - Toronto, Canada #TOBE_REVIEWED
+- Amsterdam, Netherlands #TOBE_REVIEWED
 
 ## Contact Information
 For inquiries and more information about the Integral Movement, please contact:

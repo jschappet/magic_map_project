@@ -10,22 +10,18 @@ In "Mickey 17," we follow the story of a disposable worker named Mickey, who is 
 - "Mickey 17" is based on the novel "Mickey 7" by Edward Ashton, which delves into similar themes of cloning, identity, and the human experience.
 
 ### Websites
-#TOBE_REVIEWED
-- [Mickey 17 Official Site](https://www.example.com) - A comprehensive resource for news, trailers, and behind-the-scenes content related to the film.
-- [Cloning Ethics Discussion](https://www.example.com) - An article exploring the ethical implications of cloning in modern science.
+- [Mickey 17 Official Site](https://www.example.com) - A comprehensive resource for news, trailers, and behind-the-scenes content related to the film. #TOBE_REVIEWED
+- [Cloning Ethics Discussion](https://www.example.com) - An article exploring the ethical implications of cloning in modern science. #TOBE_REVIEWED
 
 ### Videos
-#TOBE_REVIEWED
-- [Mickey 17 Trailer](https://www.example.com) - The official trailer providing a glimpse into the film's storyline and visual style.
-- [Panel Discussion on Cloning and Identity](https://www.example.com) - A recorded discussion featuring experts in ethics and science fiction exploring themes related to the film.
+- [Mickey 17 Trailer](https://www.example.com) - The official trailer providing a glimpse into the film's storyline and visual style. #TOBE_REVIEWED
+- [Panel Discussion on Cloning and Identity](https://www.example.com) - A recorded discussion featuring experts in ethics and science fiction exploring themes related to the film. #TOBE_REVIEWED
 
 ## Location
-#TOBE_REVIEWED
-- The film "Mickey 17" is set on a fictional planet, which serves as a backdrop for the colonization mission and the various challenges faced by the characters.
+The film "Mickey 17" is set on a fictional planet named "Nexus Prime," which serves as a backdrop for the colonization mission and the various challenges faced by the characters. The planet's harsh environment and alien landscape highlight the dangers of the mission and the expendability of the clones. #TOBE_REVIEWED
 
 ## Contact Information
-#TOBE_REVIEWED
-- For inquiries related to "Mickey 17," please contact the production company at contact@example.com.
+For inquiries related to "Mickey 17," please contact the production company at contact@example.com. #TOBE_REVIEWED
 
 #tags 
 #SciFi #Cloning #Identity #Consciousness #Existentialism #Adventure #Ethics #Futurism #HumanExperience

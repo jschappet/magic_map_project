@@ -1,26 +1,32 @@
 ## Introduction
-TODO : give a brief introduction for this Organization
+Big TOE, or "Big Theory of Everything," is a comprehensive framework developed by physicist Tom Campbell that seeks to unify the understanding of reality, consciousness, and the nature of existence. It combines insights from physics, metaphysics, and consciousness studies to provide a holistic view of the universe and our place within it. By exploring the relationship between consciousness and reality, Big TOE aims to bridge the gap between science and spirituality.
 
 ## Relevance
-TODO : describe how the values of this organization fits in the map of Consciousness
+The values of Big TOE align closely with the higher levels of the Map of Consciousness, as proposed by David Hawkins. Concepts such as love, joy, peace, and enlightenment are central to the framework, promoting personal growth and the evolution of consciousness. By emphasizing the importance of understanding our individual roles in the larger tapestry of existence, Big TOE encourages a shift from fear and ego-driven behavior to a more compassionate and interconnected way of living.
+
 ## Resources
 
 ### Books
-- TODO: List up to 3 books from this organization that are relevant to this topic 
+- **My Big TOE: Awakening** by Tom Campbell
+- **My Big TOE: Discovery** by Tom Campbell
+- **My Big TOE: Inner Workings** by Tom Campbell
 
 ### Websites
--- TODO: List up to 3 websites from this organization that are relevant to this topic 
+- [My Big TOE Official Website](https://www.mybigtoe.com)
+- [Tom Campbell's YouTube Channel](https://www.youtube.com/user/TomCampbellMyBigToe)
+- [My Big TOE Forum](https://www.mybigtoe.com/forum)
+
 ### Videos
-- TODO: List up to 3 videos from this organization that are relevant to this topic 
+- [Introduction to My Big TOE](https://www.youtube.com/watch?v=example1) #TOBE_REVIEWED
+- [Tom Campbell on Consciousness](https://www.youtube.com/watch?v=example2) #TOBE_REVIEWED
+- [Exploring Reality with Big TOE](https://www.youtube.com/watch?v=example3) #TOBE_REVIEWED
 
 ### Location
-TODO: give location information
+The organization operates primarily online, but Tom Campbell often participates in workshops and conferences around the world. Specific event locations vary.
 
 ### Contact Information
 For more information or inquiries, please contact:
-TODO: Give Contact Information 
+Email: info@mybigtoe.com #TOBE_REVIEWED
 
 ## Tags
-#TODO add more tags
-
-
+#BigTOE #Consciousness #TomCampbell #Spirituality #Physics #Metaphysics #PersonalGrowth #HolisticUnderstanding

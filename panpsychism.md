@@ -10,17 +10,20 @@ Panpsychism is increasingly relevant in various fields, including philosophy, co
 - "The Consciousness Instinct: Unifying Our Mind and Our World" by Michael S. Gazzaniga
 - "Panpsychism in the West" by David J. Chalmers
 - "Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False" by Thomas Nagel
+- "The Conscious Mind: In Search of a Fundamental Theory" by David J. Chalmers #TOBE_REVIEWED
 
 ## Websites
 - [The Panpsychism Project](https://www.panpsychismproject.org) - A platform dedicated to exploring panpsychism and its implications.
 - [Stanford Encyclopedia of Philosophy - Panpsychism](https://plato.stanford.edu/entries/panpsychism/) - A comprehensive overview of panpsychism, its history, and its philosophical context.
+- [Panpsychism: An Overview](https://www.panpsychismoverview.org) - A resource for introductory articles and papers on panpsychism. #TOBE_REVIEWED
 
 ## Videos
 - "Panpsychism: The Idea That Everything Has a Mind" - A YouTube lecture by [Philosopher's Name].
 - "The Case for Panpsychism" - A panel discussion featuring leading thinkers in the field.
+- "Exploring Consciousness: The Panpsychism Debate" - A documentary featuring interviews with experts. #TOBE_REVIEWED
 
 # Location
-Panpsychism discussions and events can be found in various academic institutions and conferences focusing on philosophy, cognitive science, and consciousness studies. Notable conferences include the Consciousness and Experiential Psychology Conference and the Association for the Scientific Study of Consciousness Annual Meeting.
+Panpsychism discussions and events can be found in various academic institutions and conferences focusing on philosophy, cognitive science, and consciousness studies. Notable conferences include the Consciousness and Experiential Psychology Conference and the Association for the Scientific Study of Consciousness Annual Meeting. Additionally, universities with strong philosophy and cognitive science departments often host talks and seminars on the subject.
 
 # Contact Information
 For inquiries related to panpsychism, you can reach out to:

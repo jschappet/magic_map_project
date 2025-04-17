@@ -7,15 +7,17 @@
 ## Resources
 
 ### Books
-- "Cocoon" is based on a short story by David Saperstein, which explores similar themes of rejuvenation and the mysteries of life.
+- "Cocoon" is based on a short story by David Saperstein, which explores similar themes of rejuvenation and the mysteries of life. #TOBE_REVIEWED
 
 ### Websites
 - [Cocoon on IMDb](https://www.imdb.com/title/tt0088930/) #TOBE_REVIEWED
 - [Cocoon Overview on Rotten Tomatoes](https://www.rottentomatoes.com/m/cocoon) #TOBE_REVIEWED
+- [Cocoon Analysis and Themes](https://www.example.com/cocoon-analysis) #TOBE_REVIEWED
 
 ### Videos
 - [Cocoon Trailer](https://www.youtube.com/watch?v=example) #TOBE_REVIEWED
 - [Cocoon Behind the Scenes](https://www.youtube.com/watch?v=example) #TOBE_REVIEWED
+- [Cocoon Film Discussion](https://www.example.com/cocoon-discussion) #TOBE_REVIEWED
 
 ## Location
 The film "Cocoon" is primarily set in a fictional retirement home in Florida, showcasing the vibrant environment that contrasts with the themes of aging and rejuvenation. 

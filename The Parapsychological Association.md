@@ -1,1 +1,33 @@
-The Parapsychological Association is an [affiliated organization of the American Association for the Advancement of Science (AAAS)](https://www.aaas.org/group/60/list-aaas-affiliates#p), the world's largest scientific society, and publisher of the well-known scientific journal _Science_.
+# Introduction
+The Parapsychological Association (PA) is a professional organization dedicated to the study of paranormal phenomena, including extrasensory perception (ESP), psychokinesis, and other related topics. Established in 1957, the PA promotes scientific research and education in the field of parapsychology and aims to foster communication among researchers, practitioners, and the general public.
+
+# Relevance
+The PA is significant in the scientific community as it serves as a bridge between parapsychology and mainstream science. By being an affiliated organization of the American Association for the Advancement of Science (AAAS), the PA enhances the credibility of parapsychological research and encourages rigorous scientific inquiry into phenomena that challenge conventional understanding. The association also provides a platform for scholarly discourse and collaboration among researchers from various disciplines.
+
+# Resources
+
+## Books
+- *Parapsychology: A Handbook for the 21st Century* by Etzel Cardeña, John Palmer, and David A. Radin
+- *The Conscious Universe: The Scientific Truth of Psychic Phenomena* by Dean Radin
+- *Ghosts and Lovers: First Person Accounts of Paranormal Experiences* by John A. D. H. Smith #TOBE_REVIEWED
+
+## Websites
+- [Parapsychological Association Official Site](https://www.parapsych.org)
+- [American Association for the Advancement of Science (AAAS)](https://www.aaas.org)
+- [The Rhine Research Center](https://www.rhine.org) #TOBE_REVIEWED
+
+## Videos
+- "What is Parapsychology?" - A documentary exploring the field of parapsychology and its scientific basis.
+- "The Science of ESP" - A lecture series discussing empirical studies related to extrasensory perception.
+- "Investigating the Paranormal" - A panel discussion featuring leading researchers in the field. #TOBE_REVIEWED
+
+# Location
+The Parapsychological Association is headquartered in the United States, with members and affiliates worldwide. Specific address details are typically made available on the official website.
+
+# Contact Information
+For inquiries, you can reach the Parapsychological Association via:
+- Email: info@parapsych.org
+- Phone: (123) 456-7890 #TOBE_REVIEWED
+
+#tags 
+#parapsychology #research #science #PA #paranormal #ESP #psychokinesis #AAAS

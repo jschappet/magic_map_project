@@ -16,6 +16,8 @@ Kant's ideas continue to be relevant today, influencing contemporary debates in 
 - The Critique of Judgment by Emmanuel Kant
 - Prolegomena to Any Future Metaphysics by Emmanuel Kant
 - Religion within the Bounds of Bare Reason by Emmanuel Kant #TOBE_REVIEWED
+- The Metaphysics of Morals by Emmanuel Kant #TOBE_REVIEWED
+- Anthropology from a Pragmatic Point of View by Emmanuel Kant #TOBE_REVIEWED
 
 ## Websites
 
@@ -23,6 +25,7 @@ Kant's ideas continue to be relevant today, influencing contemporary debates in 
 - Internet Encyclopedia of Philosophy: [Immanuel Kant](https://iep.utm.edu/kant/)
 - The Kant Society: [Kant Society](http://www.kantsociety.org/)
 - Kant’s Works Online: [Kant Online](https://www.kantonline.com) #TOBE_REVIEWED
+- Kantian Ethics Resources: [Kantian Ethics](https://www.kantianethics.com) #TOBE_REVIEWED
 
 ## Videos
 
@@ -30,6 +33,7 @@ Kant's ideas continue to be relevant today, influencing contemporary debates in 
 - "The Philosophy of Immanuel Kant" - CrashCourse Philosophy
 - "Kant's Critique of Pure Reason Explained" - Philosophy Tube
 - "Understanding Kant's Ethics" - TED-Ed #TOBE_REVIEWED
+- "Kant's Impact on Modern Philosophy" - Philosophy Overdose #TOBE_REVIEWED
 
 # Location
 

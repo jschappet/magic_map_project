@@ -11,22 +11,28 @@ As society grapples with loss and grief, the Soul Phone offers a new perspective
 - **"Life After Life" by Raymond Moody**  
   A classic text that examines near-death experiences and the possibility of an afterlife.  
 - **"The Soul Phone: A New Technology for Communicating with the Afterlife" by Mark Pitstick**  
-  An exploration of the science and philosophy behind the Soul Phone concept.
+  An exploration of the science and philosophy behind the Soul Phone concept.  
+- **"Proof of Heaven" by Eben Alexander**  
+  A neurosurgeon's account of his near-death experience and insights into consciousness and the afterlife. #TOBE_REVIEWED
 
 ## Websites
 - [Soul Phone Project](https://www.soulphone.org)  
   The official website providing updates, research, and information about the Soul Phone initiative.  
 - [Institute of Noetic Sciences](https://noetic.org)  
-  A resource for research on consciousness and the interconnectedness of life, including studies related to afterlife communication.
+  A resource for research on consciousness and the interconnectedness of life, including studies related to afterlife communication.  
+- [The Afterlife Research Center](https://www.afterliferesearch.org)  
+  A platform dedicated to studying and sharing knowledge about the afterlife and related phenomena. #TOBE_REVIEWED
 
 ## Videos
 - **"The Soul Phone: Connecting with the Afterlife" - YouTube**  
   A detailed presentation on how the Soul Phone works and its potential to change our understanding of life after death.  
 - **"Life After Death: A Conversation with Experts" - Vimeo**  
-  A panel discussion featuring scientists and spiritual leaders discussing the implications of afterlife communication technologies.
+  A panel discussion featuring scientists and spiritual leaders discussing the implications of afterlife communication technologies.  
+- **"Exploring Consciousness: The Science Behind the Soul Phone" - TEDx Talk**  
+  An engaging talk that delves into the scientific underpinnings of the Soul Phone and its impact on our perception of consciousness. #TOBE_REVIEWED
 
 # Location
-The Soul Phone Project is based in [City, State]. Specific details regarding the physical location, including any research facilities or offices, will be provided upon request.
+The Soul Phone Project is based in [City, State]. Specific details regarding the physical location, including any research facilities or offices, will be provided upon request. #TOBE_REVIEWED
 
 # Contact Information
 For inquiries, collaborations, or further information about the Soul Phone, please reach out via the following channels:  
@@ -35,7 +41,7 @@ For inquiries, collaborations, or further information about the Soul Phone, plea
 - Mailing Address:  
   Soul Phone Project  
   [Street Address]  
-  [City, State, Zip Code]  
+  [City, State, Zip Code] #TOBE_REVIEWED
 
 #tags  
 #TOBE_REVIEWED

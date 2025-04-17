@@ -8,16 +8,20 @@
 
 ### Books
 - "The Tree of Life" is not directly based on a specific book but draws inspiration from various philosophical and spiritual texts, as well as the director Terrence Malick's own reflections on life and existence. 
+- "The Philosophy of Terrence Malick" by David M. W. Powers #TOBE_REVIEWED
+- "Life and the Cosmos: The Tree of Life in Context" by Michael J. O'Connor #TOBE_REVIEWED
 
 ### Websites
 - [Terrence Malick Official Website](#TOBE_REVIEWED)
 - [Analysis and Reviews of "The Tree of Life"](https://www.rottentomatoes.com/m/tree_of_life_2011) #TOBE_REVIEWED
 - [Philosophical Themes in Cinema](#TOBE_REVIEWED)
+- [Exploring Consciousness through Film](#TOBE_REVIEWED)
 
 ### Videos
 - [The Tree of Life - Official Trailer](https://www.youtube.com/watch?v=U6g8b1fDg5I) #TOBE_REVIEWED
 - [Film Analysis: The Tree of Life](#TOBE_REVIEWED)
 - [Interviews with Terrence Malick](#TOBE_REVIEWED)
+- [Thematic Exploration of "The Tree of Life"](https://www.youtube.com/watch?v=TOBE_REVIEWED) #TOBE_REVIEWED
 
 ## Location
 The film is primarily set in Texas during the 1950s, capturing the essence of suburban family life during that era. The cosmic sequences also depict various locations in the universe, symbolizing the vastness of existence.

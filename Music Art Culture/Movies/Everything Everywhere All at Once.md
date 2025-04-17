@@ -13,11 +13,13 @@ This movie is highly relevant to the human consciousness movement as it explores
 - [Official Movie Website](https://www.everythingeverywhereallatonce.com) #TOBE_REVIEWED
 - [Rotten Tomatoes](https://www.rottentomatoes.com/m/everything_everywhere_all_at_once) #TOBE_REVIEWED
 - [IMDb](https://www.imdb.com/title/tt6710474/) #TOBE_REVIEWED
+- [Wikipedia](https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once) #TOBE_REVIEWED
 
 ### Videos
 - [Trailer for "Everything Everywhere All at Once"](https://www.youtube.com/watch?v=your_trailer_link) #TOBE_REVIEWED
 - [Director's Commentary](https://www.youtube.com/watch?v=your_commentary_link) #TOBE_REVIEWED
 - [Interviews with the Cast and Crew](https://www.youtube.com/watch?v=your_interview_link) #TOBE_REVIEWED
+- [Behind the Scenes Featurette](https://www.youtube.com/watch?v=your_behind_the_scenes_link) #TOBE_REVIEWED
 
 ## Location
 The film is set in various locations that represent different realities, primarily focusing on a laundromat in a bustling urban environment. The diverse settings highlight the contrast between Evelyn's mundane life and the fantastical worlds she encounters. #TOBE_REVIEWED

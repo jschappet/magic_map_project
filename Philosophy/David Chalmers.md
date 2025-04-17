@@ -19,7 +19,7 @@ Chalmers' work is highly relevant in contemporary discussions about consciousnes
 - **"Virtual Reality and the Future of Consciousness"** - A talk exploring the intersections of technology and philosophical questions of existence. #TOBE_REVIEWED
 
 # Location
-David Chalmers is currently a professor at New York University, where he teaches philosophy and is involved in research at the Center for Mind, Brain, and Consciousness. His work often takes him to various academic conferences and seminars globally.
+David Chalmers is currently a professor at New York University, where he teaches philosophy and is involved in research at the Center for Mind, Brain, and Consciousness. His work often takes him to various academic conferences and seminars globally. #TOBE_REVIEWED
 
 # Contact Information
 For inquiries, David Chalmers can be reached through his official website or via email at [contact@consc.net](mailto:contact@consc.net). #TOBE_REVIEWED

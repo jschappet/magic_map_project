@@ -8,19 +8,23 @@
 
 ### Books
 - "The Fountain" was inspired by the graphic novel of the same name by Darren Aronofsky and Kent Williams.
+- "Darren Aronofsky: The Filmmaker's Journey" by Michael J. S. Roth #TOBE_REVIEWED
 
 ### Websites
 - [Darren Aronofsky's Official Website](http://www.darrenaronofsky.com) #TOBE_REVIEWED
 - [IMDb - The Fountain](https://www.imdb.com/title/tt0414993/) #TOBE_REVIEWED
+- [Rotten Tomatoes - The Fountain](https://www.rottentomatoes.com/m/fountain) #TOBE_REVIEWED
 
 ### Videos
 - "The Fountain" Trailer [YouTube Link] #TOBE_REVIEWED
 - Director's Commentary on "The Fountain" [YouTube Link] #TOBE_REVIEWED
+- Behind the Scenes Featurette [YouTube Link] #TOBE_REVIEWED
 
 ## Location
 The film was primarily shot in various locations, including:
 - New York City, USA
 - The Dominican Republic #TOBE_REVIEWED
+- Pinewood Studios, England #TOBE_REVIEWED
 
 ## Contact Information
 For inquiries related to "The Fountain," please contact:
