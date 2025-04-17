@@ -29,13 +29,7 @@ Idealism can be studied in various academic institutions and philosophy departme
 - University of Sydney, Australia
 
 # Contact Information
-For further inquiries or discussions about idealism, please reach out to:
-- Dr. Jane Smith, Philosophy Department, University of Oxford
-  - Email: jane.smith@oxford.edu
-  - Phone: +44 1865 123456
-- Prof. John Doe, Philosophy Department, Harvard University
-  - Email: john.doe@harvard.edu
-  - Phone: +1 617-495-1000
+None 
 
 #tags 
 #idealism #philosophy #resources #education #contact

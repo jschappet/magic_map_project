@@ -16,15 +16,9 @@ This book is significant as it sheds light on the often-overlooked aspects of mi
 
 ### Websites
 
-- [Jon Ronson's Official Website](https://www.jonronson.com)
-- [The Men Who Stare at Goats on Goodreads](https://www.goodreads.com/book/show/345153.The_Men_Who_Stare_at_Goats)
-- [Military and Paranormal Research Resources](https://www.paranormalresearch.com)
-
+None Listed
 ### Videos
-
-- [The Men Who Stare at Goats - Trailer](https://www.youtube.com/watch?v=ZfF4gU0w3uU)
-- [Jon Ronson Discusses the Book on TED](https://www.ted.com/talks/jon_ronson_strange_answers_to_the_strangest_questions)
-- [Documentary on Military Psychic Programs](https://www.youtube.com/watch?v=abc123) #TOBE_REVIEWED
+None Listed
 
 ## Location
 
@@ -34,8 +28,6 @@ The events described in "The Men Who Stare at Goats" primarily take place in var
 
 For inquiries related to the book or interviews with Jon Ronson, please contact:
 
-- Email: info@jonronson.com
-- Social Media: [Twitter](https://twitter.com/jonronson), [Facebook](https://www.facebook.com/jonronson)
 
 #tags 
 #TheMenWhoStareAtGoats #JonRonson #Military #Paranormal #NonFiction #PsychicResearch #MindControl

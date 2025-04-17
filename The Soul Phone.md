@@ -8,7 +8,7 @@ As society grapples with loss and grief, the Soul Phone offers a new perspective
 ## Books
 - **"The Afterlife of Billy Fingers" by Annie Kagan**  
   A compelling narrative that explores communication with the deceased and the messages they share from the other side.  
-- **"Life After Life" by Raymond Moody**  
+- **"Life After Life" by [[Dr. Raymond Moody]]**
   A classic text that examines near-death experiences and the possibility of an afterlife.  
 - **"The Soul Phone: A New Technology for Communicating with the Afterlife" by Mark Pitstick**  
   An exploration of the science and philosophy behind the Soul Phone concept.  
@@ -16,12 +16,10 @@ As society grapples with loss and grief, the Soul Phone offers a new perspective
   A neurosurgeon's account of his near-death experience and insights into consciousness and the afterlife. #TOBE_REVIEWED
 
 ## Websites
-- [Soul Phone Project](https://www.soulphone.org)  
+- [Soul Phone Project](https://www.thesoulphonefoundation.org)  
   The official website providing updates, research, and information about the Soul Phone initiative.  
 - [Institute of Noetic Sciences](https://noetic.org)  
   A resource for research on consciousness and the interconnectedness of life, including studies related to afterlife communication.  
-- [The Afterlife Research Center](https://www.afterliferesearch.org)  
-  A platform dedicated to studying and sharing knowledge about the afterlife and related phenomena. #TOBE_REVIEWED
 
 ## Videos
 - **"The Soul Phone: Connecting with the Afterlife" - YouTube**  
@@ -32,16 +30,7 @@ As society grapples with loss and grief, the Soul Phone offers a new perspective
   An engaging talk that delves into the scientific underpinnings of the Soul Phone and its impact on our perception of consciousness. #TOBE_REVIEWED
 
 # Location
-The Soul Phone Project is based in [City, State]. Specific details regarding the physical location, including any research facilities or offices, will be provided upon request. #TOBE_REVIEWED
-
+Not Listed
 # Contact Information
-For inquiries, collaborations, or further information about the Soul Phone, please reach out via the following channels:  
-- Email: contact@soulphone.org  
-- Phone: (123) 456-7890  
-- Mailing Address:  
-  Soul Phone Project  
-  [Street Address]  
-  [City, State, Zip Code] #TOBE_REVIEWED
+Not Listed 
 
-#tags  
-#TOBE_REVIEWED
