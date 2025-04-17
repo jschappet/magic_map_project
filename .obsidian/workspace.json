@@ -2120,6 +2120,30 @@
             }
           },
           {
+            "id": "4f3e45f1a17136fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extrasensory Perception (ESP).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Extrasensory Perception (ESP)"
+            }
+          },
+          {
             "id": "b0fd5e5f6f81210b",
             "type": "leaf",
             "state": {
@@ -2261,30 +2285,6 @@
               },
               "icon": "lucide-file",
               "title": "Global Workspace Theory"
-            }
-          },
-          {
-            "id": "4f3e45f1a17136fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extrasensory Perception (ESP).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Extrasensory Perception (ESP)"
             }
           },
           {
@@ -2684,9 +2684,33 @@
               "icon": "lucide-file",
               "title": "Dr. Raymond Moody"
             }
+          },
+          {
+            "id": "f6963320ab3fc60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sufism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sufism"
+            }
           }
         ],
-        "currentTab": 111
+        "currentTab": 88
       }
     ],
     "direction": "vertical"
@@ -2858,8 +2882,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58cddcec67be7e2b",
+  "active": "9578ef104f32b2ce",
   "lastOpenFiles": [
+    "Extrasensory Perception (ESP).md",
+    "conflict-files-obsidian-git.md",
+    "Sufism.md",
+    "Unidentified Anomalous Phenomenon (UAP).md",
+    "Unified Field Theory of Consciousness.md",
+    "Vajrayana Buddhism.md",
+    "Wave Function Collapse.md",
+    "The Men Who Stare at Goats.md",
+    "Through time and space- The evidence for remote viewing.md",
+    "Transcendentalism.md",
+    "Unified Consciousness Theory.md",
+    "New Thought Movement.md",
+    "Untitled 1.md",
+    "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Raymond Moody.md",
     "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Jeffrey Long.md",
     "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Eben Alexander.md",
     "Experiential_Anomalous Realities/OBEs_NDEs/Dr. Bruce Greyson.md",
@@ -2872,20 +2910,6 @@
     "Deepak Chopra.md",
     "Dimethyltryptamine (DMT).md",
     "Phenomenology.md",
-    "conflict-files-obsidian-git.md",
-    "panpsychism.md",
-    "Simulation Theory.md",
-    "Michael Raduga.md",
-    "Panpsychism.md",
-    "the law of one.md",
-    "index.md",
-    "Suzanne Giesemann.md",
-    "Ram Dass (Richard Alpert).md",
-    "RA Material.md",
-    "Pim van Lommel.md",
-    "Nisargadatta Maharaj.md",
-    "Mystics/Mooji.md",
-    "Michael Singer.md",
     "Untitled",
     "Extras/Instructions",
     "Extras/Images/StageChanges.png",
