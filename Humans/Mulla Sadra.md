@@ -12,22 +12,26 @@ Mulla Sadra's philosophy is relevant to contemporary discussions on spirituality
 - Transcendent Theosophy: Mulla Sadra's Metaphysics of Existence by John Walbridge
 - The Four Journeys of the Intellect by Mulla Sadra (translated by various authors)
 - #TOBE_REVIEWED A Commentary on Mulla Sadra's Philosophy by [Author Name]
+- #TOBE_REVIEWED Mulla Sadra's Influence on Modern Thought by [Author Name]
 
 ### Websites
 - [Stanford Encyclopedia of Philosophy: Mulla Sadra](https://plato.stanford.edu/entries/mulla-sadra/)
 - [Islamic Philosophy Online: Mulla Sadra](http://www.mullasadra.org/)
 - [The Mulla Sadra Project](http://www.mullasadra.org/)
 - #TOBE_REVIEWED Mulla Sadra Digital Library: Resources and Archives
+- #TOBE_REVIEWED Mulla Sadra Research Institute: Publications and Events
 
 ### Videos
 - "Mulla Sadra and the Philosophy of Existence" - YouTube Lecture by a Philosophy Professor
 - "The Life and Works of Mulla Sadra" - Documentary on Islamic Philosophy
 - "Understanding Mulla Sadra's Transcendent Philosophy" - Panel Discussion
 - #TOBE_REVIEWED "Mulla Sadra: The Philosopher of the Soul" - Educational Series Episode
+- #TOBE_REVIEWED "Exploring Mulla Sadra's Mysticism" - Lecture Series
 
 ## Location
 - Mulla Sadra's birthplace: Shiraz, Iran
 - Key sites related to Mulla Sadra's life and work can be found in various historical locations in Iran, particularly in Shiraz. These include the Mulla Sadra Museum and the historical sites of Shiraz that highlight his contributions to philosophy.
+- #TOBE_REVIEWED Shiraz University: Center for Islamic Philosophy and Mulla Sadra Studies
 
 ## Contact Information
 - For academic inquiries, contact the Department of Philosophy at [University Name], [University Email].

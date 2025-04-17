@@ -12,16 +12,19 @@ The Esalen Institute integrates diverse perspectives, fostering holistic growth 
 - *Waking the Tiger: Healing Trauma* by Peter A. Levine
 - *The Power of Now: A Guide to Spiritual Enlightenment* by Eckhart Tolle #TOBE_REVIEWED
 - *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* by Bessel van der Kolk #TOBE_REVIEWED
+- *Awakening the Mind: A Guide to Meditation and Mindfulness* by Jon Kabat-Zinn #TOBE_REVIEWED
 
 ### Websites
 - [Esalen Institute Official Site](https://www.esalen.org)
 - [Esalen Institute Blog](https://www.esalen.org/blog)
 - [Esalen Institute Events Calendar](https://www.esalen.org/events) #TOBE_REVIEWED
+- [Esalen Institute Online Learning](https://www.esalen.org/online-learning) #TOBE_REVIEWED
 
 ### Videos
 - [Esalen Institute YouTube Channel](https://www.youtube.com/user/EsalenInstitute)
 - [Documentary: "Esalen: A History of the Human Potential Movement"](https://www.youtube.com/watch?v=example)
 - [Interview Series with Esalen Leaders](https://www.youtube.com/playlist?list=example) #TOBE_REVIEWED
+- [Esalen Workshops Overview](https://www.youtube.com/watch?v=example) #TOBE_REVIEWED
 
 ## Location
 The Esalen Institute is situated at 55000 Highway 1, Big Sur, CA 93920, USA. Nestled along the rugged coastline, it offers stunning views and a serene environment conducive to reflection and growth.

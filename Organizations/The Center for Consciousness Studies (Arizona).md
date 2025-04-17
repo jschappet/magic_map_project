@@ -13,6 +13,8 @@ Investigating the mysteries of consciousness paves the way for revolutionary ins
 - **"How to Change Your Mind"** by Michael Pollan
 #TOBE_REVIEWED
 - **"The Feeling of Being Watched: A Memoir"** by Alia Volz
+#TOBE_REVIEWED
+- **"The Mind's I: Fantasies and Reflections on Self and Soul"** by Douglas Hofstadter and Daniel C. Dennett
 
 ### Websites
 - [The Center for Consciousness Studies](http://www.consciousness.arizona.edu)
@@ -20,6 +22,8 @@ Investigating the mysteries of consciousness paves the way for revolutionary ins
 - [Consciousness Online](https://www.consciousnessonline.com)
 #TOBE_REVIEWED
 - [The Mind & Life Institute](https://www.mindandlife.org)
+#TOBE_REVIEWED
+- [The Society for Consciousness Studies](https://www.societyforconsciousnessstudies.org)
 
 ### Videos
 - **"What is Consciousness?"** - A lecture by David Chalmers (Available on YouTube)
@@ -27,6 +31,8 @@ Investigating the mysteries of consciousness paves the way for revolutionary ins
 - **"Consciousness and the Brain"** - A panel discussion featuring leading researchers in the field (Available on TED Talks)
 #TOBE_REVIEWED
 - **"Exploring Consciousness: A Journey into the Mind"** - A seminar series featuring various experts (Available on Coursera)
+#TOBE_REVIEWED
+- **"The Nature of Consciousness"** - A series of interviews with thought leaders in consciousness studies (Available on Netflix)
 
 ## Location
 The Center for Consciousness Studies is located at:  

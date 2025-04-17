@@ -11,14 +11,17 @@ Dr. Moody's contributions to the understanding of NDEs have opened up a dialogue
 - *Reflections on Life After Life* by Dr. Raymond Moody
 - *The Light Beyond* by Dr. Raymond Moody
 - *Coming Back* by Dr. Raymond Moody
+- *Glimpses of Eternity* by Dr. Raymond Moody #TOBE_REVIEWED
 
 ## Websites
 - [The Official Raymond Moody Website](https://www.raymondmoody.com)
 - [The Institute for Noetic Sciences](https://noetic.org)
+- [Near-Death Experience Research Foundation](https://nderf.org) #TOBE_REVIEWED
 
 ## Videos
 - *Dr. Raymond Moody: Life After Life* (YouTube)
 - *The Science of Near-Death Experiences* - Lecture by Dr. Raymond Moody (YouTube)
+- *Exploring the Afterlife* - Interview with Dr. Raymond Moody (YouTube) #TOBE_REVIEWED
 
 # Location
 Dr. Raymond Moody is based in the United States. Specific location details may vary as he conducts lectures and seminars across various locations.

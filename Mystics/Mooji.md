@@ -10,15 +10,22 @@ Mooji's teachings are particularly relevant in today's fast-paced world, where m
 - *Vaster Than Sky, Greater Than Space* by Mooji
 - *The Silence of the Heart* by Mooji
 - *White Fire: A Collection of Teachings* by Mooji
+#TOBE_REVIEWED
+- *The Book of Freedom* by Mooji
+- *An Invitation to Freedom* by Mooji
 
 ## Websites
 - [Mooji.org](https://mooji.org) - Official website with teachings, events, and resources.
 - [Mooji Facebook Page](https://www.facebook.com/mooji) - Community updates and teachings.
 - [Satsang with Mooji](https://mooji.tv) - Online streaming of satsangs and guided meditations.
+#TOBE_REVIEWED
+- [Mooji's Blog](https://mooji.org/blog) - Insights and reflections from Mooji.
 
 ## Videos
 - [Mooji's YouTube Channel](https://www.youtube.com/user/Mooji) - A collection of talks, satsangs, and guided meditations.
 - [Mooji on Insight Timer](https://insighttimer.com/mooji) - Guided meditations and talks available on the Insight Timer app.
+#TOBE_REVIEWED
+- [Mooji's Vimeo Channel](https://vimeo.com/mooji) - Additional teachings and videos from Mooji.
 
 # Location
 Mooji's primary retreat center, Monte Sahaja, is located in Portugal. This serene environment serves as a space for seekers to engage in deep self-inquiry and connect with their true selves through guided retreats and satsangs.

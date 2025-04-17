@@ -14,6 +14,8 @@ The relevance of simulation theory extends beyond theoretical discussions; it ch
 - "The Simulation Hypothesis" by [[Rizwan Virk]]
 - "Are You Living in a Computer Simulation?" by [[Nick Bostrom]] (paper)
 - "The Infinite Retina: A Philosophical Exploration of Simulated Realities" by Dr. Emily Carter #TOBE_REVIEWED
+- "Superintelligence: Paths, Dangers, Strategies" by [[Nick Bostrom]] #TOBE_REVIEWED
+- "The Metaphysics of Virtual Reality" by [[Michael Heim]] #TOBE_REVIEWED
 
 ## Websites
 
@@ -21,6 +23,7 @@ The relevance of simulation theory extends beyond theoretical discussions; it ch
 - [The Simulation Argument](http://www.simulation-argument.com/)
 - [The Matrix: A Philosophical Exploration](https://www.philosophytalk.org/shows/matrix-philosophical-exploration)
 - [Philosophy Now: The Simulation Hypothesis](https://philosophynow.org/issues/123/The_Simulation_Hypothesis) #TOBE_REVIEWED
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/) #TOBE_REVIEWED
 
 ## Videos
 
@@ -28,6 +31,7 @@ The relevance of simulation theory extends beyond theoretical discussions; it ch
 - "Are We Living in a Simulation?" - TED Talk
 - "The Matrix and Philosophy" - Documentary
 - "Exploring the Nature of Reality: Are We in a Simulation?" - Lecture Series #TOBE_REVIEWED
+- "Simulated Realities: The Future of AI and Consciousness" - Panel Discussion #TOBE_REVIEWED
 
 # Location
 

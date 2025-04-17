@@ -12,16 +12,19 @@ Sri Aurobindo's work remains relevant in contemporary discussions on spiritualit
 - **Essays on the Gita** - A profound commentary on the Bhagavad Gita, revealing its spiritual significance.
 - **The Synthesis of Yoga** - A detailed exposition of his Integral Yoga philosophy.
 - **Letters on Yoga** - A collection of letters discussing various aspects of yoga and spiritual practice. #TOBE_REVIEWED
+- **The Human Cycle** - An exploration of the evolution of human society and consciousness. #TOBE_REVIEWED
 
 ### Websites
 - [Sri Aurobindo Ashram](http://www.sriaurobindoashram.org) - The official website of the Sri Aurobindo Ashram, providing resources on his life, teachings, and ongoing activities.
 - [Auroville](https://www.auroville.org) - An international township inspired by Aurobindo's vision of human unity and spiritual evolution.
 - [Sri Aurobindo's Writings](http://www.sriaurobindo.com) - A digital archive of Aurobindo's writings and teachings. #TOBE_REVIEWED
+- [Sri Aurobindo Study Circle](https://www.sriaurobindostudycircle.org) - A platform for discussions and studies related to Aurobindo's philosophy. #TOBE_REVIEWED
 
 ### Videos
 - **Sri Aurobindo: A Brief Introduction** - A documentary exploring his life and teachings.
 - **Integral Yoga Explained** - A series of lectures discussing the principles of Integral Yoga and its practical applications.
 - **The Vision of Sri Aurobindo** - A video series examining Aurobindo's vision for humanity and its spiritual evolution. #TOBE_REVIEWED
+- **Conversations on Integral Yoga** - A series of dialogues featuring practitioners discussing their experiences with Integral Yoga. #TOBE_REVIEWED
 
 ## Location
 - **Sri Aurobindo Ashram**: Puducherry, India - The main center for the study and practice of Sri Aurobindo's teachings.

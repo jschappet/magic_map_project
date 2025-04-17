@@ -38,5 +38,6 @@ For inquiries about Tibetan Buddhist teachings and practices, you can reach out 
 - **Email**: info@tibetanbuddhism.org
 - **Phone**: +1 (800) 555-0199 #TOBE_REVIEWED
 
-#tags #buddhism 
+#tags 
+#buddhism 
 #TibetanBuddhism #Philosophy #Enlightenment #Consciousness #Mindfulness

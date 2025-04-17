@@ -15,21 +15,25 @@ Remote viewing has garnered interest not only from those in the fields of psycho
 - "The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the U.S. Military" by Lyn Buchanan
 - "Mind Trek: Exploring Consciousness, Time, and Space Through Remote Viewing" by Joseph McMoneagle
 - "The Intuitive Way: A Guide to Living from Inner Wisdom" by Penney Peirce
+- "The Complete Guide to Remote Viewing" by Paul Smith #TOBE_REVIEWED
 
 ## Websites
 - [The International Remote Viewing Association (IRVA)](https://irva.org)
 - [The Monroe Institute](https://www.monroeinstitute.org)
 - [Remote Viewing Instructional Services (RVIS)](http://www.rviewer.com)
+- [The Scientific Remote Viewing](https://www.scientificremoteviewing.com) #TOBE_REVIEWED
 
 ## Videos
 - "The Men Who Stare at Goats" - A documentary exploring the military's interest in psychic phenomena.
 - "Remote Viewing: The Ultimate Guide" - A comprehensive overview of remote viewing practices and techniques.
 - "The Science of Remote Viewing" - A discussion featuring experts in the field explaining the research and findings related to remote viewing.
+- "How to Remote View: A Beginner's Guide" - A tutorial for those new to the practice. #TOBE_REVIEWED
 
 # Location
 Remote viewing can be practiced from any location, as it does not require physical presence at a specific site. However, many workshops and training sessions are held in various locations worldwide, including:
 - Major cities with spiritual or metaphysical communities
 - Online platforms that offer virtual training sessions
+- Retreat centers focused on consciousness exploration #TOBE_REVIEWED
 
 # Contact Information
 For inquiries related to remote viewing workshops, training, or resources, you can contact:

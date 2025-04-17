@@ -24,7 +24,7 @@ Ibn Arabi's philosophy is particularly relevant in today's world, where individu
 
 ## Location
 - **Ibn Arabi's Birthplace**: Murcia, Spain - A historical site where visitors can learn about his early life and influence.
-- **Sufi Centers**: Various locations worldwide that host workshops and discussions on Ibn Arabi's teachings, fostering community and spiritual growth.
+- **Sufi Centers**: Various locations worldwide that host workshops and discussions on Ibn Arabi's teachings, fostering community and spiritual growth. #TOBE_REVIEWED
 
 ## Contact Information
 - **Ibn Arabi Society Email**: info@ibnarabisociety.org

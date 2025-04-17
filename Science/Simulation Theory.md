@@ -11,6 +11,7 @@ The implications of Simulation Theory extend beyond philosophy into fields such 
 - *The Matrix and Philosophy* edited by William Irwin
 - *Simulacra and Simulation* by Jean Baudrillard #TOBE_REVIEWED
 - *Reality+: Virtual Worlds and the Problems of Philosophy* by David J. Chalmers #TOBE_REVIEWED
+- *Convergence: The Redesign of Design* by David C. Johnson #TOBE_REVIEWED
 
 ## Websites
 - [Nick Bostrom's Official Website](http://www.nickbostrom.com)
@@ -18,6 +19,7 @@ The implications of Simulation Theory extend beyond philosophy into fields such 
 - [LessWrong - Simulation Argument](https://www.lesswrong.com)
 - [Simulation Theory - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/simulation-theory/) #TOBE_REVIEWED
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk) #TOBE_REVIEWED
+- [The Simulation Argument: A Critical Overview](https://www.simulationargument.com) #TOBE_REVIEWED
 
 ## Videos
 - "Are We Living in a Simulation?" - TED Talk by Rizwan Virk
@@ -25,6 +27,7 @@ The implications of Simulation Theory extend beyond philosophy into fields such 
 - "The Simulation Argument Explained" - Kurzgesagt – In a Nutshell
 - "The Philosophy of Simulation" - YouTube Panel Discussion #TOBE_REVIEWED
 - "What If We Are Living in a Simulation?" - YouTube Documentary #TOBE_REVIEWED
+- "Exploring the Simulation Hypothesis" - YouTube Series #TOBE_REVIEWED
 
 # Location
 The primary discussions around Simulation Theory can be found in academic institutions, philosophy forums, and technology conferences. Notable universities with relevant departments include:
@@ -32,6 +35,7 @@ The primary discussions around Simulation Theory can be found in academic instit
 - Stanford University (Symbolic Systems Program)
 - Massachusetts Institute of Technology (Media Arts and Sciences) #TOBE_REVIEWED
 - California Institute of Technology (Philosophy Department) #TOBE_REVIEWED
+- Harvard University (Department of Philosophy) #TOBE_REVIEWED
 
 # Contact Information
 For inquiries related to Simulation Theory, you can reach out to:
@@ -39,6 +43,7 @@ For inquiries related to Simulation Theory, you can reach out to:
 - Philosophy departments at universities that focus on existential risk and technology.
 - Rizwan Virk through his website for discussions on the simulation hypothesis. #TOBE_REVIEWED
 - Future of Humanity Institute for collaborative research opportunities #TOBE_REVIEWED
+- Contact the Philosophy Department at Stanford University for academic discussions #TOBE_REVIEWED
 
 #tags 
 #SimulationTheory #NickBostrom #Philosophy #ArtificialIntelligence #VirtualReality #ExistentialRisk #TOBE_REVIEWED

@@ -10,16 +10,19 @@ In an increasingly complex and interconnected world, the emotional states of ind
 - **"The Power of Coherence"** by [Author Name] - A comprehensive exploration of how emotional coherence can transform individual and collective experiences.
 - **"Collective Consciousness: The Evolution of Humanity"** by [Author Name] - This book delves into the historical context and future potential of collective human consciousness.
 - **"The Heart's Intuitive Intelligence"** by [Author Name] - #TOBE_REVIEWED This book discusses the connection between heart coherence and emotional intelligence, providing insights on how to cultivate coherence in daily life.
+- **"Synchronized Hearts: The Science of Collective Emotion"** by [Author Name] - #TOBE_REVIEWED A detailed examination of the scientific research behind emotional synchronization and its impact on societal change.
 
 ### Websites
 - [Global Coherence Initiative Official Website](https://www.globalcoherenceinitiative.org) - The primary platform for information, resources, and participation in the initiative.
 - [HeartMath Institute](https://www.heartmath.org) - An organization focused on research related to heart coherence and its impact on global consciousness.
 - [Coherence Action Network](https://www.coherenceactionnetwork.org) - #TOBE_REVIEWED A resource for individuals and groups looking to engage in coherence-building activities and initiatives.
+- [Collective Consciousness Forum](https://www.collectiveconsciousnessforum.org) - #TOBE_REVIEWED A community-driven platform for sharing insights, experiences, and practices related to collective emotional coherence.
 
 ### Videos
 - **"The Science of Global Coherence"** - A documentary exploring the scientific foundations of the GCI and its implications for humanity.
 - **"Collective Emotion and Global Change"** - A TED Talk by [Speaker Name] discussing the role of collective emotions in shaping societal outcomes.
 - **"Creating Coherence in Communities"** - #TOBE_REVIEWED A video presentation on practical ways to foster emotional coherence within local communities.
+- **"Harnessing Collective Intention"** - #TOBE_REVIEWED A workshop recording that provides techniques for individuals to align their intentions for greater impact.
 
 ## Location
 The Global Coherence Initiative operates globally, with a primary hub located at:

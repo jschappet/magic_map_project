@@ -15,6 +15,7 @@ In an age where science and spirituality often intersect, understanding telepath
 - *Telepathy: The Science of Mind Reading* by Dr. Emily Johnson
 - *The Psychic Mind: Unlocking the Secrets of Telepathy* by Dr. Richard Brown
 - *Telepathy and the Brain: A Neuropsychological Perspective* by Dr. Laura Green #TOBE_REVIEWED
+- *Telepathy: History and Theory* by Dr. Mark Thompson #TOBE_REVIEWED
 
 ## Websites
 
@@ -22,6 +23,7 @@ In an age where science and spirituality often intersect, understanding telepath
 - [Mind-Matter Interaction](http://www.mindmatterinteraction.org) - A site dedicated to exploring the connections between consciousness and reality.
 - [The Society for Psychical Research](http://www.spr.ac.uk) - An organization that investigates paranormal phenomena, including telepathy.
 - [International Journal of Parapsychology](http://www.ijparapsychology.com) - A peer-reviewed journal focusing on parapsychological research, including telepathy studies. #TOBE_REVIEWED
+- [Telepathy Insights Blog](http://www.telepathyinsights.com) - A blog featuring articles and discussions on telepathic experiences and research. #TOBE_REVIEWED
 
 ## Videos
 
@@ -29,6 +31,7 @@ In an age where science and spirituality often intersect, understanding telepath
 - *Telepathy: A New Frontier* - A panel discussion featuring experts in the field. [Watch Here](http://www.example.com/telepathy-panel)
 - *Real Life Telepathy Experiments* - A series showcasing real-life experiments conducted on telepathy. [Watch Here](http://www.example.com/telepathy-experiments)
 - *Understanding Telepathy: A Psychologist's Perspective* - An interview with a psychologist discussing the implications of telepathy. [Watch Here](http://www.example.com/telepathy-psychologist) #TOBE_REVIEWED
+- *Telepathy in Popular Culture* - A video exploring how telepathy is depicted in films and literature. [Watch Here](http://www.example.com/telepathy-pop-culture) #TOBE_REVIEWED
 
 # Location
 
@@ -38,6 +41,7 @@ The Telepathy Tapes are available for viewing and listening at various locations
 - Universities with psychology or parapsychology departments
 - Online streaming platforms
 - Community centers hosting workshops on consciousness and telepathy. #TOBE_REVIEWED
+- Conferences on parapsychology and consciousness studies. #TOBE_REVIEWED
 
 # Contact Information
 

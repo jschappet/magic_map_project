@@ -11,18 +11,21 @@ The study of NHI is becoming increasingly relevant in today's world due to advan
 - "The Age of Em: Work, Love, and Life when Robots Rule the Earth" by Robin Hanson
 - "Astrobiology: A Very Short Introduction" by David C. Catling
 - "Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark
+- "The Singularity Is Near: When Humans Transcend Biology" by Ray Kurzweil #TOBE_REVIEWED
 
 ## Websites
 - [SETI Institute](https://www.seti.org)
 - [Future of Humanity Institute](https://www.fhi.ox.ac.uk)
 - [Artificial Intelligence Research at Stanford](https://ai.stanford.edu)
 - [NASA Astrobiology Institute](https://www.nai.nasa.gov)
+- [AI Alignment Forum](https://www.alignmentforum.org) #TOBE_REVIEWED
 
 ## Videos
 - "What is Artificial Intelligence?" - TED-Ed
 - "The Search for Extraterrestrial Intelligence" - National Geographic
 - "The Future of AI: An Expert Discussion" - Stanford University
 - "Are We Alone in the Universe?" - PBS Space Time
+- "The Ethics of Artificial Intelligence" - MIT Technology Review #TOBE_REVIEWED
 
 # Location
 Non-Human Intelligence research can be found in various institutions around the globe, including universities, research centers, and private organizations. Notable locations include:
@@ -30,6 +33,7 @@ Non-Human Intelligence research can be found in various institutions around the 
 - Caltech, USA
 - European Space Agency, Europe
 - Max Planck Institute for Extraterrestrial Physics, Germany
+- University of Cambridge, UK #TOBE_REVIEWED
 
 # Contact Information
 For inquiries related to Non-Human Intelligences, please reach out to the following organizations:
@@ -37,6 +41,7 @@ For inquiries related to Non-Human Intelligences, please reach out to the follow
 - SETI Institute: info@seti.org
 - Future of Humanity Institute: contact@fhi.ox.ac.uk
 - NASA Astrobiology Institute: astrobiology@nai.nasa.gov
+- Stanford University AI Research: contact@ai.stanford.edu #TOBE_REVIEWED
 
 #tags 
 #TOBE_REVIEWED

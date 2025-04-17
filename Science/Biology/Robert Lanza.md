@@ -10,16 +10,17 @@ Lanza's ideas resonate with both scientific and philosophical communities, as th
 - **Biocentrism: How Life and Consciousness Are the Keys to Understanding the True Nature of the Universe** by Robert Lanza
 - **The Grand Biocentric Design** by Robert Lanza and Matej Pavšič
 - **#TOBE_REVIEWED**: Additional suggested readings on biocentrism and consciousness from various authors.
+- **#TOBE_REVIEWED**: "Consciousness and the Universe" - A compilation of essays exploring the relationship between consciousness and the cosmos.
 
 ### Websites
 - [Biocentrism Official Website](https://biocentrism.com) - Explore articles and insights on biocentrism and its implications.
 - [Robert Lanza's Profile on LinkedIn](https://www.linkedin.com/in/robert-lanza-123456/) - Connect with Lanza's professional background and updates.
-- **#TOBE_REVIEWED**: Suggested forums or discussion groups focused on biocentrism.
+- **#TOBE_REVIEWED**: Suggested forums or discussion groups focused on biocentrism, such as the Biocentrism Community on Reddit.
 
 ### Videos
 - **"Biocentrism: The Universe is a Creation of Consciousness"** - A lecture by Robert Lanza discussing his theories.
 - **TEDx Talk: "The Science of Consciousness"** - Robert Lanza explores the intersection of science and consciousness.
-- **#TOBE_REVIEWED**: Recommended documentaries or interviews featuring Robert Lanza.
+- **#TOBE_REVIEWED**: Recommended documentaries or interviews featuring Robert Lanza, including "The Mind and the Universe."
 
 ## Location
 - **Robert Lanza's Laboratory**: A location for his research in regenerative medicine, though specific addresses are not publicly listed for privacy reasons.
@@ -29,4 +30,4 @@ Lanza's ideas resonate with both scientific and philosophical communities, as th
 - **Social Media**: Follow Robert Lanza on Twitter [@robertlanza](https://twitter.com/robertlanza) for updates and insights.
 
 #tags
-#Biocentrism #Consciousness #Science #Philosophy #RobertLanza #Reality #CoCreators
+#Biocentrism #Consciousness #Science #Philosophy #RobertLanza #Reality #CoCreators #TOBE_REVIEWED

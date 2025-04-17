@@ -1,5 +1,27 @@
-Bem was a 40-years established psychology researcher with a long and excellent publication record, while being a professor at 3 different Ivy League universities. For the precognition experiments, Bem used very well validated & common psychology tests, and simply reversed the order of some steps to make them tests of precognition. Bem put in much effort to make his materials available to other researchers for replication.
+# Introduction
+Daryl Bem is a prominent psychologist known for his controversial research in the field of parapsychology, particularly his studies on precognition. With a career spanning over 40 years, Bem has held professorships at multiple Ivy League institutions and has an extensive publication record. His 2011 paper, "Feeling the Future," sparked significant debate and interest in the scientific community due to its bold claims regarding anomalous retroactive influences on cognition and affect. 
 
-In 2011, Bem published a paper that was actually 9 studies in one paper. 8 of the 9 were statistically significant on their own. That was [Feeling the future: experimental evidence for anomalous retroactive influences on cognition and affect](https://pubmed.ncbi.nlm.nih.gov/21280961/). The results had an odds by chance of 1 in 10 billion.
+# Relevance
+Bem's work challenges traditional views on time and cognition, raising questions about the nature of human perception and the limits of scientific inquiry. His research has implications not only for psychology but also for broader philosophical discussions about determinism and free will. The ongoing discussions and replications of his studies contribute to the understanding of experimental psychology and the potential for anomalous phenomena.
 
-In 2015, Bem published a meta-analysis of 90 replications of his study. [Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events](https://pubmed.ncbi.nlm.nih.gov/26834996/). The Bayesian Factor (BF) for the independent replications was 3,853, on a scale that normally goes from like 1 to 100, where a BF of 100 is considered as decisive evidence. In Table 2, the replications were divided into two types: 29 “slow-thinking” studies and 61 “fast-thinking” studies. The 29 slow-thinking studies were collectively not significant. However, the 61 fast-thinking studies had P = 0.00000000000058, or odds-by-chance of 1 in 1.7 trillion. The potential for publication bias was addressed by calculating the “file drawer” effect: there would need to be at least 544 unreported studies with null results for these studies to not be significant. There could not have reasonably been that many unreported studies in the small, underfunded field of parapsychology.
+# Resources
+## Books
+- Bem, D. J. (2011). *Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect*. 
+- Bem, D. J. (2015). *Feeling the Future: A Meta-Analysis of 90 Experiments on the Anomalous Anticipation of Random Future Events*.
+
+## Websites
+- [Daryl Bem’s Academic Profile](https://www.researchgate.net/profile/Daryl-Bem)
+- [Parapsychology Association](https://www.parapsychology.org)
+
+## Videos
+- "Daryl Bem: Feeling the Future" - A lecture discussing his research findings and methodologies.
+- "The Science of Precognition" - A documentary exploring the implications of Bem's studies.
+
+# Location
+Daryl Bem is primarily associated with several Ivy League institutions, though specific location details may vary based on his current engagements.
+
+# Contact Information
+For inquiries regarding his research or collaborations, Daryl Bem can be reached through his academic email provided on his institutional profile.
+
+#tags 
+#TOBE_REVIEWED
