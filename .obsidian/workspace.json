@@ -30,8 +30,95 @@
               "icon": "lucide-file",
               "title": "Glenn B. Wheaton"
             }
+          },
+          {
+            "id": "7fe96167529056fc",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "cdb54cee8ff02594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adi Shankaracharya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adi Shankaracharya"
+            }
+          },
+          {
+            "id": "bcd85bac805248f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Big TOE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Big TOE"
+            }
+          },
+          {
+            "id": "0ebb869a323916fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adi Shankaracharya.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adi Shankaracharya"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,34 +290,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aff1d9b8f12cf0af",
+  "active": "9578ef104f32b2ce",
   "lastOpenFiles": [
-    "Extrasensory Perception (ESP).md",
-    "Evidence for Psi- Thirteen Empirical Research Reports.md",
-    "Esotericism.md",
-    "Esoteric Christianity.md",
-    "Dzogchen.md",
-    "Dr Jim Doty.md",
-    "Dr Diane Powell.md",
-    "Dimethyltryptamine (DMT).md",
-    "Deepak Chopra.md",
-    "Dean Radin.md",
-    "David Chalmers.md",
-    "David Bohm.md",
-    "Daryl Bem.md",
-    "Cosmopsychism.md",
-    "Collective Unconscious.md",
-    "Carl Jung.md",
-    "Bubblegum Token.md",
-    "Binaural Beats.md",
-    "Big TOE.md",
-    "Baruch Spinoza.md",
-    "Ayahuasca.md",
-    "The Soul Phone.md",
-    "Music Art Culture/Les Misérables as a Recursive Topology.md",
-    "The Parapsychological Association.md",
-    "The Simulation Hypothesis.md",
-    "Unified Field Theory of Consciousness.md",
+    "Adi Shankaracharya.md",
+    "conflict-files-obsidian-git.md",
+    "Unexplained Experiencers/Lucid Dreaming.md",
+    "Unexplained Experiencers/Link Dump.md",
+    "Technology/AI & Animal Communication.md",
+    "Science/Stuart Hameroff.md",
+    "Science/Simulation Theory.md",
+    "Science/Rupert Sheldrake.md",
+    "Science/Roger Penrose.md",
+    "Science/Quantum Mechanics.md",
+    "Science/Nick Bostrom.md",
+    "Science/Max Planck.md",
+    "Science/James Gates.md",
+    "Science/Iain McGilchrist.md",
+    "Science/Giulio Tononi.md",
+    "Science/Federico Faggin.md",
+    "Science/Erwin Schrödinger.md",
+    "Science/David Bohm.md",
+    "Science/Physics/John wheeler.md",
+    "Science/Physics/Donald Hoffman.md",
+    "Science/Physics/Bernardo Kastrup.md",
+    "Science/Frontier Science/Tom Campbell.md",
+    "Science/Biology/Robert Lanza.md",
+    "Philosophy/Philip Goff.md",
+    "Philosophy/Emmanuel Kant.md",
+    "Philosophy/David Chalmers.md",
     "Untitled",
     "Extras/Instructions",
     "Extras/Images/StageChanges.png",
