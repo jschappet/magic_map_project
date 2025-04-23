@@ -12,7 +12,7 @@ In today's fast-paced and often divisive world, the teachings of non-duality off
 - "The Book of Not Knowing" by Peter Ralston
 - "Awakening to Reality" by John Wheeler #TOBE_REVIEWED
 - "Non-Duality: A Study in Comparative Philosophy" by David Loy #TOBE_REVIEWED
-- "The Heart of Awareness" by [[Mooji]] #TOBE_REVIEWED
+- "The Heart of Awareness" by [[Mystics/Mooji]] #TOBE_REVIEWED
 - "Being Aware of Being Aware" by [[Greg Goode]] #TOBE_REVIEWED
 
 ## Websites

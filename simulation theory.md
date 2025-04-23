@@ -12,9 +12,9 @@ The relevance of simulation theory extends beyond theoretical discussions; it ch
 
 - "Simulacra and Simulation" by [[Jean Baudrillard]]
 - "The Simulation Hypothesis" by [[Rizwan Virk]]
-- "Are You Living in a Computer Simulation?" by [[Nick Bostrom]] (paper)
+- "Are You Living in a Computer Simulation?" by [[Science/Nick Bostrom]] (paper)
 - "The Infinite Retina: A Philosophical Exploration of Simulated Realities" by Dr. Emily Carter #TOBE_REVIEWED
-- "Superintelligence: Paths, Dangers, Strategies" by [[Nick Bostrom]] #TOBE_REVIEWED
+- "Superintelligence: Paths, Dangers, Strategies" by [[Science/Nick Bostrom]] #TOBE_REVIEWED
 - "The Metaphysics of Virtual Reality" by [[Michael Heim]] #TOBE_REVIEWED
 
 ## Websites
