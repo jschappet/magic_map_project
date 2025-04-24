@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Art Culture/Movies/Mickey 17.md",
+                "file": "Native American Spiritual Traditions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mickey 17"
+              "title": "Native American Spiritual Traditions"
             }
           }
         ]
@@ -203,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9578ef104f32b2ce",
+  "active": "556ba8539536b569",
   "lastOpenFiles": [
+    "Music Art Culture/Movies/Mickey 17.md",
     "Yogananda.md",
     "Untitled.md",
     "The Untethered Soul.md",
@@ -230,7 +231,6 @@
     "Peter Russell.md",
     "Patanjali.md",
     "Participatory Anthropic Principle.md",
-    "Out-of-Body Experiences (OBEs).md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
