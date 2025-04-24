@@ -9,6 +9,7 @@ It should include the followings Sections:
 Introduction
 	Brief background of the topic 
 Relevance
+		Replace the existing content with content focused on the following: 
 	For this section: Summarize how this topic supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. Highlight key contributions, ideas, or findings—especially those that suggest awareness or intention plays a role in shaping existence.
 	
 Resources
