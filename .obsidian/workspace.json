@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here/How To Contribute.md",
+                "file": "Start Here/How To Contribute (Direct Access).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How To Contribute"
+              "title": "How To Contribute (Direct Access)"
+            }
+          },
+          {
+            "id": "cd2e9e8dfb505e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Contribute.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Contribute"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d8799c722127b8a",
@@ -203,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "556ba8539536b569",
+  "active": "cd2e9e8dfb505e2d",
   "lastOpenFiles": [
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
@@ -217,7 +243,9 @@
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
     "quartz/public/tags/index.html",
-    "quartz/public/tags/theory.html",
+    "quartz/public/tags/RaMaterial.html",
+    "Start Here/How To Contribute (Direct Access).md",
+    "How to Contribute.md",
     "Spirituality/David McCready.md",
     "Extras/GPT/OrgGen.md",
     "A Course in Miracles.md",
@@ -241,8 +269,6 @@
     "The Power of Now.md",
     "The Holographic Universe.md",
     "The Hard Problem of Consciousness.md",
-    "The Great Simulation.md",
-    "The Collective Unconscious.md",
     "quartz/public/Extras/Images/StageChanges.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
