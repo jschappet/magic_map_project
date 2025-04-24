@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/GPT/OrgGen.md",
+                "file": "Spirituality/David McCready.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OrgGen"
+              "title": "David McCready"
             }
           }
         ]
@@ -205,13 +205,14 @@
   },
   "active": "556ba8539536b569",
   "lastOpenFiles": [
+    "Extras/GPT/OrgGen.md",
+    "Spirituality/David McCready.md",
     "A Course in Miracles.md",
     "Start Here/What Sparked MAGIC.md",
     "Start Here/How to Install Plugins.md",
     "Start Here/Connecting with GitHub.md",
     "Extras/Instructions/Refresh Git Push Changes.md",
     "Rosicrucianism.md",
-    "Extras/GPT/OrgGen.md",
     "Native American Spiritual Traditions.md",
     "Be Here Now.md",
     "Solipsism.md",
@@ -230,7 +231,6 @@
     "The Great Simulation.md",
     "The Collective Unconscious.md",
     "The Case Against Reality.md",
-    "Terence McKenna.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
