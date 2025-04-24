@@ -1,10 +1,10 @@
 # Introduction
 
-The Global Consciousness Project (GCP) is a scientific endeavor that aims to explore the interconnectedness of human consciousness and its potential influence on global events. By utilizing a network of random number generators (RNGs) distributed around the world, the project seeks to detect correlations between collective human consciousness and major global events, such as natural disasters, political upheavals, and cultural phenomena. The GCP posits that moments of heightened emotional intensity among large groups of people may create measurable effects on the RNGs, suggesting a link between consciousness and the physical world.
+The Global Consciousness Project (GCP) is a scientific initiative that investigates the potential influence of collective human consciousness on global events. Founded in the late 1990s by Dr. Roger D. Nelson at Princeton University, the project utilizes a network of random number generators (RNGs) spread across the globe to detect anomalies that may correlate with significant human experiences. The GCP hypothesizes that during moments of heightened emotional intensity—such as during disasters, celebrations, or other major events—the collective consciousness of humanity may produce effects that can be measured by these RNGs, indicating a potential link between mind and matter.
 
 # Relevance
 
-The Global Consciousness Project is relevant in several fields, including psychology, sociology, and physics. Its findings could challenge conventional understandings of consciousness and its role in shaping reality. By investigating the potential for collective human consciousness to influence random events, the GCP opens up discussions about the nature of reality, the power of intention, and the interconnectedness of humanity. This research may have implications for fields such as mindfulness, social cohesion, and global awareness, encouraging individuals to consider the impact of their thoughts and emotions on the world around them.
+The Global Consciousness Project supports the view of consciousness as a fundamental, non-local, and interconnected aspect of reality. By demonstrating that collective human experiences can produce measurable effects on random number generators, the GCP challenges traditional views of consciousness as merely a byproduct of brain activity. Key findings from the project suggest that heightened awareness and intention can influence outcomes in the physical world, proposing that consciousness is not confined to individual minds but rather exists as a shared field of awareness. This perspective aligns with various philosophical and scientific ideas, including quantum theories of interconnectedness and the notion that intention can shape reality. The implications of the GCP's research extend into various domains, encouraging a reevaluation of how we understand consciousness, intention, and their roles in the fabric of existence.
 
 # Resources
 
@@ -13,18 +13,21 @@ The Global Consciousness Project is relevant in several fields, including psycho
 - *The Global Consciousness Project: A Scientific Exploration of Collective Consciousness* by Roger D. Nelson
 - *Entangled Minds: Extrasensory Experiences in a Quantum Reality* by Dean Radin
 - *The Conscious Universe: The Scientific Truth of Psychic Phenomena* by Dean Radin
+- *Mind Over Matter: The Role of Consciousness in the Physical World* by Michael A. Persinger #TOBE_REVIEWED
 
 ## Websites
 
 - [Global Consciousness Project Official Site](https://noosphere.princeton.edu)
 - [Institute of Noetic Sciences](https://noetic.org)
 - [ResearchGate - Global Consciousness Project Publications](https://www.researchgate.net/project/Global-Consciousness-Project)
+- [The Science of Consciousness](https://www.consciousness.arizona.edu) #TOBE_REVIEWED
 
 ## Videos
 
 - [What is the Global Consciousness Project?](https://www.youtube.com/watch?v=example1)
 - [Roger Nelson Discusses the Global Consciousness Project](https://www.youtube.com/watch?v=example2)
 - [Exploring Consciousness: The Science Behind the Global Consciousness Project](https://www.youtube.com/watch?v=example3)
+- [Collective Consciousness and Its Effects](https://www.youtube.com/watch?v=example4) #TOBE_REVIEWED
 
 # Location
 

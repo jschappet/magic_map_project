@@ -2,7 +2,7 @@
 Pim van Lommel is a Dutch cardiologist renowned for his research into near-death experiences (NDEs) in patients who have flat EEG readings, challenging the conventional brain = mind model. His work emphasizes the potential for consciousness to exist independently of the physical brain, suggesting a deeper understanding of human consciousness and its implications for life and death.
 
 # Relevance
-Van Lommel's research is significant as it opens up discussions about the nature of consciousness, the afterlife, and the limitations of current scientific understanding regarding the mind-body connection. His findings encourage a reevaluation of how we perceive consciousness, particularly in the context of medical science and spirituality.
+Van Lommel's research supports the view of consciousness as a fundamental, non-local, and interconnected basis of reality. His findings suggest that consciousness may not be merely a byproduct of brain activity but rather an intrinsic aspect of existence that transcends physical limitations. Key contributions from his work indicate that NDEs often involve profound experiences of interconnectedness, awareness, and intention, which challenge materialistic perspectives. These experiences imply that consciousness can influence and shape reality, advocating for a paradigm shift in how we understand the mind-body relationship and the nature of existence itself.
 
 # Resources
 ## Books
@@ -24,4 +24,4 @@ Pim van Lommel is based in the Netherlands, where he continues to engage in rese
 For inquiries or further information, you may contact Pim van Lommel through his official website or associated academic institutions.
 
 #tags 
-#PimVanLommel #NearDeathExperiences #Consciousness #Cardiology #Research
+#PimVanLommel #NearDeathExperiences #Consciousness #Cardiology #Research #TOBE_REVIEWED
