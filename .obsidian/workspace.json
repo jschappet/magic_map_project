@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evidence for Psi- Thirteen Empirical Research Reports.md",
+                "file": "Wave Function Collapse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Evidence for Psi- Thirteen Empirical Research Reports"
+              "title": "Wave Function Collapse"
             }
           }
         ]
@@ -205,8 +205,12 @@
   },
   "active": "556ba8539536b569",
   "lastOpenFiles": [
-    "Extrasensory Perception (ESP).md",
+    "Simulation Theory.md",
+    "Solipsism.md",
+    "Sufism.md",
+    "Robert Monroe.md",
     "Evidence for Psi- Thirteen Empirical Research Reports.md",
+    "Extrasensory Perception (ESP).md",
     "Dimethyltryptamine (DMT).md",
     "David Bohm.md",
     "Start Here/What Sparked MAGIC.md",
@@ -227,10 +231,6 @@
     "Global Workspace Theory.md",
     "Gnostic Christianity.md",
     "Gnostic Traditions.md",
-    "Hermes Trismegistus.md",
-    "Robert Monroe.md",
-    "RA Material.md",
-    "The Akashic Records.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
