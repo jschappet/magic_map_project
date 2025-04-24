@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solipsism.md",
+                "file": "Extras/GPT/OrgGen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Solipsism"
+              "title": "OrgGen"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "556ba8539536b569",
   "lastOpenFiles": [
-    "Remote Viewing.md",
+    "Native American Spiritual Traditions.md",
     "Be Here Now.md",
+    "Solipsism.md",
+    "Remote Viewing.md",
     "Wave Function Collapse.md",
     "conflict-files-obsidian-git.md",
     "simulation theory.md",
@@ -229,8 +231,6 @@
     "Sri Ramana Maharshi.md",
     "Sri Aurobindo.md",
     "Spontaneous Healing.md",
-    "Rosicrucianism.md",
-    "Quantum Bayesianism.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
