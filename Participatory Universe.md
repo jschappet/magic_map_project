@@ -1,8 +1,8 @@
 # Introduction
-The concept of a participatory universe suggests that reality is not merely an independent existence but is shaped and influenced by observers. This idea bridges the realms of physics and idealism, positing that observation plays a crucial role in the manifestation of reality. The works of physicist John Archibald Wheeler highlight the significance of participatory observation, where the act of measurement and observation brings forth the properties of quantum systems.
+The concept of a participatory universe suggests that reality is not merely an independent existence but is shaped and influenced by observers. This idea bridges the realms of physics and idealism, positing that observation plays a crucial role in the manifestation of reality. The works of physicist John Archibald Wheeler highlight the significance of participatory observation, where the act of measurement and observation brings forth the properties of quantum systems. This perspective challenges the classical dichotomy between observer and observed, suggesting that consciousness is intricately woven into the fabric of reality itself.
 
 # Relevance
-Understanding the participatory universe has profound implications for both science and philosophy. It challenges traditional notions of objective reality and invites a re-evaluation of the relationship between consciousness and the physical world. This perspective opens discussions on the nature of existence, the role of the observer in quantum mechanics, and the interconnectedness of all things.
+The participatory universe supports the view that consciousness is the fundamental, non-local, and interconnected basis of reality. This perspective implies that awareness and intention are not merely byproducts of human cognition but are essential components that shape the very structure of existence. Key contributions from quantum mechanics, particularly those articulated by Wheeler, suggest that the act of observation is not passive but rather an active engagement with the universe. This notion aligns with findings in consciousness studies that propose a non-local aspect of awareness, where the observer's consciousness influences the outcomes of quantum events. Such insights invite a re-evaluation of the interconnectedness of all things, emphasizing that the observer and the observed are part of a unified whole.
 
 # Resources
 ## Books
@@ -19,9 +19,9 @@ Understanding the participatory universe has profound implications for both scie
 - [Institute for Advanced Study](https://www.ias.edu) #TOBE_REVIEWED
 
 ## Videos
-- "The Participatory Universe Explained" - YouTube
-- "John Wheeler: The Man Who Changed Physics" - Documentary
-- "Quantum Mechanics and Consciousness" - Lecture Series
+- "The Participatory Universe Explained" - YouTube #TOBE_REVIEWED
+- "John Wheeler: The Man Who Changed Physics" - Documentary #TOBE_REVIEWED
+- "Quantum Mechanics and Consciousness" - Lecture Series #TOBE_REVIEWED
 - "The Role of the Observer in Quantum Physics" - Educational Video #TOBE_REVIEWED
 
 # Location

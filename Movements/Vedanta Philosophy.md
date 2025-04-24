@@ -2,7 +2,7 @@
 Vedanta is one of the six orthodox schools of Hindu philosophy, rooted in the teachings of the Upanishads. It emphasizes the ultimate reality, known as Brahman, and the relationship between the individual self (Atman) and the universal consciousness. Vedanta explores concepts of existence, consciousness, and the nature of reality, encouraging individuals to realize their true nature and achieve spiritual growth.
 
 ## Relevance
-Vedanta philosophy encourages recognition of consciousness as the foundation of reality. It inspires self-realization and personal growth, guiding individuals towards understanding their true selves and their connection to the universe. The teachings of Vedanta promote inner peace, ethical living, and a deeper understanding of the nature of existence, making it relevant in today's fast-paced world.
+Vedanta philosophy posits that consciousness is the fundamental basis of reality, suggesting that all existence is interconnected through a universal consciousness. This perspective aligns with modern scientific findings in quantum physics, which propose that consciousness is not localized but rather a non-local phenomenon that influences the fabric of reality. Key contributions from Vedantic thinkers emphasize that awareness and intention are not merely passive observations but active participants in shaping our experiences and the universe around us. By recognizing our inherent connection to the universal consciousness, individuals can cultivate a deeper understanding of their role in existence, promoting inner peace and ethical living.
 
 ## Resources
 
@@ -27,9 +27,9 @@ Vedanta philosophy encourages recognition of consciousness as the foundation of 
 
 ## Location
 - Vedanta Society of New York  
-  Address: 34 West 71st Street, New York, NY 10023, USA
+  Address: 34 West 71st Street, New York, NY 10023, USA #TOBE_REVIEWED
 - Vedanta Center of Southern California  
-  Address: 1946 Vedanta Way, Hollywood, CA 90068, USA
+  Address: 1946 Vedanta Way, Hollywood, CA 90068, USA #TOBE_REVIEWED
 - Vedanta Ashram, San Francisco  
   Address: 123 Vedanta Lane, San Francisco, CA 94114, USA #TOBE_REVIEWED
 

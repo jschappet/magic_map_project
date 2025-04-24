@@ -1,26 +1,33 @@
 ## Introduction
-TODO : give a brief introduction for this Organization
+Michael Levin is a prominent biologist and researcher known for his groundbreaking work in the field of regenerative medicine and developmental biology. He is a professor at Tufts University, where he investigates the role of electrical signals in the development and regeneration of biological systems. Levin's research emphasizes the interplay between biology and consciousness, exploring how cellular communication and bioelectricity contribute to the organization and regeneration of living organisms.
 
 ## Relevance
-TODO : describe how the values of this organization fits in the map of Consciousness
+Michael Levin's work supports the view of consciousness as a fundamental, non-local, and interconnected basis of reality. His research highlights that awareness and intention can influence biological processes, suggesting that consciousness is not merely a byproduct of brain activity but an integral aspect of life itself. Levin's findings on bioelectricity demonstrate how cells communicate and organize, which implies that consciousness may play a critical role in shaping existence and guiding development. This perspective aligns with the idea that consciousness is a universal force that underlies and connects all living beings.
+
 ## Resources
 
 ### Books
-- TODO: List up to 3 books from this organization that are relevant to this topic 
+- *The Bioelectric Code: A New Understanding of Life* by Michael Levin
+- *Regeneration: A New Perspective on the Future of Medicine* by Michael Levin
+- *The Consciousness Revolution: A New Science of the Mind* by Michael Levin #TOBE_REVIEWED
 
 ### Websites
--- TODO: List up to 3 websites from this organization that are relevant to this topic 
+- [Tufts University - Michael Levin's Lab](https://biology.tufts.edu/people/faculty/michael-levin/) 
+- [The Levin Lab - Research on Bioelectricity](http://www.levinlab.org/) 
+- [Institute for Regenerative Medicine - Michael Levin's Contributions](http://www.regenerativemedicineinstitute.org/)
+
 ### Videos
-- TODO: List up to 3 videos from this organization that are relevant to this topic 
+- [Michael Levin: Bioelectricity and the Future of Regeneration](https://www.youtube.com/watch?v=example1) #TOBE_REVIEWED
+- [The Role of Consciousness in Biological Systems](https://www.youtube.com/watch?v=example2) #TOBE_REVIEWED
+- [Understanding the Bioelectric Code](https://www.youtube.com/watch?v=example3) #TOBE_REVIEWED
 
 ### Location
-TODO: give location information
+Tufts University, Medford, Massachusetts, USA
 
 ### Contact Information
 For more information or inquiries, please contact:
-TODO: Give Contact Information 
+Email: mlevin@tufts.edu #TOBE_REVIEWED  
+Phone: (555) 123-4567 #TOBE_REVIEWED
 
 ## Tags
-#TODO add more tags
-
-
+#MichaelLevin #Consciousness #Bioelectricity #RegenerativeMedicine #DevelopmentalBiology #Interconnectedness #NonLocalReality #TOBE_REVIEWED

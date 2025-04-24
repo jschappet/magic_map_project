@@ -2,7 +2,7 @@
 Baha’u’llah, the founder of the Baha’i Faith, was born in 1817 in Persia (modern-day Iran). He proclaimed a message of unity, emphasizing the oneness of humanity and the need for universal justice. His teachings encourage spiritual development and the establishment of a harmonious global society. Baha’u’llah's writings and principles have inspired millions around the world to work towards peace, equality, and the betterment of humanity.
 
 ## Relevance
-Baha’u’llah’s emphasis on unity and justice is increasingly relevant in today's world, where societal divisions and conflicts are prevalent. His teachings promote the idea that the spiritual development of individuals is essential for achieving a just and equitable global society. By fostering understanding and cooperation among diverse cultures and religions, Baha’u’llah's vision serves as a guiding light for those seeking to create a more harmonious world.
+Baha’u’llah’s teachings resonate deeply with the view of consciousness as a fundamental, non-local, and interconnected basis of reality. His emphasis on the oneness of humanity suggests that individual consciousness is not separate but rather part of a greater collective awareness. Baha’u’llah’s writings encourage individuals to recognize their interconnectedness and the impact of their intentions on the world around them. This perspective aligns with ideas in modern consciousness studies that propose awareness itself plays a crucial role in shaping existence. By fostering spiritual development, Baha’u’llah's message supports the notion that consciousness can influence social and personal transformation, ultimately contributing to a more just and equitable global society.
 
 ## Resources
 
