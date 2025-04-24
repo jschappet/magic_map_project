@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Contribute.md",
+                "file": "Start Here/How to Contribute.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d8799c722127b8a",
@@ -245,7 +244,7 @@
     "quartz/public/tags/index.html",
     "quartz/public/tags/RaMaterial.html",
     "Start Here/How To Contribute (Direct Access).md",
-    "How to Contribute.md",
+    "Start Here/How to Contribute.md",
     "Spirituality/David McCready.md",
     "Extras/GPT/OrgGen.md",
     "A Course in Miracles.md",
