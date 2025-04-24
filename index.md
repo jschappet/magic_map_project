@@ -25,9 +25,9 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 4. [[Ibn Arabi]] (1165–1240)  
 5. [[Humans/Rumi]] (1207–1273)  
 6. [[Mulla Sadra]] (1571–1640)  
-7. [[Sri Aurobindo]] (1872–1950)  
+7. [[Humans/Sri Aurobindo]] (1872–1950)  
 8. [[Teilhard de Chardin]] (1881–1955)  
-9. [[Neville Goddard]] (1905–1972)
+9. [[Humans/Neville Goddard]] (1905–1972)
 10. [[Humans/Eckhart Tolle]] (b. 1948)  
 11. [[Ram Dass]] (1931–2019)  
 12. [[Joseph Campbell]] (1904–1987)  
@@ -63,7 +63,7 @@ IMPORTANT NOTE: This list is a living document and collaborative work in progres
 1. [[Institute of Noetic Sciences (IONS)  ]]
 2. [[Organizations/The Monroe Institute]]
 3. [[The Center for Consciousness Studies (Arizona)  ]]
-4. [[HeartMath Institute]]
+4. [[Organizations/HeartMath Institute]]
 5. [[Esalen Institute]]
 6. [[The Global Consciousness Project (GCP)  ]]
 
