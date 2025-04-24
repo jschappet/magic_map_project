@@ -2,20 +2,20 @@
 The Hendricks Institute is a leading organization dedicated to personal transformation and consciousness development. Founded by Dr. Gay and Kathlyn Hendricks, the institute offers workshops, training programs, and resources aimed at helping individuals and organizations enhance their emotional intelligence, creativity, and relational skills. Through a blend of psychological principles and practical techniques, the Hendricks Institute promotes a holistic approach to personal and professional growth.
 
 ## Relevance
-The values of the Hendricks Institute align closely with the higher levels of the map of Consciousness, particularly in areas such as love, joy, and peace. Their focus on authentic communication, self-awareness, and connection fosters a deeper understanding of oneself and others, which is essential for raising consciousness. By encouraging individuals to embrace their true selves and cultivate meaningful relationships, the organization contributes to the collective elevation of consciousness.
+The principles espoused by the Hendricks Institute align with the understanding of consciousness as a fundamental, non-local, and interconnected basis of reality. Their emphasis on authentic communication and self-awareness suggests that individual consciousness is not isolated but rather part of a larger, collective awareness. This interconnectedness implies that our thoughts, intentions, and emotions can influence not only our personal experiences but also the broader reality we share with others. By fostering emotional intelligence and relational skills, the institute encourages individuals to recognize their role in shaping existence, highlighting the significance of awareness and intention in the co-creation of life experiences.
 
 ## Resources
 
 ### Books
-- "Conscious Loving: The Journey to Co-Commitment" by Gay Hendricks and Kathlyn Hendricks
-- "The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level" by Gay Hendricks
-- "At the Speed of Life: A New Approach to Personal Transformation" by Gay Hendricks and Kathlyn Hendricks
+- "Conscious Loving: The Journey to Co-Commitment" by Gay Hendricks and Kathlyn Hendricks #TOBE_REVIEWED
+- "The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level" by Gay Hendricks #TOBE_REVIEWED
+- "At the Speed of Life: A New Approach to Personal Transformation" by Gay Hendricks and Kathlyn Hendricks #TOBE_REVIEWED
 - "The Conscious Heart: Seven Soul-Choices That Create Your Relationship" by Gay Hendricks and Kathlyn Hendricks #TOBE_REVIEWED
 
 ### Websites
-- [Hendricks Institute Official Website](https://www.hendricks.com)
-- [Conscious Loving Program](https://www.hendricks.com/conscious-loving)
-- [The Big Leap Resources](https://www.hendricks.com/the-big-leap)
+- [Hendricks Institute Official Website](https://www.hendricks.com) #TOBE_REVIEWED
+- [Conscious Loving Program](https://www.hendricks.com/conscious-loving) #TOBE_REVIEWED
+- [The Big Leap Resources](https://www.hendricks.com/the-big-leap) #TOBE_REVIEWED
 - [Hendricks Institute Blog](https://www.hendricks.com/blog) #TOBE_REVIEWED
 
 ### Videos

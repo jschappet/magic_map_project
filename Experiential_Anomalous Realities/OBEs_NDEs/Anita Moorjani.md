@@ -2,7 +2,7 @@
 Anita Moorjani is a renowned author and speaker known for her transformative experience of healing from terminal cancer after a near-death experience (NDE). In her book, "Dying to Be Me," she shares her journey of self-discovery, healing, and the profound spiritual insights she gained during her NDE. Her message emphasizes the importance of self-love, unity, and living authentically.
 
 # Relevance
-Anita's story resonates with many who seek understanding about life, death, and the nature of existence. Her insights challenge conventional beliefs about illness and healing, promoting a message of hope and empowerment. Moorjani's experience highlights the interconnectedness of all beings and encourages individuals to embrace their true selves.
+Anita Moorjani's experiences and insights support the view of consciousness as a fundamental, non-local, and interconnected basis of reality. Her near-death experience revealed to her the profound truth that our consciousness exists beyond the physical body and that it is intrinsically linked to all beings. Moorjani emphasizes that awareness and intention are powerful forces that shape our existence, suggesting that our thoughts and beliefs can significantly influence our health and overall reality. Her message challenges the conventional understanding of illness, proposing that healing is not merely a physical process but a deeply spiritual one that arises from recognizing our shared consciousness and embracing self-love. This perspective aligns with various philosophical and scientific inquiries into the nature of consciousness, suggesting that it is not confined to the individual but is a collective experience that connects all of us.
 
 # Resources
 ## Books
@@ -24,5 +24,5 @@ Anita Moorjani is based in the United States but travels internationally for spe
 # Contact Information
 For inquiries, speaking engagements, or workshops, please use the contact form available on Anita Moorjani's official website.
 
-#tags
+#tags 
 #AnitaMoorjani #DyingToBeMe #NearDeathExperience #Healing #Spirituality #SelfLove #Unity
