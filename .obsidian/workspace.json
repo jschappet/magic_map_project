@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here/How to Contribute.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to Contribute"
+              "title": "index"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mood",
+                "query": "tag:#Consciousness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9578ef104f32b2ce",
+  "active": "d45433ceb238a746",
   "lastOpenFiles": [
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
@@ -241,10 +242,10 @@
     "quartz/public/static",
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
-    "quartz/public/tags/ParamahansaYogananda.html",
-    "quartz/public/tags/DivineEssence.html",
-    "Start Here/How To Contribute (Direct Access).md",
+    "quartz/public/tags/index.html",
+    "quartz/public/tags/RaMaterial.html",
     "Start Here/How to Contribute.md",
+    "Start Here/How To Contribute (Direct Access).md",
     "Spirituality/David McCready.md",
     "Extras/GPT/OrgGen.md",
     "A Course in Miracles.md",
