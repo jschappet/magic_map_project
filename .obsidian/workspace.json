@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Native American Spiritual Traditions"
             }
+          },
+          {
+            "id": "9fcd48a17868c027",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "556ba8539536b569",
+  "active": "9fcd48a17868c027",
   "lastOpenFiles": [
     "Music Art Culture/Movies/Mickey 17.md",
     "Yogananda.md",
