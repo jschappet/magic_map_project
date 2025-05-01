@@ -90,9 +90,129 @@
               "icon": "lucide-file",
               "title": "Participatory Anthropic Principle"
             }
+          },
+          {
+            "id": "f642ade666c9e3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum information theoretic approach to the hard problem of consciousness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quantum information theoretic approach to the hard problem of consciousness"
+            }
+          },
+          {
+            "id": "1a19ecca2f1b52f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Danko D. Georgiev.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Danko D. Georgiev"
+            }
+          },
+          {
+            "id": "3608e01d72c025de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. David Clements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dr. David Clements"
+            }
+          },
+          {
+            "id": "f349721161934f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rudolf Steiner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rudolf Steiner"
+            }
+          },
+          {
+            "id": "d781ee60245cad8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -264,8 +384,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03cf29a873f219f4",
+  "active": "d781ee60245cad8f",
   "lastOpenFiles": [
+    "Rudolf Steiner.md",
+    "Untitled 3.md",
+    "Dr. David Clements.md",
+    "Danko D. Georgiev.md",
+    "Quantum information theoretic approach to the hard problem of consciousness.md",
+    "Participatory Anthropic Principle.md",
     "Panpsychism.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -286,12 +412,6 @@
     "Synchronicity.md",
     "Stuart Hameroff.md",
     "Stan Grof.md",
-    "Sri Ramana Maharshi.md",
-    "Sri Aurobindo.md",
-    "Spontaneous Healing.md",
-    "Rosicrucianism.md",
-    "Quantum Bayesianism.md",
-    "Psychedelics.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
