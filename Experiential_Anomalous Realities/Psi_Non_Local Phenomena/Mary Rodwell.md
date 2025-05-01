@@ -2,7 +2,7 @@
 Mary Rodwell is a renowned hypnotherapist and researcher specializing in contact events, particularly focusing on children who experience these phenomena. Her work delves into the realms of expanded psychic abilities and non-local awareness, aiming to understand the implications of such experiences on individuals and society as a whole. Through her practice, she has assisted many experiencers in exploring their encounters and the unique abilities that may accompany them.
 
 # Relevance
-Rodwell's research is significant in the field of consciousness studies and ufology, as it provides insights into the experiences of those who claim contact with extraterrestrial beings. By working with children, she highlights the importance of understanding these experiences from an early age and how they can shape an individual's perception of reality. Her findings contribute to a broader understanding of human consciousness and the potential for psychic phenomena.
+Rodwell's research supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. By exploring the experiences of children who claim contact with extraterrestrial beings, she sheds light on the potential of human consciousness to transcend conventional boundaries. Her findings suggest that awareness and intention are pivotal in shaping existence, as many experiencers report enhanced psychic abilities and a greater understanding of their place in the universe. This perspective aligns with the notion that consciousness is not merely a byproduct of brain activity but a fundamental aspect of the universe that influences and shapes reality.
 
 # Resources
 ## Books

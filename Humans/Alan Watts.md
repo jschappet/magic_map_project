@@ -2,7 +2,7 @@
 Alan Watts was a British writer and speaker known for interpreting and popularizing Eastern philosophy for a Western audience. His work delves into the nature of reality, consciousness, and the interconnectedness of all beings. Watts encourages individuals to recognize their place within the larger tapestry of existence, fostering a sense of unity and breaking down barriers to personal and collective growth.
 
 ## Relevance
-Watts' teachings emphasize the importance of understanding oneself as part of a unified whole. By breaking down the artificial barriers that separate individuals from each other and from nature, he promotes personal and collective growth. His philosophy invites us to explore our interconnectedness, encouraging a more harmonious existence and a deeper appreciation for the world around us.
+Watts' teachings profoundly support the view of consciousness as the fundamental, non-local, and interconnected basis of reality. He posits that individual consciousness is not separate from the universal consciousness but is rather a manifestation of it. This perspective suggests that awareness and intention are integral to shaping our experiences and existence. Key contributions from Watts include the idea that the self is an illusion, and true understanding comes from recognizing the interconnectedness of all life. His emphasis on mindfulness and living in the present moment further supports the notion that our consciousness actively participates in the unfolding of reality, shaping our perceptions and experiences.
 
 ## Resources
 

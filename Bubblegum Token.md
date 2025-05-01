@@ -1,10 +1,10 @@
 ## Introduction
 
-The "Bubblegum Token" program is an innovative initiative designed to promote joy and recognition of positive moments within households. By encouraging families and group houses to actively acknowledge and celebrate acts of kindness, humor, and service, we aim to create a more joyful living environment. This program not only fosters connection among household members but also helps individuals develop a deeper appreciation for the small joys in everyday life.
+The "Bubblegum Token" program is an innovative initiative designed to promote joy and recognition of positive moments within households. By encouraging families and group houses to actively acknowledge and celebrate acts of kindness, humor, and service, we aim to create a more joyful living environment. This program not only fosters connection among household members but also helps individuals develop a deeper appreciation for the small joys in everyday life. The initiative is rooted in the understanding that consciousness plays a crucial role in shaping our experiences and interactions, suggesting that our awareness and intentionality can transform the mundane into moments of joy and connection.
 
 ## Relevance
 
-In a fast-paced world where negativity can often overshadow positivity, the "Bubblegum Token" program serves as a reminder to focus on the good. By assigning intrinsic value to joyful moments, families can cultivate a culture of gratitude and appreciation. This initiative is especially relevant as mental health awareness grows, highlighting the importance of recognizing and celebrating joy as a vital component of well-being.
+The "Bubblegum Token" program supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. Research in fields such as quantum physics and consciousness studies suggests that awareness is not merely a byproduct of brain activity but a fundamental aspect of existence that influences our reality. The act of recognizing and celebrating positive moments within a household can be seen as an exercise in intention, where the collective awareness of joy can create a ripple effect, enhancing the overall atmosphere of the living space. This interconnectedness reinforces the idea that our perceptions and intentions shape our experiences, making the acknowledgment of joy not just a personal act but a communal one that enriches the fabric of our shared reality.
 
 ## Resources
 
@@ -12,16 +12,22 @@ In a fast-paced world where negativity can often overshadow positivity, the "Bub
 - "The Book of Joy: Lasting Happiness in a Changing World" by Dalai Lama and Desmond Tutu
 - "The Happiness Project" by Gretchen Rubin
 - "Joyful: The Surprising Power of Ordinary Things to Create Extraordinary Happiness" by Ingrid Fetell Lee
+- "The Power of Now: A Guide to Spiritual Enlightenment" by Eckhart Tolle #TOBE_REVIEWED
+- "Consciousness Beyond Life: The Science of the Near-Death Experience" by Pim van Lommel #TOBE_REVIEWED
 
 ### Websites
 - [Greater Good Science Center](https://greatergood.berkeley.edu/)
 - [Happify](https://www.happify.com/)
 - [Action for Happiness](https://www.actionforhappiness.org/)
+- [Institute of Noetic Sciences](https://noetic.org/) #TOBE_REVIEWED
+- [Consciousness and Healing Initiative](https://www.consciousnessandhealing.org/) #TOBE_REVIEWED
 
 ### Videos
 - "The Science of Happiness" - TEDx Talk by Shawn Achor
 - "The Power of Vulnerability" - TED Talk by Brené Brown
 - "What Makes a Good Life? Lessons from the Longest Study on Happiness" - TED Talk by Robert Waldinger
+- "The Nature of Consciousness" - Documentary featuring various experts #TOBE_REVIEWED
+- "How Consciousness Shapes Reality" - Lecture by Dr. Dean Radin #TOBE_REVIEWED
 
 ## Location
 
@@ -37,8 +43,3 @@ For more information or to express interest in participating in the "Bubblegum T
 
 #tags 
 #TOBE_REVIEWED
-are interested in chatting about it first, agreeing on the model, and then simply giving it a go for a month or two and then reporting back.
-
-If it goes well? Let's expand the concept to more households and let them experience/shape it. If it doesn't, nothing lost other than the explicit recognition of what joy has brought you in your household, or the joy you have brought others. Oh and a tiny bit of time writing something down.
-
-So what do you think? Any volunteers to test this out

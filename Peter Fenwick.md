@@ -1,8 +1,8 @@
 ## Introduction
-Peter Fenwick is a prominent figure in the field of psychology and consciousness studies. He is known for his research on near-death experiences and the nature of consciousness. His work has contributed significantly to our understanding of the mind and its relationship with the brain, challenging conventional views on life, death, and what may lie beyond.
+Peter Fenwick is a prominent figure in the field of psychology and consciousness studies. He is known for his research on near-death experiences and the nature of consciousness. His work has contributed significantly to our understanding of the mind and its relationship with the brain, challenging conventional views on life, death, and what may lie beyond. Fenwick's explorations delve into the complexities of consciousness, suggesting that it may extend beyond the physical confines of the brain and body.
 
 ## Relevance
-Fenwick's research is particularly relevant in today's society as more people seek to understand the complexities of consciousness and the phenomena surrounding death. His findings have implications for psychology, spirituality, and even medicine, as they encourage a more holistic view of human experience and the potential for life after death.
+Fenwick's research supports the view of consciousness as a fundamental, non-local, and interconnected basis of reality. His findings on near-death experiences (NDEs) reveal that consciousness may exist independently of the brain, suggesting a deeper, shared awareness that transcends individual existence. This challenges the materialistic perspective of consciousness being solely a byproduct of neurological processes. Fenwick's work emphasizes the role of awareness and intention in shaping our experiences, proposing that consciousness may influence reality in ways that science has yet to fully understand. This perspective encourages a more holistic view of human experience, bridging the gap between science and spirituality.
 
 ## Resources
 

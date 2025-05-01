@@ -4,7 +4,7 @@ Emmanuel Kant (1724-1804) was a German philosopher who is considered one of the 
 
 # Relevance
 
-Kant's ideas continue to be relevant today, influencing contemporary debates in philosophy, politics, and ethics. His concepts of autonomy, moral imperatives, and the categorical imperative are foundational in discussions about human rights and moral responsibility. Additionally, his thoughts on the nature of knowledge and perception challenge us to consider the ways in which we understand reality and our place within it.
+Kant's philosophy supports the view of consciousness as a fundamental aspect of reality by emphasizing the active role of the mind in shaping our understanding of the world. His idea that knowledge arises from the synthesis of sensory experience and innate concepts suggests that consciousness is not merely a passive receiver of information but an active participant in constructing reality. Kant's notion of the "transcendental unity of apperception" indicates that self-awareness and the ability to reflect on one's own thoughts are crucial for coherent experience. This aligns with contemporary views that posit consciousness as a non-local and interconnected foundation of existence, where awareness and intention significantly influence the fabric of reality. Kant's exploration of moral imperatives also highlights the interconnectedness of individuals, as ethical considerations arise from a shared rational capacity, suggesting that our intentions and actions contribute to a collective moral framework.
 
 # Resources
 

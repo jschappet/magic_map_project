@@ -2,7 +2,7 @@
 Joseph Campbell was a renowned American mythologist, writer, and lecturer, best known for his work in comparative mythology and religion. His influential book, "The Hero with a Thousand Faces," introduced the concept of the "monomyth" or "hero's journey," a universal narrative structure that transcends cultures and time. Campbell's insights have inspired countless individuals to explore their own personal journeys and transformations, connecting mythological storytelling with the human experience.
 
 ## Relevance
-Campbell's work remains profoundly relevant in today's society as individuals seek meaning and purpose in their lives. By following their own "hero's journey," people can navigate personal challenges, embrace growth, and contribute to societal transformation. His teachings encourage self-discovery, resilience, and the understanding that each person's life is a unique story filled with trials, tribulations, and triumphs.
+Campbell's work supports the view of consciousness as a fundamental, non-local, and interconnected basis of reality. His exploration of myth and storytelling reveals that narratives are not just tales but reflections of a shared human consciousness that transcends individual experiences. The hero's journey illustrates how individuals navigate through trials and transformations, suggesting that awareness and intention are pivotal in shaping one's existence. By engaging with these archetypal stories, individuals can tap into a collective consciousness, fostering a sense of interconnectedness and shared purpose. Campbell's ideas encourage the understanding that our personal journeys contribute to a larger tapestry of human experience, emphasizing the role of intention and awareness in manifesting reality.
 
 ## Resources
 

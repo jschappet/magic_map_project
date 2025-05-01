@@ -2,7 +2,7 @@
 Eckhart Tolle is a renowned spiritual teacher and author, best known for his groundbreaking book, "The Power of Now." His teachings focus on the importance of living in the present moment and transcending the egoic mind to experience a deeper state of consciousness. Tolle's spontaneous awakening led him to understand the nature of awareness and the role it plays in human existence.
 
 # Relevance
-Tolle's work has gained significant traction in the fields of spirituality and self-help, providing individuals with tools to alleviate suffering and cultivate inner peace. His teachings resonate with those seeking a more profound understanding of their existence and the nature of reality. The principles he outlines can help individuals navigate the challenges of modern life by fostering mindfulness and presence.
+Tolle's work supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. He emphasizes that true awareness transcends the individual ego, revealing a shared consciousness that connects all beings. His teachings suggest that by cultivating mindfulness and presence, individuals can tap into this deeper layer of reality, thereby influencing their experiences and the world around them. Key contributions from Tolle include the idea that intention and awareness are not merely passive observations but active forces that shape existence. This perspective aligns with various spiritual and scientific frameworks that recognize consciousness as a primary element in understanding the universe.
 
 # Resources
 ## Books

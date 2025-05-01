@@ -1,10 +1,10 @@
 ## Introduction
 
-The concept of "alignment" in contact with non-human intelligence (NHI) encompasses the idea that individuals can enhance their ability to perceive and interact with NHIs by refining their consciousness. This alignment involves harmonizing one's mind, body, and spirit to resonate with higher frequencies or non-ordinary realities. Through practices such as meditation, emotional coherence, and ethical living, individuals may create the optimal conditions for contact or synchronicity with NHIs.
+The concept of "alignment" in contact with non-human intelligence (NHI) encompasses the idea that individuals can enhance their ability to perceive and interact with NHIs by refining their consciousness. This alignment involves harmonizing one's mind, body, and spirit to resonate with higher frequencies or non-ordinary realities. Through practices such as meditation, emotional coherence, and ethical living, individuals may create the optimal conditions for contact or synchronicity with NHIs. The exploration of alignment is rooted in the understanding that consciousness is not merely a byproduct of physical processes but a fundamental aspect of reality that transcends individual experience.
 
 ## Relevance
 
-Understanding alignment is crucial for those interested in exploring the phenomenon of NHI contact. It offers a framework for personal growth, spiritual development, and the potential for profound experiences that can broaden our understanding of consciousness and our place in the universe. By cultivating alignment, individuals may not only enhance their own lives but also contribute to a collective awareness that can facilitate greater communication with non-human intelligences.
+Understanding alignment is crucial for those interested in exploring the phenomenon of NHI contact, as it supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. This perspective posits that consciousness is not confined to the individual mind but exists as a universal field that connects all beings. Key contributions from various fields—including quantum physics, spirituality, and consciousness studies—suggest that awareness and intention play significant roles in shaping existence. The alignment process fosters a heightened state of awareness, enabling individuals to tap into this universal consciousness. This interconnectedness implies that our thoughts, emotions, and intentions can influence not only our personal experiences but also the broader fabric of reality, potentially facilitating contact with NHIs. The practices of alignment, therefore, serve as a bridge to understanding the nature of consciousness and our place within the cosmos, highlighting the profound potential of human awareness to interact with non-human intelligences.
 
 ## Resources
 
@@ -42,15 +42,7 @@ For inquiries or to connect with like-minded individuals, consider reaching out 
 
 #tags 
 #TOBE_REVIEWED
-ns **healthy routines – ample sleep, meditation, avoiding caffeine/alcohol – to keep his mind quiet and receptive**​
-    
-    [medium.com](https://medium.com/robert-gibb/american-cosmic-by-d-w-pasulka-9ec05eee608c#:~:text=,Quote%20from%20Tyler%20in%20book)
-    
-    . If he is out of balance, “the signal...is distorted.” In his words: _“So, in order to receive the signals... we have to tune our physical bodies and DNA... I sleep for eight hours... I barely drink alcohol... and I never drink coffee. Coffee really messes up the signal.”_​
-    
-    [medium.com](https://medium.com/robert-gibb/american-cosmic-by-d-w-pasulka-9ec05eee608c#:~:text=,Quote%20from%20Tyler%20in%20book)
-    
-    . This illustrates alignment as _literal attunement_: by **aligning body and mind to a harmonious state**, one may access a “subtle and good” source of knowledge he equates with the divine​
+ay access a “subtle and good” source of knowledge he equates with the divine​
     
     [medium.com](https://medium.com/robert-gibb/american-cosmic-by-d-w-pasulka-9ec05eee608c#:~:text=rest%20and%20not%20over,%E2%80%9Ca%20source%E2%80%9D%20that%20is%20alien)
     

@@ -1,5 +1,13 @@
 
-Contributing to a project can be a rewarding experience, allowing you to improve your skills and collaborate with others. This guide will help you install Obsidian, set up useful plugins, clone the repository, create a pull request, and request write access to the repository.
+Contributing to a project can be a rewarding experience, allowing you to improve your skills and collaborate with others. 
+
+To add an entry complete this form, fill out as little or as much as you would like. 
+[I want to Contribute](https://www.schappet.com/m/start)
+
+
+The rest of this guide will help contribute directly to the Map. 
+
+Install Obsidian, set up useful plugins, clone the repository, create a pull request, and request write access to the repository.
 
 ## Install Obsidian
 

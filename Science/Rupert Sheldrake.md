@@ -2,7 +2,7 @@
 Rupert Sheldrake is a biochemist and author known for his controversial ideas in the field of science, particularly concerning the nature of consciousness and the concept of morphic resonance. His work challenges traditional scientific paradigms and proposes that memory and habits are not solely confined to individual organisms but are influenced by collective memory across species.
 
 # Relevance
-Sheldrake's theories have sparked significant debate within both scientific and philosophical communities. His ideas about morphic fields and the interconnectedness of life have implications for understanding evolution, behavior, and even the nature of reality itself. His work encourages a re-examination of how we perceive the relationship between mind and matter, as well as the boundaries of scientific inquiry.
+Sheldrake's theories support the view that consciousness is a fundamental, non-local, and interconnected aspect of reality. His concept of morphic resonance suggests that all living beings are linked through a shared field of information that transcends individual experiences. This interconnectedness implies that awareness and intention are not isolated phenomena but play a crucial role in shaping existence. By proposing that habits and memories are influenced by collective experiences, Sheldrake invites a re-evaluation of how consciousness interacts with the material world, suggesting that our thoughts and intentions can resonate beyond the confines of our individual minds.
 
 # Resources
 ## Books
@@ -10,7 +10,6 @@ Sheldrake's theories have sparked significant debate within both scientific and 
 - "The Presence of the Past: Morphic Resonance and the Habits of Nature" by Rupert Sheldrake
 - "Science Set Free: 10 Paths to New Discovery" by Rupert Sheldrake
 - "The Science Delusion: Freeing the Spirit of Inquiry" by Rupert Sheldrake
-#TOBE_REVIEWED
 
 ## Websites
 - [Rupert Sheldrake's Official Website](https://www.sheldrake.org) #TOBE_REVIEWED

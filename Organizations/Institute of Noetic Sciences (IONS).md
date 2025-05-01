@@ -2,7 +2,7 @@
 The Institute of Noetic Sciences (IONS) is a pioneering organization dedicated to exploring the intersection of science and spirituality. Founded in 1973 by astronaut Edgar Mitchell, IONS conducts research on consciousness and its implications for personal and collective growth. Through rigorous scientific inquiry and experiential practices, IONS aims to deepen our understanding of consciousness and its potential to transform individual lives and society.
 
 ## Relevance
-Advances in consciousness research foster a bridge between science and spirituality, promoting personal and collective growth. IONS engages in innovative studies that challenge conventional paradigms and encourage holistic approaches to understanding human experience. By integrating scientific findings with spiritual insights, IONS contributes to a more comprehensive understanding of consciousness, which can lead to enhanced well-being and interconnectedness among individuals and communities.
+The exploration of consciousness at IONS supports the view that consciousness is the fundamental, non-local, and interconnected basis of reality. Research conducted by IONS emphasizes that consciousness is not merely a byproduct of brain activity but rather a fundamental aspect of existence that transcends physical boundaries. Key contributions include studies that demonstrate how intention and awareness can influence physical reality, suggesting that consciousness plays an active role in shaping existence. This perspective challenges conventional materialistic views and opens pathways for understanding the interconnectedness of all beings, fostering a sense of unity and collective growth.
 
 ## Resources
 
