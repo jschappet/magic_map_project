@@ -54,9 +54,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "d422990a8b5f273d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Untitled 2.md",
+                "bFile": "Untitled 2.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -229,8 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d45433ceb238a746",
+  "active": "d422990a8b5f273d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "index.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
@@ -243,7 +261,6 @@
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
     "quartz/public/tags/index.html",
-    "quartz/public/tags/RaMaterial.html",
     "Start Here/How to Contribute.md",
     "Start Here/How To Contribute (Direct Access).md",
     "Spirituality/David McCready.md",
@@ -259,7 +276,6 @@
     "Solipsism.md",
     "Remote Viewing.md",
     "Wave Function Collapse.md",
-    "conflict-files-obsidian-git.md",
     "simulation theory.md",
     "Yogananda.md",
     "Untitled.md",
@@ -267,8 +283,6 @@
     "The Surender Experiment.md",
     "The Seth Material.md",
     "The Power of Now.md",
-    "The Holographic Universe.md",
-    "The Hard Problem of Consciousness.md",
     "quartz/public/Extras/Images/StageChanges.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
