@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Positive Geometries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,11 +208,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "Positive Geometries"
+            }
+          },
+          {
+            "id": "15e2b18f70e04174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annaka Harris.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Annaka Harris"
+            }
+          },
+          {
+            "id": "5993ce208261216d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microtubules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Microtubules"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -384,10 +432,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d781ee60245cad8f",
+  "active": "5993ce208261216d",
   "lastOpenFiles": [
+    "Annaka Harris.md",
+    "Microtubules.md",
+    "Positive Geometries.md",
     "Rudolf Steiner.md",
-    "Untitled 3.md",
     "Dr. David Clements.md",
     "Danko D. Georgiev.md",
     "Quantum information theoretic approach to the hard problem of consciousness.md",
@@ -410,8 +460,6 @@
     "Terence McKenna.md",
     "Telepathy.md",
     "Synchronicity.md",
-    "Stuart Hameroff.md",
-    "Stan Grof.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
