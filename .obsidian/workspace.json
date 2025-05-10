@@ -1,0 +1,485 @@
+{
+  "main": {
+    "id": "e2d437a1febc5235",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a2754c0676c158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556ba8539536b569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start Here/How To Contribute (Direct Access).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How To Contribute (Direct Access)"
+            }
+          },
+          {
+            "id": "cd2e9e8dfb505e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d422990a8b5f273d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Untitled 2.md",
+                "bFile": "Untitled 2.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled 2"
+            }
+          },
+          {
+            "id": "f642ade666c9e3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum information theoretic approach to the hard problem of consciousness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quantum information theoretic approach to the hard problem of consciousness"
+            }
+          },
+          {
+            "id": "1a19ecca2f1b52f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Danko D. Georgiev.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Danko D. Georgiev"
+            }
+          },
+          {
+            "id": "3608e01d72c025de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. David Clements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dr. David Clements"
+            }
+          },
+          {
+            "id": "f349721161934f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rudolf Steiner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rudolf Steiner"
+            }
+          },
+          {
+            "id": "d781ee60245cad8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Positive Geometries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Positive Geometries"
+            }
+          },
+          {
+            "id": "15e2b18f70e04174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annaka Harris.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Annaka Harris"
+            }
+          },
+          {
+            "id": "5993ce208261216d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microtubules.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Microtubules"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5cd217de83ca4e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c1f073d9509caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2eb2be1e1fce60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d45433ceb238a746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Consciousness",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4ddd30f1e485e6d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8799c722127b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01b5ed2fbd86279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad43ec651e70f142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "7192c2bcd54261f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humans/Adi Shankaracharya.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adi Shankaracharya"
+            }
+          },
+          {
+            "id": "b4076c20c2ee3be8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f092ec176220a26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "f2b53cf29fc125c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9578ef104f32b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5993ce208261216d",
+  "lastOpenFiles": [
+    "Annaka Harris.md",
+    "Microtubules.md",
+    "Positive Geometries.md",
+    "Rudolf Steiner.md",
+    "Dr. David Clements.md",
+    "Danko D. Georgiev.md",
+    "Quantum information theoretic approach to the hard problem of consciousness.md",
+    "Participatory Anthropic Principle.md",
+    "Panpsychism.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Music Art Culture/Movies/Mickey 17.md",
+    "Yogananda.md",
+    "Untitled.md",
+    "The Untethered Soul.md",
+    "The Surender Experiment.md",
+    "The Seth Material.md",
+    "The Power of Now.md",
+    "The Holographic Universe.md",
+    "The Hard Problem of Consciousness.md",
+    "The Great Simulation.md",
+    "The Collective Unconscious.md",
+    "The Case Against Reality.md",
+    "Terence McKenna.md",
+    "Telepathy.md",
+    "Synchronicity.md",
+    "quartz/public/404.html",
+    "quartz/public/org_list.csv",
+    "quartz/public/static/giscus/light.css",
+    "quartz/public/static/giscus/dark.css",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/public/static/giscus",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/static",
+    "quartz/public/index.xml",
+    "quartz/public/sitemap.xml",
+    "quartz/public/tags/index.html",
+    "Start Here/How to Contribute.md",
+    "Start Here/How To Contribute (Direct Access).md",
+    "Spirituality/David McCready.md",
+    "Extras/GPT/OrgGen.md",
+    "A Course in Miracles.md",
+    "Start Here/What Sparked MAGIC.md",
+    "Start Here/How to Install Plugins.md",
+    "Start Here/Connecting with GitHub.md",
+    "Extras/Instructions/Refresh Git Push Changes.md",
+    "Rosicrucianism.md",
+    "Native American Spiritual Traditions.md",
+    "Be Here Now.md",
+    "Solipsism.md",
+    "Remote Viewing.md",
+    "Wave Function Collapse.md",
+    "simulation theory.md",
+    "Yogananda.md",
+    "Untitled.md",
+    "The Untethered Soul.md",
+    "The Surender Experiment.md",
+    "The Seth Material.md",
+    "The Power of Now.md",
+    "quartz/public/Extras/Images/StageChanges.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.59.53-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-8.55.24-AM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-6.03.02-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-5.30.53-PM.png",
+    "quartz/public/Extras/Images/Screenshot-2025-03-21-at-4.44.14-PM.png"
+  ]
+}

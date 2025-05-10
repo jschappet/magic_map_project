@@ -2,7 +2,7 @@
 The Institute of Noetic Sciences (IONS) is a pioneering organization dedicated to exploring the intersection of science and spirituality. Founded in 1973 by astronaut Edgar Mitchell, IONS conducts research on consciousness and its implications for personal and collective growth. Through rigorous scientific inquiry and experiential practices, IONS aims to deepen our understanding of consciousness and its potential to transform individual lives and society.
 
 ## Relevance
-Advances in consciousness research foster a bridge between science and spirituality, promoting personal and collective growth. IONS engages in innovative studies that challenge conventional paradigms and encourage holistic approaches to understanding human experience. By integrating scientific findings with spiritual insights, IONS contributes to a more comprehensive understanding of consciousness, which can lead to enhanced well-being and interconnectedness among individuals and communities.
+The exploration of consciousness at IONS supports the view that consciousness is the fundamental, non-local, and interconnected basis of reality. Research conducted by IONS emphasizes that consciousness is not merely a byproduct of brain activity but rather a fundamental aspect of existence that transcends physical boundaries. Key contributions include studies that demonstrate how intention and awareness can influence physical reality, suggesting that consciousness plays an active role in shaping existence. This perspective challenges conventional materialistic views and opens pathways for understanding the interconnectedness of all beings, fostering a sense of unity and collective growth.
 
 ## Resources
 
@@ -16,6 +16,9 @@ Advances in consciousness research foster a bridge between science and spiritual
 - **"The Field" by Lynne McTaggart**  
   Discusses the science of the energy field that connects all living things.
 
+- **"Consciousness Beyond Life" by Pim van Lommel**  
+  Examines near-death experiences and their implications for understanding consciousness. #TOBE_REVIEWED
+
 ### Websites
 - [Institute of Noetic Sciences](https://noetic.org)  
   The official site of IONS, featuring research, events, and educational resources.
@@ -23,12 +26,18 @@ Advances in consciousness research foster a bridge between science and spiritual
 - [Noetic Sciences Research](https://noetic.org/research)  
   A dedicated section for exploring the latest studies and findings in consciousness research.
 
+- [Noetic Blog](https://noetic.org/blog)  
+  Offers articles and insights on consciousness, spirituality, and personal growth. #TOBE_REVIEWED
+
 ### Videos
 - **"The Science of Consciousness" - IONS Conference 2021**  
   A recorded session featuring leading researchers discussing consciousness.
 
 - **"Transforming Consciousness" - IONS Webinar Series**  
   A series of webinars that delve into various aspects of consciousness and spirituality.
+
+- **"Exploring Consciousness: A Panel Discussion" - IONS 2022**  
+  A panel of experts discussing the latest findings in consciousness research. #TOBE_REVIEWED
 
 ## Location
 Institute of Noetic Sciences  

@@ -1,27 +1,45 @@
-I would like your help to start a community-inspired program on promoting joy in our everyday lives. This came off the back of conversations with a number of you in my everyday life in the community, whether that's around Evatt Shops or catching up with the locals along the path.
+## Introduction
 
-The ask? I'd like 4-5 family or group-houses volunteers to participate in the program. No money required. Just the activity of giving good will inside of your household. But everyone in the house would need to participate.
+The "Bubblegum Token" program is an innovative initiative designed to promote joy and recognition of positive moments within households. By encouraging families and group houses to actively acknowledge and celebrate acts of kindness, humor, and service, we aim to create a more joyful living environment. This program not only fosters connection among household members but also helps individuals develop a deeper appreciation for the small joys in everyday life. The initiative is rooted in the understanding that consciousness plays a crucial role in shaping our experiences and interactions, suggesting that our awareness and intentionality can transform the mundane into moments of joy and connection.
 
-Here's the idea:
+## Relevance
 
-In our every day lives, the act of recognising moments of "joy" has become so under-valued that many of us struggle to see joy anymore or to properly stop and recognise a moment of gesture or good will. So the idea is to simply give "Joy" an intrinsic value in your household.
+The "Bubblegum Token" program supports the view of consciousness as the fundamental, non-local, and interconnected basis of reality. Research in fields such as quantum physics and consciousness studies suggests that awareness is not merely a byproduct of brain activity but a fundamental aspect of existence that influences our reality. The act of recognizing and celebrating positive moments within a household can be seen as an exercise in intention, where the collective awareness of joy can create a ripple effect, enhancing the overall atmosphere of the living space. This interconnectedness reinforces the idea that our perceptions and intentions shape our experiences, making the acknowledgment of joy not just a personal act but a communal one that enriches the fabric of our shared reality.
 
-The program is yet to be fully developed, and I would like anyone's input that they'd like to share, but in essence it might work as follows:
+## Resources
 
-1. Every month your household members are given a number of tokens. For arguments sake, and to avoid thinking of them as currency, let's call them "Bubblegum" tokens.
-2. ﻿﻿﻿Your Bubblegum expires at the end of the month.
-3. ﻿﻿﻿You spend your Bubblegum when someone in your house does something that brings you joy. 
-4. 
+### Books
+- "The Book of Joy: Lasting Happiness in a Changing World" by Dalai Lama and Desmond Tutu
+- "The Happiness Project" by Gretchen Rubin
+- "Joyful: The Surprising Power of Ordinary Things to Create Extraordinary Happiness" by Ingrid Fetell Lee
+- "The Power of Now: A Guide to Spiritual Enlightenment" by Eckhart Tolle #TOBE_REVIEWED
+- "Consciousness Beyond Life: The Science of the Near-Death Experience" by Pim van Lommel #TOBE_REVIEWED
 
-need to be classical - as in gifts - but it could be a funny joke, it could be a kind gesture, it could be an act of service - and it doesn't matter what it is, as long as it brought you joy.
+### Websites
+- [Greater Good Science Center](https://greatergood.berkeley.edu/)
+- [Happify](https://www.happify.com/)
+- [Action for Happiness](https://www.actionforhappiness.org/)
+- [Institute of Noetic Sciences](https://noetic.org/) #TOBE_REVIEWED
+- [Consciousness and Healing Initiative](https://www.consciousnessandhealing.org/) #TOBE_REVIEWED
 
-1. ﻿﻿﻿You write down in a ledger (a piece of paper) the transaction, and the reason it brought you joy at the time that it happens. You gift that person your Bubblegum.
-2. ﻿﻿﻿You can't spend Bubblegum on yourself. You can only spend it by gifting it to someone.
-3. ﻿﻿﻿At the end of the month, you tally up the Bubblegum tokens in the house and whoever has the most gets what my family likes to call "A Yes Day" - and it's a day to celebrate that person, or people, that collected the most tokens. But your reward system might vary.
-4. ﻿﻿﻿New month, everything resets and we start again.
+### Videos
+- "The Science of Happiness" - TEDx Talk by Shawn Achor
+- "The Power of Vulnerability" - TED Talk by Brené Brown
+- "What Makes a Good Life? Lessons from the Longest Study on Happiness" - TED Talk by Robert Waldinger
+- "The Nature of Consciousness" - Documentary featuring various experts #TOBE_REVIEWED
+- "How Consciousness Shapes Reality" - Lecture by Dr. Dean Radin #TOBE_REVIEWED
 
-Again, this is just the concept and anything is changeable, but l'm looking for 4-5 families or group houses that are interested in chatting about it first, agreeing on the model, and then simply giving it a go for a month or two and then reporting back.
+## Location
 
-If it goes well? Let's expand the concept to more households and let them experience/shape it. If it doesn't, nothing lost other than the explicit recognition of what joy has brought you in your household, or the joy you have brought others. Oh and a tiny bit of time writing something down.
+The "Bubblegum Token" program is designed to be implemented within households or group living situations. While the program can begin in any community, it is particularly focused on the Evatt Shops area and surrounding neighborhoods. Participants are encouraged to connect with local families to foster a sense of community and shared experience.
 
-So what do you think? Any volunteers to test this out
+## Contact Information
+
+For more information or to express interest in participating in the "Bubblegum Token" program, please contact:
+
+- Name: [Your Name]
+- Email: [Your Email]
+- Phone: [Your Phone Number]
+
+#tags 
+#TOBE_REVIEWED
