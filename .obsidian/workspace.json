@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the law of one.md",
+                "file": "Music Art Culture/Movies/The Tree of Life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "the law of one"
+              "title": "The Tree of Life"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#consciousness",
+                "query": "#consciousness",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,8 +291,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -411,8 +410,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d45433ceb238a746",
+  "active": "bf2eb2be1e1fce60",
   "lastOpenFiles": [
+    "the law of one.md",
     "Stephan Schwartz.md",
     "Music Art Culture/soulscienceconnect.md",
     "Philosophy/Philip Goff.md",
@@ -450,7 +450,6 @@
     "Yogananda.md",
     "Untitled.md",
     "The Untethered Soul.md",
-    "The Surender Experiment.md",
     "quartz/public/Extras/Images/StageChanges.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
