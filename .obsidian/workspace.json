@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microtubules.md",
+                "file": "Humans/John Vervaeke.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Microtubules"
+              "title": "John Vervaeke"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Consciousness",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,8 +291,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -411,10 +410,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5993ce208261216d",
+  "active": "bf2eb2be1e1fce60",
   "lastOpenFiles": [
-    "Annaka Harris.md",
+    "quartz/public/404.html",
+    "quartz/public/org_list.csv",
+    "quartz/public/static/giscus/light.css",
+    "quartz/public/static/giscus/dark.css",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/public/static/giscus",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/static",
+    "quartz/public/index.xml",
+    "quartz/public/sitemap.xml",
+    "quartz/public/tags/DreamExploration.html",
+    "quartz/public/tags/theory.html",
     "Microtubules.md",
+    "Humans/John Vervaeke.md",
+    "Annaka Harris.md",
     "Positive Geometries.md",
     "Rudolf Steiner.md",
     "Dr. David Clements.md",
@@ -437,42 +450,6 @@
     "The Collective Unconscious.md",
     "The Case Against Reality.md",
     "Terence McKenna.md",
-    "Telepathy.md",
-    "Synchronicity.md",
-    "quartz/public/404.html",
-    "quartz/public/org_list.csv",
-    "quartz/public/static/giscus/light.css",
-    "quartz/public/static/giscus/dark.css",
-    "quartz/public/static/og-image.png",
-    "quartz/public/static/icon.png",
-    "quartz/public/static/giscus",
-    "quartz/public/static/contentIndex.json",
-    "quartz/public/static",
-    "quartz/public/index.xml",
-    "quartz/public/sitemap.xml",
-    "quartz/public/tags/index.html",
-    "Start Here/How to Contribute.md",
-    "Start Here/How To Contribute (Direct Access).md",
-    "Spirituality/David McCready.md",
-    "Extras/GPT/OrgGen.md",
-    "A Course in Miracles.md",
-    "Start Here/What Sparked MAGIC.md",
-    "Start Here/How to Install Plugins.md",
-    "Start Here/Connecting with GitHub.md",
-    "Extras/Instructions/Refresh Git Push Changes.md",
-    "Rosicrucianism.md",
-    "Native American Spiritual Traditions.md",
-    "Be Here Now.md",
-    "Solipsism.md",
-    "Remote Viewing.md",
-    "Wave Function Collapse.md",
-    "simulation theory.md",
-    "Yogananda.md",
-    "Untitled.md",
-    "The Untethered Soul.md",
-    "The Surender Experiment.md",
-    "The Seth Material.md",
-    "The Power of Now.md",
     "quartz/public/Extras/Images/StageChanges.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",
