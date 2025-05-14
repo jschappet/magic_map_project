@@ -26,4 +26,4 @@ Philip Goff is currently based in the United Kingdom, where he is affiliated wit
 For inquiries, Philip Goff can be contacted through his personal website or academic email, which is typically provided on institutional pages. #TOBE_REVIEWED
 
 #tags 
-#philosophy #consciousness #panpsychism #PhilipGoff #mindbodyproblem
+#philosophy #Consciousness #panpsychism #PhilipGoff #mindbodyproblem

@@ -32,4 +32,4 @@ For inquiries or further discussion about solipsism, please contact:
 - Phone: (123) 456-7890 #TOBE_REVIEWED
 
 #tags 
-#solipsism #philosophy #existence #consciousness #metaphysics
+#solipsism #philosophy #existence #Consciousness #metaphysics

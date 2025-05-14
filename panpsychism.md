@@ -32,4 +32,4 @@ For inquiries related to panpsychism, you can reach out to:
 - Social Media: [Twitter](https://twitter.com/panpsychism) | [Facebook](https://facebook.com/panpsychism)
 
 #tags 
-#panpsychism #philosophy #consciousness #mind #resources #books #websites #videos #contact
+#panpsychism #philosophy #Consciousness #mind #resources #books #websites #videos #contact

@@ -33,4 +33,4 @@ Email: info@acim.org
 Phone: (707) 778-8899  
 
 ## Tags
-#ACIM #A_Course_in_Miracles #spirituality #consciousness #forgiveness #inner_peace #self_study #transformation #interconnectedness #awareness
+#ACIM #A_Course_in_Miracles #spirituality #Consciousness #forgiveness #inner_peace #self_study #transformation #interconnectedness #awareness

@@ -30,4 +30,4 @@ For inquiries or further information about "Everything Everywhere All at Once," 
 - Social Media: [Twitter](https://twitter.com/your_twitter_link), [Instagram](https://instagram.com/your_instagram_link) #TOBE_REVIEWED
 
 #tags 
-#multiverse #identity #existence #consciousness #selfdiscovery #family #adventure #sci-fi #drama #comedy
+#multiverse #identity #existence #Consciousness #selfdiscovery #family #adventure #sci-fi #drama #comedy

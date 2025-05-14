@@ -40,4 +40,4 @@ Phone: [123-456-7890]
 Website: [www.stephanschwartz.com]
 
 #tags 
-#remoteviewing #consciousness #research #ESP #anomalouscognition #StephanSchwartz #psychicphenomena #science #metaphysics #parapsychology
+#remoteviewing #Consciousness #research #ESP #anomalouscognition #StephanSchwartz #psychicphenomena #science #metaphysics #parapsychology

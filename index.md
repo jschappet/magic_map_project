@@ -18,6 +18,6 @@ To the left there is a table of contents and a place for you to search.
 
 Or you can start diving into one of your favorite tags:
 
-## #consciousness 
+## #Consciousness 
 ## #spirituality  
 

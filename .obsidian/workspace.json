@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humans/John Vervaeke.md",
+                "file": "the law of one.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John Vervaeke"
+              "title": "the law of one"
             }
           }
         ],
@@ -270,8 +270,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#consciousness",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -291,7 +291,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -410,8 +411,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf2eb2be1e1fce60",
+  "active": "d45433ceb238a746",
   "lastOpenFiles": [
+    "Stephan Schwartz.md",
+    "Music Art Culture/soulscienceconnect.md",
+    "Philosophy/Philip Goff.md",
+    "Solipsism.md",
+    "index.md",
+    "panpsychism.md",
+    "Music Art Culture/Movies/Everything Everywhere All at Once.md",
+    "Advaita Vedanta.md",
+    "A Course in Miracles.md",
+    "Humans/John Vervaeke.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
@@ -423,10 +434,8 @@
     "quartz/public/static",
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
-    "quartz/public/tags/DreamExploration.html",
-    "quartz/public/tags/theory.html",
+    "quartz/public/tags/index.html",
     "Microtubules.md",
-    "Humans/John Vervaeke.md",
     "Annaka Harris.md",
     "Positive Geometries.md",
     "Rudolf Steiner.md",
@@ -442,14 +451,6 @@
     "Untitled.md",
     "The Untethered Soul.md",
     "The Surender Experiment.md",
-    "The Seth Material.md",
-    "The Power of Now.md",
-    "The Holographic Universe.md",
-    "The Hard Problem of Consciousness.md",
-    "The Great Simulation.md",
-    "The Collective Unconscious.md",
-    "The Case Against Reality.md",
-    "Terence McKenna.md",
     "quartz/public/Extras/Images/StageChanges.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.11.48-AM.png",
     "quartz/public/Extras/Images/Screenshot-2025-03-21-at-9.01.46-AM.png",

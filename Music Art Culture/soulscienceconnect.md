@@ -36,4 +36,4 @@ Soul Science Connect operates primarily online, allowing individuals from around
 For inquiries, collaborations, or feedback, please reach out to us via email at info@soulscienceconnect.com or through our social media channels on Instagram, Facebook, and Twitter.
 
 #tags 
-#soulscienceconnect #spirituality #science #holistichealth #consciousness #community #resources
+#soulscienceconnect #spirituality #science #holistichealth #Consciousness #community #resources
