@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Art Culture/Movies/The Tree of Life.md",
+                "file": "Organizations/Vedanta Schools of Thought.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Tree of Life"
+              "title": "Vedanta Schools of Thought"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#consciousness",
+                "query": "Vedantic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,7 +291,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -410,8 +411,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9578ef104f32b2ce",
+  "active": "5993ce208261216d",
   "lastOpenFiles": [
+    "Music Art Culture/Movies/The Tree of Life.md",
     "quartz/public/404.html",
     "quartz/public/org_list.csv",
     "quartz/public/static/giscus/light.css",
@@ -424,7 +426,6 @@
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
     "quartz/public/tags/index.html",
-    "quartz/public/tags/transformation.html",
     "the law of one.md",
     "Stephan Schwartz.md",
     "Music Art Culture/soulscienceconnect.md",
