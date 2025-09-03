@@ -1,0 +1,1 @@
+# Quantum information theoretic approach to the hard problem of consciousness

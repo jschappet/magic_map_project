@@ -2,5 +2,7 @@
   "userIgnoreFilters": [
     "quartz/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }
